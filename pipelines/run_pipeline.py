@@ -12,7 +12,8 @@ if str(_REPO_ROOT) not in sys.path:
 from scripts.download_poslanci import download_file, unpack_zip, DEFAULT_URL
 from scripts.standardize_poslanci import standardize
 from scripts.validate_tables import validate_from_config
-from scripts.upload_b2 import upload_file
+from scripts.upload_b2 import prune_snapshots, upload_file
+from scripts.utils_env import load_dotenv
 from scripts.analyses.run_all import run_all
 from scripts.validate_analysis_current_members import validate_outputs
 from scripts.validate_analysis_current_groups import validate_current_groups_json
@@ -60,6 +61,10 @@ def _write_latest_pointer(
 
 def run() -> None:
     _ensure_work_dirs()
+
+    load_dotenv(_REPO_ROOT)
+
+    remote_prefix = "legislatures/cz-psp-data-2025-202x"
 
     # 1) download + unpack
     zip_path = Path("work/raw/poslanci.zip")
@@ -121,8 +126,9 @@ def run() -> None:
         locations: list[dict] = []
 
         if bucket_name:
-            snapshot_key = f"cz-psp/2025-202x/{dataset}/snapshots/{dataset}.snapshot-{snapshot_ts}.csv"
+            snapshot_key = f"{remote_prefix}/{dataset}/snapshots/{dataset}.snapshot-{snapshot_ts}.csv"
             upload_file(src_csv, snapshot_key)
+            prune_snapshots(f"{remote_prefix}/{dataset}/snapshots/", keep=5)
             locations.append(
                 {
                     "provider": "b2",
@@ -140,7 +146,7 @@ def run() -> None:
         )
 
         if bucket_name:
-            upload_file(pointer_path, f"cz-psp/2025-202x/{dataset}/latest.json")
+            upload_file(pointer_path, f"{remote_prefix}/{dataset}/latest.json")
 
 
 if __name__ == "__main__":
