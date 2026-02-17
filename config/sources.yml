@@ -1,0 +1,4 @@
+psp:
+  base_url: "https://www.psp.cz"
+  votes_endpoint: "TODO: fill votes API or scraping URL"
+  persons_endpoint: "TODO: fill MPs list URL"

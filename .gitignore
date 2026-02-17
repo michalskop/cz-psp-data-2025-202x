@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Ephemeral workspace
+work/
+*.duckdb
+*.sqlite
+*.db
+work/**/*.csv
+work/**/*.csv.gz
+data/**/latest.csv
+*.parquet
+*.tmp
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/

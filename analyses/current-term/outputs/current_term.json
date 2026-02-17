@@ -1,0 +1,13 @@
+{
+  "id": "psp:org:174",
+  "name": "Poslanecká sněmovna 2025 -",
+  "since": "2025-10-04",
+  "until": NaN,
+  "until_latest": "2029-10-04",
+  "identifiers": [
+    {
+      "scheme": "psp",
+      "identifier": "10"
+    }
+  ]
+}

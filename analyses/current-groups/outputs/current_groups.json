@@ -1,0 +1,162 @@
+[
+  {
+    "id": "psp:org:1750",
+    "name": "ANO 2011",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-08",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1750"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1750"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1748",
+    "name": "KDU-ČSL",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-07",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1748"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1748"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1749",
+    "name": "Motoristé sobě",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-07",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1749"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1749"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1751",
+    "name": "ODS",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-08",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1751"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1751"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1745",
+    "name": "Piráti",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-05",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1745"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1745"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1752",
+    "name": "Starostové a nezávislí",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-10",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1752"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1752"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1746",
+    "name": "Svoboda a přímá demokracie",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-07",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1746"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1746"
+      }
+    ]
+  },
+  {
+    "id": "psp:org:1747",
+    "name": "TOP 09",
+    "classification": "group",
+    "parent_id": "psp:org:174",
+    "founding_date": "2025-10-07",
+    "dissolution_date": NaN,
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "1747"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_organ=1747"
+      }
+    ]
+  }
+]

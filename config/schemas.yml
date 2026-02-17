@@ -1,0 +1,11 @@
+persons:
+  standard: dt.persons
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/persons.dt.table.json"
+
+organizations:
+  standard: dt.organizations
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/organizations.dt.table.json"
+
+memberships:
+  standard: dt.memberships
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/memberships.dt.table.json"
