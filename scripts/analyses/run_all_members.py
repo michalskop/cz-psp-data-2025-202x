@@ -89,6 +89,18 @@ def run_all_members(standard_dir: Path) -> None:
     clubs["club_name"] = clubs["name"].astype(str).str.replace(r"^Poslanecký klub\s+", "", regex=True).str.strip()
     club_id_to_name = dict(zip(clubs["id"].tolist(), clubs["club_name"].tolist(), strict=False))
 
+    allowed_org_ids = {current_term_id} | set(club_id_to_name.keys())
+    memberships = memberships[memberships["organization_id"].isin(allowed_org_ids)].copy()
+
+    # Only keep memberships that overlap with the current term.
+    # Note: PSP may include historical rows for the same organization_id; we drop rows
+    # that clearly ended before the term started.
+    term_since = cur_terms.iloc[0].get("founding_date")
+    if not term_since:
+        raise ValueError("Current term missing founding_date")
+    memberships["end_date"] = memberships["end_date"].fillna("")
+    memberships = memberships[(memberships["end_date"] == "") | (memberships["end_date"] >= str(term_since))].copy()
+
     # All members in the term: any person with a membership in the term org
     term_m = memberships[memberships["organization_id"] == current_term_id].copy()
     person_ids = sorted(set(term_m["person_id"].tolist()))
@@ -96,9 +108,6 @@ def run_all_members(standard_dir: Path) -> None:
     out = persons[persons["id"].isin(person_ids)].copy()
 
     # Photo URL based on current term year (from founding_date)
-    term_since = cur_terms.iloc[0].get("founding_date")
-    if not term_since:
-        raise ValueError("Current term missing founding_date")
     term_year = str(term_since).split("-")[0]
     out["image"] = out["id"].map(lambda pid: f"https://www.psp.cz/eknih/cdrom/{term_year}ps/eknih/{term_year}ps/poslanci/i{int(pid.split(':')[-1])}.jpg")
 

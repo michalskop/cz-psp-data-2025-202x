@@ -91,6 +91,15 @@ def run_current_members(standard_dir: Path) -> None:
     clubs["club_name"] = clubs["name"].astype(str).str.replace(r"^Poslanecký klub\s+", "", regex=True).str.strip()
     club_id_to_name = dict(zip(clubs["id"].tolist(), clubs["club_name"].tolist(), strict=False))
 
+    allowed_org_ids = {current_term_id} | set(club_id_to_name.keys())
+    memberships = memberships[memberships["organization_id"].isin(allowed_org_ids)].copy()
+
+    # Only keep memberships that overlap with the current term.
+    # Note: PSP may include historical rows for the same organization_id; we drop rows
+    # that clearly ended before the term started.
+    memberships["end_date"] = memberships["end_date"].fillna("")
+    memberships = memberships[(memberships["end_date"] == "") | (memberships["end_date"] >= str(current_term_since))].copy()
+
     # parliament memberships (fallback to term dates for independents / missing zarazeni rows)
     term_m = memberships[(memberships["organization_id"] == current_term_id) & (memberships["person_id"].isin(current_person_ids))].copy()
     groups_m = memberships[(memberships["organization_id"].isin(set(club_id_to_name.keys()))) & (memberships["person_id"].isin(current_person_ids))].copy()
