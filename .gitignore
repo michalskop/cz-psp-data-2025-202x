@@ -16,6 +16,9 @@ data/**/latest.csv
 *.tmp
 *.log
 
+~*
+.~lock.*
+
 analyses/attendance/outputs/attendance.json
 analyses/attendance/outputs/attendance_flourish_table.csv
 

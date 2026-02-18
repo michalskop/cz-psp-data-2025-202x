@@ -146,6 +146,41 @@ def run_attendance(*, definition: Path, votes: Path, vote_events: Path, persons:
     subprocess.run(cmd, check=True)
 
 
+def rewrite_group_names(*, attendance_json: Path) -> None:
+    mapping = {
+        "ANO 2011": "ANO",
+        "Starostové a nezávislí": "STAN",
+        "Motoristé sobě": "Motoristé",
+        "Svoboda a přímá demokracie": "SPD",
+    }
+
+    data = json.loads(attendance_json.read_text(encoding="utf-8"))
+    if not isinstance(data, list):
+        raise ValueError(f"{attendance_json} must contain a JSON array")
+
+    changed = 0
+    for row in data:
+        orgs = row.get("organizations") or []
+        if not isinstance(orgs, list):
+            continue
+        for org in orgs:
+            if not isinstance(org, dict):
+                continue
+            if org.get("classification") != "group":
+                continue
+            name = org.get("name")
+            if name in mapping:
+                org["name"] = mapping[name]
+                changed += 1
+
+    if changed:
+        attendance_json.write_text(
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+    logging.info("Rewrote %d group names in %s", changed, attendance_json)
+
+
 def run_flourish_table(*, attendance_json: Path, output_csv: Path) -> None:
     script_path = (
         _REPO_ROOT
@@ -261,6 +296,8 @@ def main() -> None:
         persons=persons_for_run,
         output=output,
     )
+
+    rewrite_group_names(attendance_json=output)
 
     run_flourish_table(attendance_json=output, output_csv=flourish_output)
 
