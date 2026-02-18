@@ -1,0 +1,13 @@
+{
+  "locations": [
+    {
+      "provider": "b2",
+      "bucket": "legislature-data",
+      "key": "legislatures/cz-psp-data-2025-202x/vote-events/snapshots/vote-events.snapshot-20260218T002719Z.parquet",
+      "uri": "b2://legislature-data/legislatures/cz-psp-data-2025-202x/vote-events/snapshots/vote-events.snapshot-20260218T002719Z.parquet"
+    }
+  ],
+  "term_identifier": "10",
+  "term_org_id": "psp:org:174",
+  "generated_at": "2026-02-18T00:27:45+00:00"
+}

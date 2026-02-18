@@ -10,8 +10,15 @@ if str(_REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(_REPO_ROOT))
 
 from scripts.download_poslanci import download_file, unpack_zip, DEFAULT_URL
+from scripts.download_hl import download_file as download_hl_file
+from scripts.download_hl import unpack_zip as unpack_hl_zip
+from scripts.download_hl import DEFAULT_URL as DEFAULT_HL_URL
 from scripts.standardize_poslanci import standardize
+from scripts.standardize_votes import standardize_hl_votes
 from scripts.validate_tables import validate_from_config
+from scripts.validate_votes_table import validate_votes_table
+from scripts.validate_vote_events_sample import validate_vote_events
+from scripts.validate_motions_sample import validate_motions
 from scripts.upload_b2 import prune_snapshots, upload_file
 from scripts.utils_env import load_dotenv
 from scripts.analyses.run_all import run_all
@@ -27,7 +34,9 @@ def _ensure_work_dirs() -> None:
     for p in [
         Path("work/raw"),
         Path("work/raw/poslanci"),
+        Path("work/raw/hl-2025ps"),
         Path("work/standard"),
+        Path("work/publish"),
         Path("work/db"),
         Path("data"),
     ]:
@@ -66,18 +75,40 @@ def run() -> None:
 
     remote_prefix = "legislatures/cz-psp-data-2025-202x"
 
-    # 1) download + unpack
+    # 1) download + unpack poslanci
     zip_path = Path("work/raw/poslanci.zip")
     raw_dir = Path("work/raw/poslanci")
     download_file(DEFAULT_URL, zip_path)
     unpack_zip(zip_path, raw_dir)
 
+    # 1b) download + unpack hl votes
+    hl_zip_path = Path("work/raw/hl-2025ps.zip")
+    hl_raw_dir = Path("work/raw/hl-2025ps")
+    download_hl_file(DEFAULT_HL_URL, hl_zip_path)
+    unpack_hl_zip(hl_zip_path, hl_raw_dir)
+
     # 2) standardize
     standard_dir = Path("work/standard")
     standardize(raw_dir=raw_dir, out_dir=standard_dir)
 
+    # 2b) standardize hl votes into local work files + parquet publish files
+    publish_dir = Path("work/publish")
+    standardize_hl_votes(
+        raw_dir=hl_raw_dir,
+        out_votes_csv=standard_dir / "votes.csv",
+        out_vote_events_json=standard_dir / "vote_events.json",
+        out_motions_json=standard_dir / "motions.json",
+        out_votes_parquet=publish_dir / "votes.parquet",
+        out_vote_events_parquet=publish_dir / "vote_events.parquet",
+        out_motions_parquet=publish_dir / "motions.parquet",
+    )
+
     # 3) validate
     validate_from_config(Path("config/schemas.yml"), standard_dir)
+
+    validate_votes_table(standard_dir / "votes.csv")
+    validate_vote_events(standard_dir / "vote_events.json")
+    validate_motions(standard_dir / "motions.json")
 
     # 4) analyses (small committed outputs)
     run_all(standard_dir)
@@ -128,6 +159,41 @@ def run() -> None:
         if bucket_name:
             snapshot_key = f"{remote_prefix}/{dataset}/snapshots/{dataset}.snapshot-{snapshot_ts}.csv"
             upload_file(src_csv, snapshot_key)
+            prune_snapshots(f"{remote_prefix}/{dataset}/snapshots/", keep=5)
+            locations.append(
+                {
+                    "provider": "b2",
+                    "bucket": bucket_name,
+                    "key": snapshot_key,
+                    "uri": f"b2://{bucket_name}/{snapshot_key}",
+                }
+            )
+
+        _write_latest_pointer(
+            out_path=pointer_path,
+            locations=locations,
+            term_identifier=term_identifier,
+            term_org_id=term_org_id,
+        )
+
+        if bucket_name:
+            upload_file(pointer_path, f"{remote_prefix}/{dataset}/latest.json")
+
+    # 6) publish votes/vote-events/motions as B2-hosted Parquet snapshots.
+    for dataset, src_parquet in [
+        ("votes", Path("work/publish/votes.parquet")),
+        ("vote-events", Path("work/publish/vote_events.parquet")),
+        ("motions", Path("work/publish/motions.parquet")),
+    ]:
+        out_dir = Path("data") / dataset
+        out_dir.mkdir(parents=True, exist_ok=True)
+
+        pointer_path = out_dir / "latest.json"
+        locations: list[dict] = []
+
+        if bucket_name:
+            snapshot_key = f"{remote_prefix}/{dataset}/snapshots/{dataset}.snapshot-{snapshot_ts}.parquet"
+            upload_file(src_parquet, snapshot_key)
             prune_snapshots(f"{remote_prefix}/{dataset}/snapshots/", keep=5)
             locations.append(
                 {
