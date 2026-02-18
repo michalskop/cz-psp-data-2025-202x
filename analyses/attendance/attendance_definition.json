@@ -1,0 +1,14 @@
+{
+  "since": null,
+  "until": null,
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "excused",
+    "not voting"
+  ]
+}
