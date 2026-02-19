@@ -22,6 +22,9 @@ data/**/latest.csv
 analyses/attendance/outputs/attendance.json
 analyses/attendance/outputs/attendance_flourish_table.csv
 
+analyses/vote-corrections/outputs/vote_corrections.json
+analyses/vote-corrections/outputs/vote_corrections_flourish_table.csv
+
 # VSCode / IDE
 .vscode/
 .idea/
