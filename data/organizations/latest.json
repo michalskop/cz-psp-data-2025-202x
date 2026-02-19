@@ -3,11 +3,11 @@
     {
       "provider": "b2",
       "bucket": "legislature-data",
-      "key": "legislatures/cz-psp-data-2025-202x/organizations/snapshots/organizations.snapshot-20260218T012416Z.csv",
-      "uri": "b2://legislature-data/legislatures/cz-psp-data-2025-202x/organizations/snapshots/organizations.snapshot-20260218T012416Z.csv"
+      "key": "legislatures/cz-psp-data-2025-202x/organizations/snapshots/organizations.snapshot-20260219T121759Z.csv",
+      "uri": "b2://legislature-data/legislatures/cz-psp-data-2025-202x/organizations/snapshots/organizations.snapshot-20260219T121759Z.csv"
     }
   ],
   "term_identifier": "10",
   "term_org_id": "psp:org:174",
-  "generated_at": "2026-02-18T01:24:25+00:00"
+  "generated_at": "2026-02-19T12:18:08+00:00"
 }
