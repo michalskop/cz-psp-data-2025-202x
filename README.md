@@ -81,13 +81,13 @@ Counts per-member vote corrections (*zmatečná hlasování* — cases where an 
 
 **PSP data limitations:** `raised_by_id` (who raised the objection) and dates are not available in the PSP open-data zip (`hl_zposlanec` and `hl_check` tables are not published).
 
-Step 1 — standardize objections (produces `work/standard/vote_event_objections.json`):
+Objections standardization (`work/standard/vote_event_objections.json`) runs automatically as part of the main pipeline. To regenerate manually:
 
 ```bash
 python scripts/standardize_objections.py
 ```
 
-Step 2 — run the analysis and produce a Flourish-friendly CSV:
+Run the full analysis and produce a Flourish-friendly CSV:
 
 ```bash
 python scripts/analyses/run_vote_corrections.py \
@@ -97,7 +97,8 @@ python scripts/analyses/run_vote_corrections.py \
 ```
 
 `--script` and `--flourish-script` are required because the analysis lives in the separate `legislature-data-analyses` repository.
-Outputs (`analyses/vote-corrections/outputs/`) are local-only (not committed).
+
+The **nightly GitHub Actions pipeline** runs vote corrections automatically (it clones `legislature-data-analyses` and commits the outputs). Run the steps above to reproduce locally.
 
 ```
 cz-psp-data-2025-202x/
@@ -122,9 +123,9 @@ cz-psp-data-2025-202x/
 ├─ analyses/
 │  ├─ attendance/
 │  │  ├─ attendance_definition.json
-│  │  └─ outputs/.gitkeep
+│  │  └─ outputs/.gitkeep          # outputs local-only (gitignored)
 │  ├─ vote-corrections/
-│  │  └─ outputs/.gitkeep
+│  │  └─ outputs/                  # committed by nightly pipeline
 │  └─ ...
 ├─ work/                   # ephemeral, not committed
 │  ├─ raw/
