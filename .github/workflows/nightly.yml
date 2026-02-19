@@ -27,6 +27,17 @@ jobs:
           B2_BUCKET: ${{ secrets.B2_BUCKET }}
         run: python pipelines/run_pipeline.py
 
+      - name: Clone legislature-data-analyses
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
+
+      - name: Run vote-corrections analysis
+        run: |
+          python scripts/analyses/run_vote_corrections.py \
+            --script /tmp/legislature-data-analyses/vote-corrections/vote_corrections.py \
+            --flourish-script /tmp/legislature-data-analyses/vote-corrections/outputs/output_flourish_table.py \
+            --use-current-members
+
       - name: Commit analysis outputs
         run: |
           git config user.name "github-actions"

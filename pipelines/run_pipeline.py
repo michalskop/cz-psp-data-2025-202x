@@ -15,6 +15,7 @@ from scripts.download_hl import unpack_zip as unpack_hl_zip
 from scripts.download_hl import DEFAULT_URL as DEFAULT_HL_URL
 from scripts.standardize_poslanci import standardize
 from scripts.standardize_votes import standardize_hl_votes
+from scripts.standardize_objections import standardize_objections
 from scripts.validate_tables import validate_from_config
 from scripts.validate_votes_table import validate_votes_table
 from scripts.validate_vote_events_sample import validate_vote_events
@@ -102,6 +103,9 @@ def run() -> None:
         out_vote_events_parquet=publish_dir / "vote_events.parquet",
         out_motions_parquet=publish_dir / "motions.parquet",
     )
+
+    # 2c) standardize vote objections (zmatečná hlasování)
+    standardize_objections(raw_dir=hl_raw_dir, out_path=standard_dir / "vote_event_objections.json")
 
     # 3) validate
     validate_from_config(Path("config/schemas.yml"), standard_dir)
