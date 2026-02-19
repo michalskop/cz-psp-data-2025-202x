@@ -1,0 +1,10 @@
+{
+  "since": "2025-10-04",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent"],
+  "yes_option": "yes",
+  "no_option": "no",
+  "government_groups": [],
+  "government_members": []
+}
