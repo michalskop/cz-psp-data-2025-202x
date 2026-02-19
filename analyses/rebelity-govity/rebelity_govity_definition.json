@@ -5,6 +5,6 @@
   "absent_options": ["absent"],
   "yes_option": "yes",
   "no_option": "no",
-  "government_groups": [],
+  "government_groups": ["psp:org:1750", "psp:org:1746", "psp:org:1749"],
   "government_members": []
 }
