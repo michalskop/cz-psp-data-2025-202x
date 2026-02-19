@@ -75,33 +75,61 @@ python scripts/analyses/run_attendance.py \
 
 The runner uses existing local `work/standard/*` files. If missing, it will download the latest snapshots from B2 using `data/<dataset>/latest.json`.
 
+## Vote-corrections analysis
+
+Counts per-member vote corrections (*zmatečná hlasování* — cases where an MP declared they voted differently from their intention, the chamber agreed to repeat the vote, and the original was invalidated).
+
+**PSP data limitations:** `raised_by_id` (who raised the objection) and dates are not available in the PSP open-data zip (`hl_zposlanec` and `hl_check` tables are not published).
+
+Step 1 — standardize objections (produces `work/standard/vote_event_objections.json`):
+
+```bash
+python scripts/standardize_objections.py
+```
+
+Step 2 — run the analysis and produce a Flourish-friendly CSV:
+
+```bash
+python scripts/analyses/run_vote_corrections.py \
+  --script /path/to/legislature-data-analyses/vote-corrections/vote_corrections.py \
+  --flourish-script /path/to/legislature-data-analyses/vote-corrections/outputs/output_flourish_table.py \
+  --use-current-members
+```
+
+`--script` and `--flourish-script` are required because the analysis lives in the separate `legislature-data-analyses` repository.
+Outputs (`analyses/vote-corrections/outputs/`) are local-only (not committed).
 
 ```
 cz-psp-data-2025-202x/
 ├─ README.md
-├─ LICENSE                 # optional
 ├─ requirements.txt
 ├─ .gitignore
 ├─ config/
 │  ├─ sources.yml
 │  └─ schemas.yml
 ├─ scripts/
-│  ├─ download_votes.py
-│  ├─ build_db.py
+│  ├─ standardize_objections.py
+│  ├─ standardize_poslanci.py
+│  ├─ standardize_votes.py
+│  ├─ download_*.py
+│  ├─ upload_b2.py
 │  └─ analyses/
-│     └─ run_all.py
+│     ├─ run_attendance.py
+│     ├─ run_vote_corrections.py
+│     └─ run_*.py
 ├─ pipelines/
 │  └─ run_pipeline.py
 ├─ analyses/
 │  ├─ attendance/
 │  │  ├─ attendance_definition.json
 │  │  └─ outputs/.gitkeep
-│  └─ example/
-│     └─ outputs/.gitkeep
-├─ work/
-│  ├─ raw/.gitkeep
-│  ├─ db/.gitkeep
-│  └─ standard/.gitkeep
+│  ├─ vote-corrections/
+│  │  └─ outputs/.gitkeep
+│  └─ ...
+├─ work/                   # ephemeral, not committed
+│  ├─ raw/
+│  ├─ standard/
+│  └─ b2-cache/
 └─ .github/
    └─ workflows/
       └─ nightly.yml

@@ -29,3 +29,30 @@ Outputs (local-only by default):
 
 - `analyses/attendance/outputs/attendance.json`
 - `analyses/attendance/outputs/attendance_flourish_table.csv`
+
+## Vote corrections
+
+Counts per-member *zmatečná hlasování* — cases where an MP declared they voted differently from their intention, the chamber agreed to repeat the vote, and the original was invalidated.
+
+Step 1 — standardize PSP objections data:
+
+```bash
+python scripts/standardize_objections.py
+# → work/standard/vote_event_objections.json
+```
+
+Step 2 — run the analysis (requires paths to scripts in `legislature-data-analyses`):
+
+```bash
+python scripts/analyses/run_vote_corrections.py \
+  --script /path/to/legislature-data-analyses/vote-corrections/vote_corrections.py \
+  --flourish-script /path/to/legislature-data-analyses/vote-corrections/outputs/output_flourish_table.py \
+  --use-current-members
+```
+
+Outputs (local-only by default):
+
+- `analyses/vote-corrections/outputs/vote_corrections.json`
+- `analyses/vote-corrections/outputs/vote_corrections_flourish_table.csv`
+
+**PSP data limitations:** `raised_by_id` (who raised the objection) and vote-event dates are not available in the PSP open-data zip.
