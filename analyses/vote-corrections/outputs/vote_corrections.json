@@ -1,0 +1,7562 @@
+[
+  {
+    "person_id": "psp:person:6491",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Adam Vojtěch",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Vojtěch"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6491.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6997",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Adriana Chochelová",
+    "given_names": [
+      "Adriana"
+    ],
+    "family_names": [
+      "Chochelová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6997.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6545",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Alena Schillerová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Schillerová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6545.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6463",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Aleš Juchelka",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Juchelka"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6463.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6905",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Andrea Hoffmannová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Hoffmannová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6905.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6150",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Andrej Babiš",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Babiš"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6150.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7026",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Anežka Nedomová",
+    "given_names": [
+      "Anežka"
+    ],
+    "family_names": [
+      "Nedomová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7026.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7035",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Barbora Pipášová",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Pipášová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7035.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7038",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Barbora Rázga",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Rázga"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7038.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6788",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Barbora Urbanová",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Urbanová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6788.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6998",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Benjamin Činčila",
+    "given_names": [
+      "Benjamin"
+    ],
+    "family_names": [
+      "Činčila"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6998.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6780",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Berenika Peštová",
+    "given_names": [
+      "Berenika"
+    ],
+    "family_names": [
+      "Peštová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6780.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7028",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Bohuslav Niemiec",
+    "given_names": [
+      "Bohuslav"
+    ],
+    "family_names": [
+      "Niemiec"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7028.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5512",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Boris Šťastný",
+    "given_names": [
+      "Boris"
+    ],
+    "family_names": [
+      "Šťastný"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5512.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6209",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "David Kasal",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Kasal"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6209.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6527",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "David Pražák",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Pražák"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:587",
+        "classification": "constituency",
+        "name": "Liberecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6527.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6484",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "David Štolpa",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Štolpa"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6484.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7000",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Denis Doksanský",
+    "given_names": [
+      "Denis"
+    ],
+    "family_names": [
+      "Doksanský"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7000.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6991",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Drahomír Blažej",
+    "given_names": [
+      "Drahomír"
+    ],
+    "family_names": [
+      "Blažej"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6991.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6782",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Drahoslav Ryba",
+    "given_names": [
+      "Drahoslav"
+    ],
+    "family_names": [
+      "Ryba"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6782.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6766",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Eliška Olšáková",
+    "given_names": [
+      "Eliška"
+    ],
+    "family_names": [
+      "Olšáková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6766.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7061",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Ester Weimerová",
+    "given_names": [
+      "Ester"
+    ],
+    "family_names": [
+      "Weimerová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7061.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6727",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Eva Decroix",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Decroix"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6727.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6457",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Eva Fialová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Fialová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6457.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7046",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Eva Šrámková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Šrámková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7046.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7059",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Filip Turek",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Turek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7059.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6995",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "František Bureš",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Bureš"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6995.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6409",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "František Petrtýl",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Petrtýl"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6409.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7052",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "František Talíř",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Talíř"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7052.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7041",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Gabriela Sedláčková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Sedláčková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7041.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7049",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Gabriela Svárovská",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Svárovská"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7049.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6986",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Hana Ančincová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Ančincová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6986.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6769",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Hayato Okamura",
+    "given_names": [
+      "Hayato"
+    ],
+    "family_names": [
+      "Okamura"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6769.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5943",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Helena Langšádlová",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Langšádlová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5943.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6168",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Helena Válková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Válková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6168.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6738",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Hubert Lang",
+    "given_names": [
+      "Hubert"
+    ],
+    "family_names": [
+      "Lang"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6738.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6758",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Igor Hendrych",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Hendrych"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6758.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6996",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Igor Červený",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Červený"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6996.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7003",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Irena Ferčíková Konečná",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Ferčíková Konečná"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7003.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7027",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Irena Němcová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Němcová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7027.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5700",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Ivan Adamec",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Adamec"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5700.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6433",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Ivan Bartoš",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Bartoš"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6433.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6732",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Ivana Mádlová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Mádlová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6732.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6459",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jakub Janda",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Janda"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6459.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7015",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jakub Krainer",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Krainer"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7015.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6178",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Bartošek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Bartošek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6178.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5379",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Bauer",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Bauer"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5379.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6722",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Berki",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Berki"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:587",
+        "classification": "constituency",
+        "name": "Liberecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6722.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5899",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Bureš",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Bureš"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:585",
+        "classification": "constituency",
+        "name": "Karlovarský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5899.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6455",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Hrnčíř",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrnčíř"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6455.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6687",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Jakob",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Jakob"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6687.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6537",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Lipavský",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Lipavský"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6537.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7030",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Papajanovský",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Papajanovský"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7030.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6500",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Richter",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Richter"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6500.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6418",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Skopeček",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Skopeček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6418.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7050",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Sviták",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Sviták"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:587",
+        "classification": "constituency",
+        "name": "Liberecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7050.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6783",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jan Síla",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Síla"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6783.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6719",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Bačíková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Bačíková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6719.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6723",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Berkovcová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Berkovcová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6723.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7068",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 385,
+    "name": "Jana Demjanová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Demjanová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-11-03"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7068.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7004",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Filipovičová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Filipovičová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7004.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6753",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Hanzlíková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanzlíková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6753.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6466",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Krutáková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Krutáková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6466.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7025",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Murová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Murová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7025.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6225",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Pastuchová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Pastuchová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:587",
+        "classification": "constituency",
+        "name": "Liberecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6225.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7032",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Patková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Patková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7032.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5903",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jana Černochová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Černochová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5903.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6190",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jaroslav Faltýnek",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Faltýnek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6190.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5911",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jaroslav Foldyna",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Foldyna"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5911.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7037",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jindřich Rajchl",
+    "given_names": [
+      "Jindřich"
+    ],
+    "family_names": [
+      "Rajchl"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7037.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7056",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jitka Volfová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Volfová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:587",
+        "classification": "constituency",
+        "name": "Liberecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7056.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7009",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiřina Klčová",
+    "given_names": [
+      "Jiřina"
+    ],
+    "family_names": [
+      "Klčová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7009.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6987",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Barták",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Barták"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6987.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6993",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Bouška",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Bouška"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6993.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6755",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Havránek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Havránek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6755.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6803",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Horák",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Horák"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6803.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6534",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Mašek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Mašek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6534.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7067",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 385,
+    "name": "Jiří Penc",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Penc"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-11-03"
+      },
+      {
+        "id": "psp:org:585",
+        "classification": "constituency",
+        "name": "Karlovarský",
+        "since": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7067.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5273",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Pospíšil",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Pospíšil"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5273.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6515",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Strýček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Strýček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6515.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7033",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Svoboda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7033.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7055",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Jiří Vojáček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Vojáček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7055.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6750",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Josef Flek",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Flek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6750.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6246",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Josef Kott",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Kott"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6246.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6946",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Josef Váňa",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Váňa"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:585",
+        "classification": "constituency",
+        "name": "Karlovarský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6946.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7044",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Julie Smejkalová",
+    "given_names": [
+      "Julie"
+    ],
+    "family_names": [
+      "Smejkalová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7044.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6447",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Kamal Farhan",
+    "given_names": [
+      "Kamal"
+    ],
+    "family_names": [
+      "Farhan"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6447.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6990",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Karel Beran",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Beran"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6990.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7002",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Karel Dvořák",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7002.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6751",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Karel Haas",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Haas"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6751.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6621",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Karel Havlíček",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Havlíček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6621.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6240",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Karel Tureček",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Tureček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6240.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7005",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Karin Gajdová",
+    "given_names": [
+      "Karin"
+    ],
+    "family_names": [
+      "Gajdová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7005.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6999",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Katerina Demetrashvili",
+    "given_names": [
+      "Katerina"
+    ],
+    "family_names": [
+      "Demetrashvili"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6999.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7048",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Kateřina Stojanová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Stojanová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7048.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6172",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Ladislav Okleštěk",
+    "given_names": [
+      "Ladislav"
+    ],
+    "family_names": [
+      "Okleštěk"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6172.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6431",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lenka Dražilová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Dražilová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6431.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7023",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lenka Martínková Španihelová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Martínková Španihelová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7023.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6693",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Libor Hoppe",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Hoppe"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6693.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6787",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Libor Turek",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Turek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6787.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7058",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Libor Vondráček",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Vondráček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7058.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6544",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lubomír Metnar",
+    "given_names": [
+      "Lubomír"
+    ],
+    "family_names": [
+      "Metnar"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6544.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6730",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lubomír Wenzl",
+    "given_names": [
+      "Lubomír"
+    ],
+    "family_names": [
+      "Wenzl"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6730.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6989",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lucie Bartošová",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Bartošová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:587",
+        "classification": "constituency",
+        "name": "Liberecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6989.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7042",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lucie Sedmihradská",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Sedmihradská"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7042.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6479",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lucie Šafránková",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Šafránková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6479.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6789",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Lukáš Vlček",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Vlček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6789.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:4",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marek Benda",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Benda"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i4.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6533",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marek Novák",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Novák"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6533.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6513",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marek Výborný",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Výborný"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6513.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6154",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marek Ženíšek",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Ženíšek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6154.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6205",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marian Jurečka",
+    "given_names": [
+      "Marian"
+    ],
+    "family_names": [
+      "Jurečka"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6205.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7018",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marie Kršková",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Kršková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7018.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6745",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Marie Pošarová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Pošarová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6745.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7047",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Markéta Šichtařová",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Šichtařová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7047.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6435",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Martin Baxa",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Baxa"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6435.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6211",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Martin Kolovratník",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kolovratník"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6211.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7021",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Martin Kupec",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kupec"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7021.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6538",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Martin Kupka",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kupka"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6538.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7062",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Martin Záhoř",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Záhoř"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7062.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7065",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 367,
+    "name": "Martin Šmída",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Šmída"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-11-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-11-05"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-11-05"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7065.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7006",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Matěj Gregor",
+    "given_names": [
+      "Matěj"
+    ],
+    "family_names": [
+      "Gregor"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7006.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7011",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Matěj Hlavatý",
+    "given_names": [
+      "Matěj"
+    ],
+    "family_names": [
+      "Hlavatý"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7011.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6754",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Matěj Ondřej Havel",
+    "given_names": [
+      "Matěj Ondřej"
+    ],
+    "family_names": [
+      "Havel"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6754.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7024",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Michaela Moricová",
+    "given_names": [
+      "Michaela"
+    ],
+    "family_names": [
+      "Moricová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7024.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6767",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Michaela Opltová",
+    "given_names": [
+      "Michaela"
+    ],
+    "family_names": [
+      "Opltová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6767.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6763",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Michaela Šebelová",
+    "given_names": [
+      "Michaela"
+    ],
+    "family_names": [
+      "Šebelová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6763.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6216",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Michal Kučera",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Kučera"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6216.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6523",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Michal Ratiborský",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Ratiborský"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6523.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6796",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Michal Zuna",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Zuna"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6796.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6185",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Milan Brázdil",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Brázdil"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6185.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6201",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Miloslav Janulík",
+    "given_names": [
+      "Miloslav"
+    ],
+    "family_names": [
+      "Janulík"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6201.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7016",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Miroslav Krejčí",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Krejčí"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7016.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6688",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Miroslav Samaš",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Samaš"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6688.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6064",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Miroslav Ševčík",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Ševčík"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6064.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7064",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Miroslav Žbánek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Žbánek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7064.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6994",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Monika Brzesková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Brzesková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6994.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7007",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Monika Hubíková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Hubíková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7007.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6475",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Monika Oborná",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Oborná"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6475.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6473",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Olga Richterová",
+    "given_names": [
+      "Olga"
+    ],
+    "family_names": [
+      "Richterová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6473.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6623",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Ondřej Babka",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Babka"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6623.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7010",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Oto Klempíř",
+    "given_names": [
+      "Oto"
+    ],
+    "family_names": [
+      "Klempíř"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7010.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7060",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Otto Vopěnka",
+    "given_names": [
+      "Otto"
+    ],
+    "family_names": [
+      "Vopěnka"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7060.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6487",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Patrik Nacher",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Nacher"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6487.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7031",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Patrik Pařil",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Pařil"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7031.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6988",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Pavel Bartoň",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Bartoň"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6988.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6603",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Pavel Karpíšek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Karpíšek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6603.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7029",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Pavel Outrata",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Outrata"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7029.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6520",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Pavel Růžička",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Růžička"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6520.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5226",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Pavel Žáček",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Žáček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5226.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6762",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Pavla Pivoňka Vaňková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Pivoňka Vaňková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6762.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:346",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Bendl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bendl"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i346.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6074",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Fiala",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Fiala"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6074.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6881",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Hladík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hladík"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6881.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7014",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Kowanda",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kowanda"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7014.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7019",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 2,
+    "name": "Petr Kubis",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kubis"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:585",
+        "classification": "constituency",
+        "name": "Karlovarský",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7019.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7022",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Macinka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Macinka"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7022.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6518",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Sadovský",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Sadovský"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6518.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7045",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Sokol",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Sokol"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7045.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6490",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Petr Vrána",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Vrána"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6490.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6508",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Radek Koten",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Koten"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6508.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6165",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Radek Vondráček",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Vondráček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6165.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:5459",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Radim Fiala",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Fiala"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5459.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6770",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Renata Oulehlová",
+    "given_names": [
+      "Renata"
+    ],
+    "family_names": [
+      "Oulehlová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:585",
+        "classification": "constituency",
+        "name": "Karlovarský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6770.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7054",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Renata Vesecká",
+    "given_names": [
+      "Renata"
+    ],
+    "family_names": [
+      "Vesecká"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:588",
+        "classification": "constituency",
+        "name": "Královéhradecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7054.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6793",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Renáta Zajíčková",
+    "given_names": [
+      "Renáta"
+    ],
+    "family_names": [
+      "Zajíčková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6793.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6184",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 2,
+    "name": "Richard Brabec",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Brabec"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6184.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6509",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Robert Králíček",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Králíček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6509.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6549",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Robert Plaga",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Plaga"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6549.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6743",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Robert Stržínek",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Stržínek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6743.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6215",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Roman Kubíček",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Kubíček"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6215.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7063",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 2,
+    "name": "Roman Zarzycký",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Zarzycký"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7063.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6786",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Róbert Teleky",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Teleky"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6786.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7057",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Samuel Volpe",
+    "given_names": [
+      "Samuel"
+    ],
+    "family_names": [
+      "Volpe"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7057.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6451",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Stanislav Fridrich",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Fridrich"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6451.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6468",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Taťána Malá",
+    "given_names": [
+      "Taťána"
+    ],
+    "family_names": [
+      "Malá"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6468.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6555",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Tom Philipp",
+    "given_names": [
+      "Tom"
+    ],
+    "family_names": [
+      "Philipp"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6555.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6105",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Tomio Okamura",
+    "given_names": [
+      "Tomio"
+    ],
+    "family_names": [
+      "Okamura"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6105.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7001",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Tomáš Doležal",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Doležal"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7001.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6756",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Tomáš Helebrant",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Helebrant"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6756.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6506",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Tomáš Kohoutek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kohoutek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6506.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7051",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vendula Svobodová",
+    "given_names": [
+      "Vendula"
+    ],
+    "family_names": [
+      "Svobodová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7051.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7013",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Veronika Kovářová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Kovářová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:583",
+        "classification": "constituency",
+        "name": "Jihočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7013.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7012",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vladimír Kolek",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kolek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7012.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7034",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vladimír Pikora",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Pikora"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7034.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7066",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 385,
+    "name": "Vlastimil Hebr",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Hebr"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-11-03"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7066.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6482",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vlastimil Válek",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Válek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6482.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7017",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vojtěch Krňanský",
+    "given_names": [
+      "Vojtěch"
+    ],
+    "family_names": [
+      "Krňanský"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1749",
+        "classification": "group",
+        "name": "Motoristé sobě",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1744",
+        "classification": "candidate_list",
+        "name": "Motoristé sobě",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:589",
+        "classification": "constituency",
+        "name": "Pardubický",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7017.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6486",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vojtěch Munzar",
+    "given_names": [
+      "Vojtěch"
+    ],
+    "family_names": [
+      "Munzar"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6486.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7036",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Václav Pláteník",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Pláteník"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1748",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7036.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7053",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Václav Trojan",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Trojan"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:591",
+        "classification": "constituency",
+        "name": "Jihomoravský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7053.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6524",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vít Rakušan",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Rakušan"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6524.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7039",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Vítězslav Schrek",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Schrek"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7039.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6254",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Věra Adámková",
+    "given_names": [
+      "Věra"
+    ],
+    "family_names": [
+      "Adámková"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6254.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6214",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Věra Kovářová",
+    "given_names": [
+      "Věra"
+    ],
+    "family_names": [
+      "Kovářová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:582",
+        "classification": "constituency",
+        "name": "Středočeský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6214.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7008",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zdena Kašparová",
+    "given_names": [
+      "Zdena"
+    ],
+    "family_names": [
+      "Kašparová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1752",
+        "classification": "group",
+        "name": "Starostové a nezávislí",
+        "since": "2025-10-10"
+      },
+      {
+        "id": "psp:org:1289",
+        "classification": "candidate_list",
+        "name": "Starostove a nezavisli",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7008.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6804",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zdenka Němečková Crkvenjaš",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Němečková Crkvenjaš"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6804.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6552",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zdeněk Hřib",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hřib"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6552.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6992",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zdeňka Blišťanová",
+    "given_names": [
+      "Zdeňka"
+    ],
+    "family_names": [
+      "Blišťanová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1747",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6992.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6467",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zuzana Majerová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Majerová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6467.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7040",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zuzana Mrázová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Mrázová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7040.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:6474",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Zuzana Ožanová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Ožanová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:594",
+        "classification": "constituency",
+        "name": "Moravskoslezský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6474.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7043",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 387,
+    "name": "Štěpán Slovák",
+    "given_names": [
+      "Štěpán"
+    ],
+    "family_names": [
+      "Slovák"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1751",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2025-10-08"
+      },
+      {
+        "id": "psp:org:1533",
+        "classification": "candidate_list",
+        "name": "Spolu",
+        "since": "2025-10-04"
+      },
+      {
+        "id": "psp:org:593",
+        "classification": "constituency",
+        "name": "Zlínský",
+        "since": "2025-10-04"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7043.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7020",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 20,
+    "name": "Šárka Kučerová",
+    "given_names": [
+      "Šárka"
+    ],
+    "family_names": [
+      "Kučerová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05",
+        "until": "2025-11-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04",
+        "until": "2025-11-05"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04",
+        "until": "2025-11-05"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7020.jpg"
+    }
+  }
+]
