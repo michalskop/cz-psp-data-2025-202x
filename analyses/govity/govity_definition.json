@@ -1,0 +1,26 @@
+{
+  "since": "2025-10-04",
+  "until": null,
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "excused",
+    "not voting"
+  ],
+  "yes_options": [
+    "yes"
+  ],
+  "no_options": [
+    "no"
+  ],
+  "government_groups": [
+    "psp:org:1750",
+    "psp:org:1746",
+    "psp:org:1749"
+  ],
+  "government_members": []
+}
