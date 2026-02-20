@@ -38,6 +38,13 @@ jobs:
             --flourish-script /tmp/legislature-data-analyses/vote-corrections/outputs/output_flourish_table.py \
             --use-current-members
 
+      - name: Run rebelity-govity analysis
+        run: |
+          python scripts/analyses/run_rebelity_govity.py \
+            --script /tmp/legislature-data-analyses/rebelity-govity/rebelity_govity.py \
+            --flourish-script /tmp/legislature-data-analyses/rebelity-govity/outputs/output_flourish_table.py \
+            --use-current-members
+
       - name: Commit analysis outputs
         run: |
           git config user.name "github-actions"
