@@ -19,8 +19,6 @@ data/**/latest.csv
 ~*
 .~lock.*
 
-analyses/attendance/outputs/attendance.json
-analyses/attendance/outputs/attendance_flourish_table.csv
 
 
 # VSCode / IDE
