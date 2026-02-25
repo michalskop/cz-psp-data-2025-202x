@@ -1,0 +1,5202 @@
+[
+  {
+    "person_id": "psp:person:346",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.02432694780027,
+      2.543420738211913,
+      2.662255442322144
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:4",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.951411779509562,
+      2.682676325210378,
+      1.8311197599238966
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5226",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.727037931221176,
+      1.4780400254811965,
+      0.9030770361124849
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5273",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.830744414629169,
+      0.3619971035800609,
+      -0.6503071131135916
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5379",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.441860018779561,
+      3.792172311902466,
+      2.2566451097549094
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5459",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.535992439046226,
+      0.10961536334882743,
+      -0.06689280251667566
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5512",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5700",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.809364423275144,
+      2.3322743844746765,
+      1.0818477349710132
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5899",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.780716577640345,
+      2.7206643846647287,
+      1.808719841825442
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5903",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.3373431315574544,
+      1.789689952968714,
+      1.213141180239986
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5911",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.0921328631034881,
+      1.1617761957910335,
+      0.5896647657271495
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5943",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.77902648959169,
+      1.1967964865775702,
+      1.5095018055350957
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6064",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9469668782095098,
+      0.2115169404650948,
+      0.05711478707762456
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6074",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.353597014315152,
+      1.970045501145888,
+      1.3641721444469581
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6105",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.6948727363348666,
+      0.36400337039922803,
+      0.3212216984035771
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6150",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.8379927190885449,
+      1.6563764575436564,
+      2.4393704961892753
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6154",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4443120758351628,
+      1.5025887617541633,
+      1.8590114993403706
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6165",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8159555452984657,
+      0.360894874105742,
+      0.22393824184985267
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6168",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.214008068140615,
+      -1.2121005521582506,
+      -1.2202703378856767
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6172",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.6939967912174705,
+      0.09390363901836453,
+      0.24336411288156928
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6178",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.773113453156718,
+      1.195914096830432,
+      1.7782805351228441
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6185",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.69118684009667,
+      0.09393669913535314,
+      0.24324324586942578
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6190",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.715775741321086,
+      0.5172754955553459,
+      0.11569062099451012
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6201",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9734136553306545,
+      0.21777176670974127,
+      0.04305957029238716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6205",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "psp:person:6209",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8183518986187264,
+      0.3660590364499219,
+      0.07524527948269398
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6211",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.977905625174992,
+      0.21096231429472645,
+      0.03429236484997563
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6214",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.5499424556449584,
+      -0.8395128535234544,
+      0.5168149869310139
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6215",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8161594361489666,
+      0.35853432935704194,
+      0.007704029092224473
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6216",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.563698365208207,
+      1.2986558944538438,
+      2.932134502532007
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6225",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6240",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.944289841442181,
+      0.23633570008511112,
+      0.07004785356957106
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6246",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.976432937642144,
+      0.21077230958597062,
+      0.03421559671180768
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6254",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6409",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.021681161411559,
+      0.1905527092659771,
+      0.0825140530791881
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6418",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.6869362702947166,
+      2.430015054234286,
+      1.7495721822372865
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6431",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6433",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.885333219781512,
+      -4.584745799854026,
+      -5.540540221009326
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6435",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.8797334914261548,
+      1.7335446974062478,
+      1.1895909825226971
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6447",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6451",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.463836883250321,
+      0.38382515426472213,
+      -0.028593952867972942
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6455",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.81750998995269,
+      0.3590596715537836,
+      0.007785337222900133
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6457",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.977385076011695,
+      0.21101261236514712,
+      0.0336631898350388
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6459",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.649143240807117,
+      2.307564581352915,
+      1.3923096048809818
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6463",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.576122702495604,
+      0.4965210266463032,
+      0.344189494061926
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6466",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.30998474546287,
+      1.0358102995117093,
+      2.9566753243048947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6467",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9585221748323307,
+      0.22979536318683152,
+      0.022525998597057402
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6468",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.021681161411559,
+      0.1905527092659771,
+      0.0825140530791881
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6473",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.573068225671345,
+      -3.959102041130582,
+      -4.603371006874476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6474",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6475",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9450732447555588,
+      0.21019393947672715,
+      0.057374223539856634
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6479",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.801355642473374,
+      0.3683807652554266,
+      0.02094370080018747
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6482",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.7796932198794106,
+      1.2812890986878733,
+      1.404977665241034
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6484",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.64400416652064,
+      0.11599361335752931,
+      0.2703991777527329
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6486",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.128831430234527,
+      2.724002708871008,
+      1.8248495791738926
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6487",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9924494824081758,
+      0.2705409809089259,
+      0.03734767496251129
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6490",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6491",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.906166993719525,
+      0.23016737603683718,
+      0.07684670630571998
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6500",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.957409208545433,
+      0.2625613490508111,
+      0.12134664895421847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6506",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6508",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.975772447592261,
+      0.21137266937050495,
+      0.03373833122106154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6509",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.939637944222346,
+      0.3314763190588755,
+      0.09987356035713041
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6513",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.3313991808265735,
+      0.31457047369926905,
+      0.7337659142996913
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6515",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6518",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.7728024504269566,
+      0.4208961037043346,
+      0.14286766173831725
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6520",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.979372670280317,
+      0.20794824955143945,
+      0.029735679973367235
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6523",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6524",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.464521950523118,
+      1.983375372393698,
+      2.570376222586538
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6527",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9766119948998053,
+      0.21065366560333224,
+      0.03606852472854064
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6533",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6534",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9560954560323593,
+      0.22306129636496896,
+      0.07243683925459346
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6537",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.055789218198913,
+      2.908060551371578,
+      2.5360289722497686
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6538",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.885043354520338,
+      0.8648580459407678,
+      1.2428837690492118
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6544",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.812340998276606,
+      0.3538360043454219,
+      0.018098839341545284
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6545",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9819335799555398,
+      0.2116695801268518,
+      0.033712742147064545
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6549",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9787954999184296,
+      0.2113843758998023,
+      0.03375599364755134
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6552",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.218942498937594,
+      -4.268112383555191,
+      -3.636940837213299
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6555",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.173121417962728,
+      -0.3286399706149252,
+      0.3641892053996802
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6603",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.875202220938087,
+      2.3883080072745004,
+      1.680217715958991
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6621",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.3942054494675573,
+      0.33407279427029446,
+      0.06827511034890216
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6623",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.946035391226149,
+      0.2168231649724062,
+      0.06387868237029663
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6687",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.169066316825744,
+      2.055834834791768,
+      1.7540752817478549
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6688",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6693",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.012957541146627,
+      2.3687854879605386,
+      1.6026533558814464
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6719",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.01047234805377,
+      2.1794949278097433,
+      1.3462253014545975
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6722",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.3666768799422435,
+      -1.2076984131393471,
+      0.44819429153070556
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6723",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.839925545104263,
+      -0.8105802764462788,
+      -1.3225333743990806
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6727",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.628175066046527,
+      2.2383335936382567,
+      2.1435019112190306
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6730",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6732",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.931039900534351,
+      0.2551100204629295,
+      0.05878784799162715
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6738",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6743",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6745",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.8132567093925025,
+      0.3585043021852113,
+      0.0076889988258851795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6750",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.693746923155482,
+      -1.119970722817892,
+      0.7205571420494278
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6751",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.3142220517006877,
+      2.155153420362291,
+      1.3500270784904187
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6753",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.975772447592261,
+      0.21137266937050495,
+      0.03373833122106154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6754",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      2.572471567429364,
+      1.7731815111922957,
+      1.7831422533149162
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6755",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.411031143953908,
+      3.218065705908016,
+      3.2971718302081863
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6756",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.814605195821002,
+      0.35902954760744316,
+      0.007770292107075131
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6758",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6762",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.6424404788194,
+      -0.9069317567258984,
+      0.30723016497293415
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6763",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.141576403288825,
+      -1.3298701725433764,
+      1.1611507275286939
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6766",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.616019894697489,
+      -0.9260016423638062,
+      1.4642443313980535
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6767",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.010447138452755,
+      0.7674234929763283,
+      2.561303151945936
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6769",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.0596881063029397,
+      -0.6546791899727072,
+      -0.4956215530487293
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6770",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9604176694759863,
+      0.2625794215900998,
+      0.12137312966942584
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6780",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.441274041178979,
+      0.44409884054590665,
+      0.06658608195625862
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6782",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6783",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9837114309863564,
+      0.25395810878481095,
+      0.026801435844492818
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6786",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.491021565938255,
+      0.21291173678511696,
+      0.9118087856547539
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6787",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      2.185536169532379,
+      1.9913756513711063,
+      0.5073674366534914
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6788",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.012268800122524,
+      -1.943697967512666,
+      -1.0193853856958024
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6789",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.746008751703826,
+      -1.3123940944057522,
+      0.8065789448895457
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6793",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.269777220504126,
+      0.05304520602651805,
+      0.4916947717994015
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6796",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.548382727551389,
+      0.5149425044214135,
+      0.0593731010909572
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6803",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.031043105240876,
+      -0.012375291064951395,
+      1.643354797766142
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6804",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.775381405002184,
+      3.443084719542966,
+      2.5474709694967386
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6881",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.815190025154894,
+      0.11134363563510549,
+      2.028171768719253
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6905",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.8554426484457,
+      -4.727156694093287,
+      -5.441091946862956
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6946",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.979372670280317,
+      0.20794824955143945,
+      0.029735679973367235
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6986",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.336480006236393,
+      -3.479442449673486,
+      -4.140418804920967
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6987",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6988",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6989",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.00681870793449,
+      2.3812673041729973,
+      1.8376530490944947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6990",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.979241259816501,
+      0.21371900249319492,
+      0.03880895765950453
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6991",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9624631118893987,
+      0.22087742739555993,
+      0.046900246548766504
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6992",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.844103001669517,
+      0.0035463433892995084,
+      -0.956706175704238
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6993",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.97630912476174,
+      0.22664413627175548,
+      0.04166024590353307
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6994",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.3238098042153375,
+      -0.7582254835667619,
+      -0.20014796481059685
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6995",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6996",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6997",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.326245772589477,
+      -1.3586334706627403,
+      0.5413535169521168
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6998",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.811203018135496,
+      0.5220390322199795,
+      0.8152467742041148
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6999",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.139046558885226,
+      -4.275559518103634,
+      -4.067927245709673
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7000",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.005543122516743,
+      0.20640906295158845,
+      0.01334669866652398
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7001",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7002",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.159774657897819,
+      0.9206938183588058,
+      2.8288322743907535
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7003",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.147218340608006,
+      -3.7454911797689365,
+      -4.124885157724278
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7004",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      2.7142840962904464,
+      -0.4103282878226056,
+      -0.43943336722041526
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7005",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7006",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.976713308609505,
+      0.208316718875969,
+      0.02937694923537956
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7007",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.975940026408067,
+      0.22746637580888088,
+      0.0400093098814604
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7008",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.210613595921671,
+      -1.8729429258102575,
+      -0.1710342908174104
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7009",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7010",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.078229196922925,
+      -1.1442443679721817,
+      -1.2637347239295407
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7011",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.056880653344539,
+      -2.4582931963952683,
+      -0.8056449987612765
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7012",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9759024582336897,
+      0.21439845869062021,
+      0.035398400563594896
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7013",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      7.508359250963381,
+      -3.446438912421949,
+      -3.7987846889894716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7014",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7015",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.038513338672363,
+      -0.6104855242769764,
+      1.0732038271548132
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7016",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9743641788085253,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7017",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7018",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.280431729083307,
+      -0.1019555769262697,
+      1.6786149011698492
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7021",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.977385076011695,
+      0.21101261236514712,
+      0.0336631898350388
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7022",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.977385076011695,
+      0.21101261236514712,
+      0.0336631898350388
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7023",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.9091578795758695,
+      -3.500616783968628,
+      -4.294277390685664
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7024",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.818534134015535,
+      -3.425095166759542,
+      -4.094812306827115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7025",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.957409208545433,
+      0.2625613490508111,
+      0.12134664895421847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7026",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      8.327108335771381,
+      1.285823529140023,
+      3.6168674506789134
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7027",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9799571236508653,
+      0.20460722607030343,
+      0.04836024689765127
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7028",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.20097500614767,
+      0.5793194392277221,
+      1.6389152253827104
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7029",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.972066074819966,
+      0.2107616631424765,
+      0.04513228118701498
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7030",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.172552357137402,
+      -0.8456852060730436,
+      1.2829495790707979
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7031",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7032",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.08419919156516,
+      -4.537141040134067,
+      -5.52208989785579
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7033",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7034",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9747242187649183,
+      0.21029629061894484,
+      0.03430570039553286
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7035",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.253648143583132,
+      -4.103013090550855,
+      -5.34726847353747
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7036",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.698253707034279,
+      -0.9313796956516476,
+      -1.354876953076835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7037",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.411126145974735,
+      0.38005677367316143,
+      -0.06360921164196734
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7038",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7039",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.988950971519309,
+      1.9828828901646884,
+      2.249882947313372
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7040",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9760228050677036,
+      0.21149974616830686,
+      0.0276857812448382
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7041",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9790922993129563,
+      0.21040384026144107,
+      0.03457432744979536
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7042",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.958023681762999,
+      -1.1362802229787996,
+      1.2625334667332055
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7043",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.694398524096428,
+      1.8697372266737537,
+      0.8739080308584078
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7044",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.421553790176022,
+      -1.196248570016897,
+      0.7703934767073637
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7045",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.339273739759516,
+      2.318744334058889,
+      1.4872286055461699
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7046",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.803085590548449,
+      -4.363653306386228,
+      -5.211700236658699
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7047",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.0182492615993222,
+      1.7027861171410437,
+      2.54448863324133
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7048",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.573068225671345,
+      -3.959102041130582,
+      -4.603371006874476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7049",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.818086748578004,
+      -4.271965439670309,
+      -5.191061437838453
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7050",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.673485640715286,
+      -1.4316184328890038,
+      0.282322445384901
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7051",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.342147092011507,
+      -4.66747429164178,
+      -5.354854234791857
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7052",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      3.857468940531279,
+      0.35262555444450516,
+      1.0293846647254101
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7053",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7054",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7055",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.843385671028094,
+      0.5309500422279537,
+      0.8597660944413932
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7056",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.975772447592261,
+      0.21137266937050495,
+      0.03373833122106154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7057",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.400209577351231,
+      -3.972891024558409,
+      -5.362373594031294
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7058",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9772010634349617,
+      0.23752641270690236,
+      0.04639338409803758
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7059",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.498400715547965,
+      -0.37068267991830917,
+      -0.7868745422184596
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7060",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.9770289998650603,
+      0.21101450515738618,
+      0.03366494424626719
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7061",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.970180194789124,
+      -1.6930353335218182,
+      0.15755501626720111
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7062",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.974364178808526,
+      0.21100096432534457,
+      0.03364554457446418
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7064",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.97288264771627,
+      0.2143863888219649,
+      0.03538058050668933
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7065",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      6.662440957754464,
+      -4.375363038290118,
+      -5.805285796504973
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7066",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.036846612566636,
+      0.20011639854008847,
+      -0.015791907735354504
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7067",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.036846612566636,
+      0.20011639854008847,
+      -0.015791907735354504
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7068",
+    "period_index": 0,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.973582130439667,
+      0.0688262826051807,
+      -0.3020419618985819
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:346",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.908978676973913,
+      3.2878719133640737,
+      3.9090271748723278
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:4",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.980665488466552,
+      3.8763557918818004,
+      5.727753573279385
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5226",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.910079408387803,
+      4.358537250325038,
+      3.043304557421445
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5273",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.315465465824444,
+      -0.651186156483658,
+      -2.2112905600700206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5379",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.55631501565669,
+      2.7805587383492876,
+      -0.015279762079027091
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5459",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.743524105584764,
+      0.884224401355818,
+      -2.247931748292583
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5512",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.952257207492659,
+      0.4688958058968833,
+      -1.7595937966837993
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5700",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.31970395924279,
+      4.107265344545783,
+      3.38763766599597
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5899",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.312887757604178,
+      3.056987307877431,
+      3.116532014687067
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5903",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.234090252805702,
+      3.434547623524613,
+      5.824802098860021
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5911",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.227457836453251,
+      0.5256599197516691,
+      -2.110828561626986
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:5943",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.684516462260078,
+      -0.945462292486031,
+      -2.1041039728932205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6064",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.926408600906129,
+      0.8217938444047226,
+      0.04004435777532791
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6074",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.88127682279796,
+      4.547108250220253,
+      6.290993416521429
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6105",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.71658595577382,
+      0.9339813682620052,
+      -2.264769450658164
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6150",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.284929761943436,
+      0.4316843303077854,
+      0.9387926627055876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6154",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.515277322931628,
+      -0.5729578584046157,
+      1.711882348022727
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6165",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.611710217111515,
+      0.6500505443278881,
+      -1.7106030553383365
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6168",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.829802888992577,
+      0.8188911439724599,
+      -1.8149093057133292
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6172",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.747138483797522,
+      0.28209506394196604,
+      -2.342617452578732
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6178",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.406501841756993,
+      -0.8455814585676854,
+      1.3230121934856387
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6185",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.793014529077949,
+      0.7931985213696444,
+      -1.9346798611143672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6190",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.809568502150935,
+      0.32591045596331597,
+      -1.4090792682261644
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6201",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792936634816009,
+      0.7931936943168579,
+      -1.934501963952349
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6205",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.862051552055435,
+      -2.448552192872839,
+      1.7193152206173798
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6209",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.156167690087028,
+      0.26799101181421214,
+      0.426395435523178
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6211",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.807128260375565,
+      0.7118889565465166,
+      1.1559496055589282
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6214",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.727962600024233,
+      -2.8371780739963177,
+      0.6079693807864998
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6215",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.536549244576883,
+      0.7437863378599812,
+      -2.002918173273907
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6216",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.216056901352019,
+      -1.6511885857862116,
+      -4.0220462402030055
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6225",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.8099702493485745,
+      0.7062879360841157,
+      -1.6049999128390555
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6240",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.902078726737251,
+      0.7622312747557878,
+      -1.9658167471514685
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6246",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.755061014300522,
+      0.6902268895672714,
+      -1.9517471056947484
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6254",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.78017899364251,
+      0.8005490529447556,
+      -1.992630218590453
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6409",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.7950269011055155,
+      0.7954903257364933,
+      -1.9350016606424087
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6418",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.126039395802955,
+      3.352679147669837,
+      3.2819653084136413
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6431",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.783648377532303,
+      0.8650237784367795,
+      -1.9379434376467402
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6433",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.048752735757635,
+      -3.4618654835201164,
+      4.268264345601404
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6435",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.71822575961216,
+      3.407542807076664,
+      3.1948574145609965
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6447",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.793074602334299,
+      0.795957287393087,
+      -1.936332136407208
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6451",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.219990265297504,
+      0.35417695343787675,
+      1.308987943477651
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6455",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.62825233069036,
+      0.4697173324792386,
+      -1.1262173609961548
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6457",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.682098712981466,
+      0.6187469294929074,
+      -2.239468542245945
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6459",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.183922564598129,
+      3.5132062201637213,
+      3.2885709965869894
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6463",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.470630880528841,
+      0.36626639863033583,
+      0.25153249626158997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6466",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.981619522661617,
+      -2.858287982051887,
+      0.8245478255790333
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6467",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.543850802676733,
+      -0.2146395611308111,
+      1.1709696203649154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6468",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.777953684706475,
+      0.81696416317962,
+      -1.9665130573826888
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6473",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.981012428067665,
+      -3.465608525401516,
+      4.538609518030683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6474",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.695782297328845,
+      0.730615784523567,
+      -2.1318733365165876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6475",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.656369583453084,
+      0.6506343891935606,
+      -1.8653249518986237
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6479",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.798071714488906,
+      0.7936374977069818,
+      -1.9458352293064198
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6482",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.462230343527958,
+      -1.019101983623203,
+      2.227292792600903
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6484",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.699760514885003,
+      0.7906445858768054,
+      -1.7504775451390755
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6486",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.863644859234071,
+      3.5864772424412,
+      0.4195694137657362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6487",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.685495169851898,
+      0.770435104152274,
+      -1.8192336579119206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6490",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792936634816009,
+      0.7931936943168579,
+      -1.934501963952349
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6491",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.534576424697603,
+      0.5736036215519084,
+      -2.0120451155854298
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6500",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792373511701384,
+      0.794656344042604,
+      -1.923517250901393
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6506",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.684755147130336,
+      0.8308153088858837,
+      -1.8775875957216175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6508",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.582437417176096,
+      0.9870959154326799,
+      -1.8278194344635015
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6509",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.83591441605753,
+      0.8222152283567015,
+      -2.011341961659529
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6513",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.373602076023996,
+      -2.072229333818038,
+      -2.2143830790666925
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6515",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.21565349245027,
+      0.35323417800225143,
+      1.3018228610659348
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6518",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.804923805296137,
+      0.20474018640698427,
+      -1.2296489563811932
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6520",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.5870148636235015,
+      0.8465707270422923,
+      -1.9302832856821057
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6523",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.58645483135972,
+      0.8088200026660628,
+      -1.9670974314533247
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6524",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.700802384115985,
+      -2.7715193201797246,
+      0.35902745990715695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6527",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.491201354055593,
+      0.6562493053367924,
+      -2.971440845142098
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6533",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.466075775226083,
+      0.5959834885970432,
+      -1.1425648498415204
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6534",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.666117727852923,
+      0.44114098809847313,
+      -1.6194878095280039
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6537",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.645817404209671,
+      3.6644951022144423,
+      3.2445585810325475
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6538",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.415179355883067,
+      4.123144578957919,
+      5.109963286768318
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6544",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.730348229085869,
+      0.6314751737224833,
+      -2.072925728489977
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6545",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.753610595746165,
+      0.4208380750068259,
+      -1.333626648995689
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6549",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -8.33477361141553,
+      -0.6851453123766317,
+      -1.2799237074594476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6552",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.175142215185504,
+      -3.200300969444217,
+      3.9747531704719257
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6555",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.103382480102988,
+      -2.4253136667149997,
+      2.134780022002746
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6603",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.90786556328687,
+      4.769078363976496,
+      -0.9250192888528775
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6621",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.7946277665845125,
+      0.6850414807314898,
+      -0.42393231511147494
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6623",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.240728724694232,
+      0.8301603576121779,
+      -1.8306904738644476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6687",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.373529256906929,
+      -1.277031681927285,
+      1.2178314631560214
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6688",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.6884103844798375,
+      0.8016345101140382,
+      -2.007289980325595
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6693",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.951490446947934,
+      4.630728088375163,
+      -1.1691001610560476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6719",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.965865285519885,
+      3.9162243150756226,
+      3.215884108642675
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6722",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.678323840777054,
+      -3.110731046641648,
+      1.7409146486775156
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6723",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.819072351847343,
+      0.989614500269374,
+      -3.3394438987050656
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6727",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.227078376141309,
+      3.8569401525807385,
+      1.2605424601545347
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6730",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792936634816009,
+      0.7931936943168579,
+      -1.934501963952349
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6732",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.665334718955783,
+      0.8299369188458339,
+      -2.021141038073459
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6738",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.228265608879999,
+      0.38799536687601316,
+      1.2934585056840047
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6743",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792938162165744,
+      0.7932984497915607,
+      -1.9345941395439672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6745",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.0062510013449435,
+      0.6409787136347768,
+      0.4319186808416683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6750",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.356206199362749,
+      -2.56906353595302,
+      -2.4350618468018834
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6751",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      6.6289269903407435,
+      3.8048041611980747,
+      3.1243724415358187
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6753",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.722619722003035,
+      0.7013088247424166,
+      -1.9581428668370575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6754",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      6.50558588140714,
+      0.8093522840340789,
+      -3.683374044439488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6755",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.102367609914245,
+      4.2436951197463735,
+      0.9976748577704051
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6756",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.743907148408224,
+      0.6552633775923407,
+      -1.2887934405197476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6758",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.959214303376721,
+      0.7778408881942885,
+      0.1301130364873112
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6762",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.710784529781913,
+      -3.465909267427126,
+      -1.0837913657429241
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6763",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.101069418875058,
+      -3.018570827674724,
+      0.37075388599427817
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6766",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.9835174310927,
+      -2.806459586437749,
+      1.3380710370243996
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6767",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.234410632981657,
+      -2.1360539113655466,
+      -2.8769938336001033
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6769",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.888064535189441,
+      -3.3880172300470575,
+      4.384881010224416
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6770",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.813325174621658,
+      0.6023000194431863,
+      -1.9309133957652869
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6780",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.737840460256533,
+      0.3342477962165911,
+      -1.8167097321292613
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6782",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792936634816009,
+      0.7931936943168579,
+      -1.934501963952349
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6783",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.457786210483863,
+      0.9258967848554296,
+      -1.6459728649778151
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6786",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.745515725253073,
+      -1.7737677810493544,
+      1.5382291087504265
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6787",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.412751088003603,
+      2.9299713720326297,
+      2.996432683741291
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6788",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.489131390196237,
+      -3.5486564206950253,
+      2.4462978553166046
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6789",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.135197146819003,
+      -2.696294266929141,
+      0.4535491379215985
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6793",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.41522761118241,
+      3.1609958507685008,
+      3.7973162017525754
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6796",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.679703428671596,
+      -0.9548029303317656,
+      1.3981231800815268
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6803",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.680231432027515,
+      -2.5618134405179283,
+      1.9251332720335448
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6804",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.711318666108559,
+      4.368222910906098,
+      2.746634478466238
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6881",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.146263338110751,
+      -2.4105043127611574,
+      1.5811740010871496
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6905",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.159435116380003,
+      -3.3860243648132946,
+      5.068087564782397
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6946",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.899621067593809,
+      0.415373276593829,
+      1.3061369180585256
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6986",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.087618203422622,
+      -3.5178686331590354,
+      4.09570725894366
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6987",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.775740239465847,
+      0.7589572996509839,
+      -1.9673749501014364
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6988",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.73033906351326,
+      0.7410340225929012,
+      -1.881921822235745
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6989",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.373230726872649,
+      4.288192806830178,
+      3.1415814098113075
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6990",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.870585824968372,
+      0.5188157017895019,
+      -1.9305564766071048
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6991",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.676364882874503,
+      0.7174463846256444,
+      -1.9815875509176943
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6992",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.660516235445161,
+      -0.5105033387468655,
+      0.7497232530258614
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6993",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.516923218505419,
+      1.0533381011067062,
+      -3.169069182969874
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6994",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.995322942463918,
+      -2.731586070142939,
+      2.11460857836393
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6995",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.7954286219189,
+      0.7937235949801876,
+      -1.9407184832829105
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6996",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.4926200172653585,
+      0.8838574148308669,
+      -1.7358950805481055
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6997",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.454382201598285,
+      -2.8689756077866067,
+      -2.3550364379604183
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6998",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.833423312259717,
+      -3.141125386932766,
+      2.933971398774203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:6999",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.88049487077812,
+      -3.4472254011560453,
+      4.087641312005914
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7000",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.929062310749942,
+      0.8910769280883565,
+      -0.11642708198460831
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7001",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.804314536058229,
+      0.8132024921401129,
+      -1.9606948561793671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7002",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.527280828863786,
+      -2.8575939243144504,
+      -2.6784504024829694
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7003",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.212027792238695,
+      -3.6144850960419137,
+      5.089319888211002
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7004",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.013849803705465,
+      -2.649310967902316,
+      2.204564700986534
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7005",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.760211218176155,
+      0.8351490277820892,
+      -1.8826192879534973
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7006",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.948062723305611,
+      0.17608035011398118,
+      -1.2615220096379824
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7007",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.793601682616513,
+      0.795173092201681,
+      -1.9363822311586454
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7008",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.03890915068272,
+      -2.739889750905456,
+      0.9934843183233472
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7009",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.805015205286354,
+      0.7437827039860427,
+      -1.935893030678345
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7010",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.174864664222841,
+      0.6699928657618806,
+      0.9484275841166919
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7011",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.17029787068353,
+      -2.9191220103536084,
+      1.173015936670029
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7012",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.795055586134734,
+      0.7954912426839299,
+      -1.93502099417581
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7013",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.561116649994895,
+      -3.224060428469847,
+      2.2308691780904506
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7014",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.660689283698868,
+      0.8074893896378393,
+      -1.9654725933769532
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7015",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.176126699808156,
+      -3.0543313948453816,
+      1.2139136490109126
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7016",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.787980263644674,
+      0.7575864902969378,
+      -1.9895309847300093
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7017",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.981202627196777,
+      0.7675009173089989,
+      0.6574767967610441
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7018",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.128255320176114,
+      -2.250030739441369,
+      -2.425496612173119
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7021",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.8363771147288634,
+      0.7848425699766131,
+      -1.7634850156299493
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7022",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.333974588655642,
+      0.3168916424046138,
+      -3.5590478137918478
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7023",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.425948054041857,
+      -3.125796015101296,
+      0.1770971040224693
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7024",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.13116770895922,
+      -3.4027982245514568,
+      4.317802041994169
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7025",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.866462491297536,
+      0.6336049702570367,
+      -1.9126889733519317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7026",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.43558611355967,
+      -3.2062356729454105,
+      -2.5056354677959787
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7027",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.767061137551581,
+      0.8092457975998277,
+      -1.8033504957588433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7028",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.038075007058575,
+      -2.317018083909933,
+      3.56982625748912
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7029",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.5934595078060445,
+      0.8550832602979676,
+      -1.9121111512284144
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7030",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.041199275894114,
+      -2.7252989284623337,
+      0.7305396267697987
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7031",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.832337636911467,
+      0.6710327480386771,
+      -1.6427261102421926
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7032",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.104856427587123,
+      -3.7151219984292476,
+      3.974425172180022
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7033",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.7936072873908255,
+      0.7931940147511637,
+      -1.9352256013860272
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7034",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.987614266490644,
+      0.2629821800567263,
+      -1.6283492358890448
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7035",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.108316679072786,
+      -3.6151157805094645,
+      3.9789753514565676
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7036",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.617624822852864,
+      -1.297898704527706,
+      2.6514241913767536
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7037",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.848522339457622,
+      0.466813166375995,
+      -2.4015176796458997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7038",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.8519306917071825,
+      0.6989936475820506,
+      -1.921646151441776
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7039",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.038488909766365,
+      3.471526361669949,
+      3.3729123422346405
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7040",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.769924977480185,
+      0.8240816348811901,
+      -1.710977369515783
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7041",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.676815758541533,
+      0.5960499639411977,
+      -1.849671982555108
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7042",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.95541939941724,
+      -3.179718948217458,
+      0.7087630246811151
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7043",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.310626473478399,
+      4.114598199513455,
+      0.10674191125707408
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7044",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.010941517703246,
+      -3.0550220797114007,
+      0.8045529433684468
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7045",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      7.786823718240985,
+      4.244737279548216,
+      5.372379516382643
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7046",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.991323583732443,
+      -3.1866674540362503,
+      4.787713316885453
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7047",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.30857150263206,
+      -0.22948212945687882,
+      -1.4614264665710572
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7048",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.999929040877566,
+      -3.0769911567837744,
+      4.704915502759757
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7049",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.147341935029782,
+      -3.4618856656307595,
+      3.7397470014211462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7050",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.082336253743401,
+      -2.949670110254071,
+      1.1999433581451981
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7051",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.909828556788389,
+      -3.666382186961474,
+      2.0013460597490598
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7052",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.1211721671519,
+      -2.309688004322797,
+      1.5938431490366567
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7053",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.790418444271015,
+      0.784408196418431,
+      -1.9328740201041583
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7054",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.886088747240032,
+      0.7151847179897943,
+      -2.3968248707978437
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7055",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.839561633255299,
+      -2.2690223089436095,
+      4.196321954742064
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7056",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.887135236689763,
+      0.6171136998995449,
+      -1.894990116830951
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7057",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.8666516684923,
+      -3.199328275662116,
+      5.037805747808444
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7058",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.760631833817556,
+      0.8194584028202251,
+      -2.2859371608372516
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7059",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -7.7512104883000275,
+      0.44758105314844177,
+      -1.2373544358144362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7060",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.848177555640032,
+      0.6737674966811148,
+      -1.9187885709441672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7061",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      9.208044736088874,
+      -3.077038438423105,
+      1.2683169528147555
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7062",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792927601849352,
+      0.7931100725866399,
+      -1.9348472709798672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7064",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.7802143009166915,
+      1.0172341572875343,
+      -3.1895629554720313
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7065",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      8.835807938232573,
+      -2.8087070961514975,
+      5.263758501789646
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7066",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.7950269011055155,
+      0.7954903257364933,
+      -1.9350016606424087
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7067",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.79185321979849,
+      0.7880918336443052,
+      -1.989811149163561
+    ],
+    "included": true
+  },
+  {
+    "person_id": "psp:person:7068",
+    "period_index": 1,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.792936634816009,
+      0.793193694316858,
+      -1.9345019639523502
+    ],
+    "included": true
+  }
+]
