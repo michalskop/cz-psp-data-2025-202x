@@ -16,6 +16,20 @@ if str(_REPO_ROOT) not in sys.path:
 from scripts.download_b2 import download_latest_from_pointer
 
 
+def _ensure_dt_schema_file(*, filename: str, url: str, schema_dir: str) -> None:
+    import requests
+
+    schema_dir_path = Path(schema_dir)
+    out_path = schema_dir_path / filename
+    if out_path.exists() and out_path.stat().st_size > 0:
+        return
+
+    schema_dir_path.mkdir(parents=True, exist_ok=True)
+    r = requests.get(url, timeout=60)
+    r.raise_for_status()
+    out_path.write_text(r.text, encoding="utf-8")
+
+
 def _ensure_votes_csv(votes_csv: Path, *, pointer_path: Path, work_dir: Path) -> None:
     if votes_csv.exists() and votes_csv.stat().st_size > 0:
         return
@@ -122,8 +136,7 @@ def _filter_all_members_to_current(*, all_members_csv: Path, current_members_csv
     )
 
 
-def run_attendance(*, definition: Path, votes: Path, vote_events: Path, persons: Path, output: Path) -> None:
-    script_path = (_REPO_ROOT / ".." / ".." / "legislature-data-analyses" / "attendance" / "attendance.py").resolve()
+def run_attendance(*, script_path: Path, definition: Path, votes: Path, vote_events: Path, persons: Path, output: Path) -> None:
     if not script_path.exists():
         raise FileNotFoundError(f"Attendance script not found: {script_path}")
 
@@ -181,22 +194,13 @@ def rewrite_group_names(*, attendance_json: Path) -> None:
     logging.info("Rewrote %d group names in %s", changed, attendance_json)
 
 
-def run_flourish_table(*, attendance_json: Path, output_csv: Path) -> None:
-    script_path = (
-        _REPO_ROOT
-        / ".."
-        / ".."
-        / "legislature-data-analyses"
-        / "attendance"
-        / "outputs"
-        / "output_flourish_table.py"
-    ).resolve()
-    if not script_path.exists():
-        raise FileNotFoundError(f"Flourish table script not found: {script_path}")
+def run_flourish_table(*, flourish_script: Path, attendance_json: Path, output_csv: Path) -> None:
+    if not flourish_script.exists():
+        raise FileNotFoundError(f"Flourish table script not found: {flourish_script}")
 
     cmd = [
         sys.executable,
-        str(script_path),
+        str(flourish_script),
         "--input",
         str(attendance_json),
         "--output",
@@ -209,6 +213,17 @@ def run_flourish_table(*, attendance_json: Path, output_csv: Path) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--script",
+        default=str((_REPO_ROOT / ".." / ".." / "legislature-data-analyses" / "attendance" / "attendance.py").resolve()),
+        help="Path to attendance.py from the legislature-data-analyses repository.",
+    )
+    parser.add_argument(
+        "--flourish-script",
+        default=str((_REPO_ROOT / ".." / ".." / "legislature-data-analyses" / "attendance" / "outputs" / "output_flourish_table.py").resolve()),
+        dest="flourish_script",
+        help="Path to attendance/outputs/output_flourish_table.py from legislature-data-analyses.",
+    )
     parser.add_argument(
         "--definition",
         default=str(_REPO_ROOT / "analyses/attendance/attendance_definition.json"),
@@ -248,6 +263,9 @@ def main() -> None:
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+
+    script_path = Path(args.script).resolve()
+    flourish_script = Path(args.flourish_script).resolve()
 
     definition = Path(args.definition)
     votes = Path(args.votes)
@@ -289,7 +307,34 @@ def main() -> None:
     else:
         votes_for_run = votes
 
+    _ensure_dt_schema_file(
+        filename="vote-events.dt.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/vote-events.dt.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt/latest/schemas",
+    )
+    _ensure_dt_schema_file(
+        filename="votes-table.dt.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/votes-table.dt.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt/latest/schemas",
+    )
+    _ensure_dt_schema_file(
+        filename="all-members.dt.analyses.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt.analyses/all-members/latest/schemas/all-members.dt.analyses.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt.analyses/all-members/latest/schemas",
+    )
+    _ensure_dt_schema_file(
+        filename="attendance-definition.dt.analyses.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt.analyses/attendance-definition/latest/schemas/attendance-definition.dt.analyses.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt.analyses/attendance-definition/latest/schemas",
+    )
+    _ensure_dt_schema_file(
+        filename="attendance.dt.analyses.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt.analyses/attendance/latest/schemas/attendance.dt.analyses.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt.analyses/attendance/latest/schemas",
+    )
+
     run_attendance(
+        script_path=script_path,
         definition=definition,
         votes=votes_for_run,
         vote_events=vote_events,
@@ -299,7 +344,11 @@ def main() -> None:
 
     rewrite_group_names(attendance_json=output)
 
-    run_flourish_table(attendance_json=output, output_csv=flourish_output)
+    run_flourish_table(
+        flourish_script=flourish_script,
+        attendance_json=output,
+        output_csv=flourish_output,
+    )
 
 
 if __name__ == "__main__":
