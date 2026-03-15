@@ -48,6 +48,19 @@ _WORK_DIR    = _REPO_ROOT / "work" / "b2-cache"
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
+def _ensure_dt_schema_file(*, filename: str, url: str, schema_dir: str) -> None:
+    import requests
+
+    schema_dir_path = Path(schema_dir)
+    out_path = schema_dir_path / filename
+    if out_path.exists() and out_path.stat().st_size > 0:
+        return
+
+    schema_dir_path.mkdir(parents=True, exist_ok=True)
+    r = requests.get(url, timeout=60)
+    r.raise_for_status()
+    out_path.write_text(r.text, encoding="utf-8")
+
 def _ensure_votes_csv(path: Path) -> None:
     if path.exists() and path.stat().st_size > 0:
         return
@@ -120,6 +133,12 @@ def main() -> None:
     # Ensure input data
     _ensure_votes_csv(votes)
     _ensure_vote_events_json(vote_events)
+
+    _ensure_dt_schema_file(
+        filename="govity-definition.dt.analyses.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt.analyses/govity-definition/latest/schemas/govity-definition.dt.analyses.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt.analyses/govity-definition/latest/schemas",
+    )
 
     output.parent.mkdir(parents=True, exist_ok=True)
 
