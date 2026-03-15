@@ -181,6 +181,10 @@ def main() -> None:
         filename="vote-event-objections.dt.json",
         url="https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/vote-event-objections.dt.json",
     )
+    _ensure_dt_schema_file(
+        filename="vote-events.dt.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/vote-events.dt.json",
+    )
 
     # Optionally filter persons to current members
     if args.use_current_members:
