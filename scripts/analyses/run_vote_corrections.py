@@ -49,15 +49,15 @@ _OUTPUT_CSV  = _REPO_ROOT / "analyses" / "vote-corrections" / "outputs" / "vote_
 _WORK_DIR    = _REPO_ROOT / "work" / "b2-cache"
 
 
-def _ensure_dt_schema_file(*, filename: str, url: str) -> None:
+def _ensure_dt_schema_file(*, filename: str, url: str, schema_dir: str = "/tmp/legislature-data-standard/dist/dt/latest/schemas") -> None:
     import requests
 
-    schema_dir = Path("/tmp/legislature-data-standard/dist/dt/latest/schemas")
-    out_path = schema_dir / filename
+    schema_dir_path = Path(schema_dir)
+    out_path = schema_dir_path / filename
     if out_path.exists() and out_path.stat().st_size > 0:
         return
 
-    schema_dir.mkdir(parents=True, exist_ok=True)
+    schema_dir_path.mkdir(parents=True, exist_ok=True)
     r = requests.get(url, timeout=60)
     r.raise_for_status()
     out_path.write_text(r.text, encoding="utf-8")
@@ -188,6 +188,11 @@ def main() -> None:
     _ensure_dt_schema_file(
         filename="votes-table.dt.json",
         url="https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/votes-table.dt.json",
+    )
+    _ensure_dt_schema_file(
+        filename="all-members.dt.analyses.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt.analyses/all-members/latest/schemas/all-members.dt.analyses.json",
+        schema_dir="/tmp/legislature-data-standard/dist/dt.analyses/all-members/latest/schemas",
     )
 
     # Optionally filter persons to current members
