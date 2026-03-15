@@ -49,6 +49,20 @@ _OUTPUT_CSV  = _REPO_ROOT / "analyses" / "vote-corrections" / "outputs" / "vote_
 _WORK_DIR    = _REPO_ROOT / "work" / "b2-cache"
 
 
+def _ensure_dt_schema_file(*, filename: str, url: str) -> None:
+    import requests
+
+    schema_dir = Path("/tmp/legislature-data-standard/dist/dt/latest/schemas")
+    out_path = schema_dir / filename
+    if out_path.exists() and out_path.stat().st_size > 0:
+        return
+
+    schema_dir.mkdir(parents=True, exist_ok=True)
+    r = requests.get(url, timeout=60)
+    r.raise_for_status()
+    out_path.write_text(r.text, encoding="utf-8")
+
+
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
 def _ensure_objections(path: Path) -> None:
@@ -162,6 +176,11 @@ def main() -> None:
     _ensure_objections(objections)
     _ensure_votes_csv(votes)
     _ensure_vote_events_json(vote_events)
+
+    _ensure_dt_schema_file(
+        filename="vote-event-objections.dt.json",
+        url="https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/vote-event-objections.dt.json",
+    )
 
     # Optionally filter persons to current members
     if args.use_current_members:
