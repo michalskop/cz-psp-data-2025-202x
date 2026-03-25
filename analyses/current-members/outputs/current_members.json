@@ -4704,6 +4704,62 @@
     "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6246.jpg"
   },
   {
+    "id": "psp:person:6664",
+    "name": "Josef Nerušil",
+    "memberships": {
+      "parliament": [
+        {
+          "id": "psp:org:174",
+          "name": "Poslanecká sněmovna",
+          "start_date": "2026-03-11",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "psp:org:1746",
+          "name": "Svoboda a přímá demokracie",
+          "start_date": "2026-03-11",
+          "end_date": ""
+        }
+      ],
+      "candidate_list": [
+        {
+          "id": "psp:org:1291",
+          "name": "Svoboda a prima demokracie - Tomio Okamura",
+          "start_date": "2026-03-11",
+          "end_date": ""
+        }
+      ],
+      "constituency": [
+        {
+          "id": "psp:org:581",
+          "name": "Hlavní město Praha",
+          "start_date": "2026-03-11",
+          "end_date": ""
+        }
+      ]
+    },
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "6664"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_osoba=6664"
+      }
+    ],
+    "given_name": "Josef",
+    "family_name": "Nerušil",
+    "birth_date": "1986-01-17",
+    "death_date": null,
+    "gender": "male",
+    "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6664.jpg"
+  },
+  {
     "id": "psp:person:6946",
     "name": "Josef Váňa",
     "memberships": {
