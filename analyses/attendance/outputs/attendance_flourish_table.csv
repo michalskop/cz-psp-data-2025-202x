@@ -1,202 +1,202 @@
 id,name,photo,candidate_list,group,constituency,present_share,present_share_percent,vote_events_total,present,absent
-psp:person:6491,Adam Vojtěch,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6491.jpg,ANO2011,ANO,Jihočeský,0.8864994026,89,837,742,95
-psp:person:6997,Adriana Chochelová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6997.jpg,Starostove a nezavisli,STAN,Středočeský,0.7443249701,74,837,623,214
-psp:person:6545,Alena Schillerová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6545.jpg,ANO2011,ANO,Jihomoravský,0.6463560335,65,837,541,296
-psp:person:6463,Aleš Juchelka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6463.jpg,ANO2011,ANO,Moravskoslezský,0.8446833931,84,837,707,130
-psp:person:6905,Andrea Hoffmannová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6905.jpg,Česká pirátská strana,Piráti,Moravskoslezský,0.7096774194,71,837,594,243
-psp:person:6150,Andrej Babiš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6150.jpg,ANO2011,ANO,Moravskoslezský,0.5364396655,54,837,449,388
-psp:person:7026,Anežka Nedomová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7026.jpg,Starostove a nezavisli,STAN,Pardubický,0.8434886499,84,837,706,131
-psp:person:7035,Barbora Pipášová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7035.jpg,Česká pirátská strana,Piráti,Vysočina,0.9295101553,93,837,778,59
-psp:person:7038,Barbora Rázga,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7038.jpg,ANO2011,ANO,Hlavní město Praha,0.9868578256,99,837,826,11
-psp:person:6788,Barbora Urbanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6788.jpg,Starostove a nezavisli,STAN,Středočeský,0.7813620072,78,837,654,183
-psp:person:6998,Benjamin Činčila,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6998.jpg,Spolu,KDU-ČSL,Vysočina,0.917562724,92,837,768,69
-psp:person:6780,Berenika Peštová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6780.jpg,ANO2011,ANO,Ústecký,0.7921146953,79,837,663,174
-psp:person:7028,Bohuslav Niemiec,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7028.jpg,Spolu,KDU-ČSL,Moravskoslezský,0.8912783751,89,837,746,91
-psp:person:5512,Boris Šťastný,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5512.jpg,Motoristé sobě,Motoristé,Hlavní město Praha,0.9211469534,92,837,771,66
-psp:person:6209,David Kasal,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6209.jpg,ANO2011,ANO,Pardubický,0.7574671446,76,837,634,203
-psp:person:6527,David Pražák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6527.jpg,ANO2011,ANO,Liberecký,0.8745519713,87,837,732,105
-psp:person:6484,David Štolpa,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6484.jpg,ANO2011,ANO,Jihomoravský,0.9964157706,100,837,834,3
-psp:person:7000,Denis Doksanský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7000.jpg,ANO2011,ANO,Královéhradecký,0.8410991637,84,837,704,133
-psp:person:6991,Drahomír Blažej,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6991.jpg,ANO2011,ANO,Středočeský,0.9677419355,97,837,810,27
-psp:person:6782,Drahoslav Ryba,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6782.jpg,ANO2011,ANO,Vysočina,0.9988052569,100,837,836,1
-psp:person:6766,Eliška Olšáková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6766.jpg,Starostove a nezavisli,STAN,Zlínský,0.8614097969,86,837,721,116
-psp:person:7061,Ester Weimerová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7061.jpg,Starostove a nezavisli,STAN,Moravskoslezský,1.0,100,837,837,0
-psp:person:6727,Eva Decroix,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6727.jpg,Spolu,ODS,Vysočina,0.6666666667,67,837,558,279
-psp:person:6457,Eva Fialová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6457.jpg,ANO2011,ANO,Ústecký,0.972520908,97,837,814,23
-psp:person:7046,Eva Šrámková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7046.jpg,Česká pirátská strana,Piráti,Plzeňský,0.761051374,76,837,637,200
-psp:person:7059,Filip Turek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7059.jpg,Motoristé sobě,Motoristé,Středočeský,0.7443249701,74,837,623,214
-psp:person:6995,František Bureš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6995.jpg,ANO2011,ANO,Středočeský,0.9940262843,99,837,832,5
-psp:person:6409,František Petrtýl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6409.jpg,ANO2011,ANO,Středočeský,0.9916367981,99,837,830,7
-psp:person:7052,František Talíř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7052.jpg,Spolu,KDU-ČSL,Jihočeský,0.9510155317,95,837,796,41
-psp:person:7041,Gabriela Sedláčková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7041.jpg,Motoristé sobě,Motoristé,Olomoucký,0.9713261649,97,837,813,24
-psp:person:7049,Gabriela Svárovská,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7049.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.7789725209,78,837,652,185
-psp:person:6986,Hana Ančincová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6986.jpg,Česká pirátská strana,Piráti,Zlínský,0.86260454,86,837,722,115
-psp:person:6769,Hayato Okamura,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6769.jpg,Spolu,KDU-ČSL,Hlavní město Praha,0.8028673835,80,837,672,165
-psp:person:5943,Helena Langšádlová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5943.jpg,Spolu,TOP 09,Středočeský,0.7646356033,76,837,640,197
-psp:person:6168,Helena Válková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6168.jpg,ANO2011,ANO,Středočeský,0.7084826762,71,837,593,244
-psp:person:6738,Hubert Lang,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6738.jpg,ANO2011,ANO,Plzeňský,0.3464755078,35,837,290,547
-psp:person:6758,Igor Hendrych,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6758.jpg,ANO2011,ANO,Moravskoslezský,0.9330943847,93,837,781,56
-psp:person:6996,Igor Červený,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6996.jpg,Motoristé sobě,Motoristé,Středočeský,0.908004779,91,837,760,77
-psp:person:7003,Irena Ferčíková Konečná,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7003.jpg,Česká pirátská strana,Piráti,Jihomoravský,0.7789725209,78,837,652,185
-psp:person:7027,Irena Němcová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7027.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Královéhradecký,0.917562724,92,837,768,69
-psp:person:5700,Ivan Adamec,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5700.jpg,Spolu,ODS,Královéhradecký,0.8745519713,87,837,732,105
-psp:person:6433,Ivan Bartoš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6433.jpg,Česká pirátská strana,Piráti,Středočeský,0.8721624851,87,837,730,107
-psp:person:6732,Ivana Mádlová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6732.jpg,ANO2011,ANO,Plzeňský,0.9940262843,99,837,832,5
-psp:person:6459,Jakub Janda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6459.jpg,Spolu,ODS,Moravskoslezský,0.9832735962,98,837,823,14
-psp:person:7015,Jakub Krainer,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7015.jpg,Starostove a nezavisli,STAN,Jihomoravský,0.972520908,97,837,814,23
-psp:person:6178,Jan Bartošek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6178.jpg,Spolu,KDU-ČSL,Jihočeský,0.5591397849,56,837,468,369
-psp:person:5379,Jan Bauer,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5379.jpg,Spolu,ODS,Jihočeský,0.7108721625,71,837,595,242
-psp:person:6722,Jan Berki,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6722.jpg,Starostove a nezavisli,STAN,Liberecký,0.9271206691,93,837,776,61
-psp:person:5899,Jan Bureš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5899.jpg,Spolu,ODS,Karlovarský,0.9115890084,91,837,763,74
-psp:person:6455,Jan Hrnčíř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6455.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Pardubický,0.9127837515,91,837,764,73
-psp:person:6687,Jan Jakob,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6687.jpg,Spolu,TOP 09,Středočeský,0.8781362007,88,837,735,102
-psp:person:6537,Jan Lipavský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6537.jpg,Spolu,ODS,Hlavní město Praha,0.6869772999,69,837,575,262
-psp:person:7030,Jan Papajanovský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7030.jpg,Starostove a nezavisli,STAN,Ústecký,0.6093189964,61,837,510,327
-psp:person:6500,Jan Richter,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6500.jpg,ANO2011,ANO,Ústecký,0.9844683393,98,837,824,13
-psp:person:6418,Jan Skopeček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6418.jpg,Spolu,ODS,Středočeský,0.8984468339,90,837,752,85
-psp:person:7050,Jan Sviták,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7050.jpg,Starostove a nezavisli,STAN,Liberecký,0.421744325,42,837,353,484
-psp:person:6783,Jan Síla,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6783.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Moravskoslezský,0.8303464755,83,837,695,142
-psp:person:6719,Jana Bačíková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6719.jpg,Spolu,ODS,Jihomoravský,0.8793309438,88,837,736,101
-psp:person:6723,Jana Berkovcová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6723.jpg,ANO2011,ANO,Královéhradecký,0.7514934289,75,837,629,208
-psp:person:7068,Jana Demjanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7068.jpg,ANO2011,ANO,Ústecký,0.9952095808,100,835,831,4
-psp:person:7004,Jana Filipovičová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7004.jpg,Spolu,KDU-ČSL,Jihomoravský,0.9545997611,95,837,799,38
-psp:person:6753,Jana Hanzlíková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6753.jpg,ANO2011,ANO,Pardubický,0.9808841099,98,837,821,16
-psp:person:6466,Jana Krutáková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6466.jpg,Starostove a nezavisli,STAN,Jihomoravský,0.8506571087,85,837,712,125
-psp:person:7025,Jana Murová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7025.jpg,ANO2011,ANO,Moravskoslezský,0.9545997611,95,837,799,38
-psp:person:6225,Jana Pastuchová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6225.jpg,ANO2011,ANO,Liberecký,0.9307048984,93,837,779,58
-psp:person:7032,Jana Patková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7032.jpg,Česká pirátská strana,Piráti,Královéhradecký,0.8148148148,81,837,682,155
-psp:person:5903,Jana Černochová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5903.jpg,Spolu,ODS,Hlavní město Praha,0.6810035842,68,837,570,267
-psp:person:6190,Jaroslav Faltýnek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6190.jpg,ANO2011,ANO,Olomoucký,0.9247311828,92,837,774,63
-psp:person:5911,Jaroslav Foldyna,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5911.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Ústecký,0.8028673835,80,837,672,165
-psp:person:7037,Jindřich Rajchl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7037.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Moravskoslezský,0.807646356,81,837,676,161
-psp:person:7056,Jitka Volfová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7056.jpg,ANO2011,ANO,Liberecký,0.8948626045,89,837,749,88
-psp:person:7009,Jiřina Klčová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7009.jpg,ANO2011,ANO,Pardubický,0.9976105137,100,837,835,2
-psp:person:6987,Jiří Barták,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6987.jpg,Motoristé sobě,Motoristé,Zlínský,0.982078853,98,837,822,15
-psp:person:6993,Jiří Bouška,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6993.jpg,ANO2011,ANO,Středočeský,0.9259259259,93,837,775,62
-psp:person:6755,Jiří Havránek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6755.jpg,Spolu,ODS,Středočeský,0.7562724014,76,837,633,204
-psp:person:6803,Jiří Horák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6803.jpg,Spolu,KDU-ČSL,Jihomoravský,0.8446833931,84,837,707,130
-psp:person:6534,Jiří Mašek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6534.jpg,ANO2011,ANO,Královéhradecký,0.9259259259,93,837,775,62
-psp:person:7067,Jiří Penc,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7067.jpg,ANO2011,ANO,Karlovarský,0.9916167665,99,835,828,7
-psp:person:5273,Jiří Pospíšil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5273.jpg,Spolu,TOP 09,Hlavní město Praha,0.6905615293,69,837,578,259
-psp:person:6515,Jiří Strýček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6515.jpg,ANO2011,ANO,Moravskoslezský,0.8793309438,88,837,736,101
-psp:person:7033,Jiří Svoboda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7033.jpg,ANO2011,ANO,Moravskoslezský,0.8172043011,82,837,684,153
-psp:person:7055,Jiří Vojáček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7055.jpg,Spolu,KDU-ČSL,Královéhradecký,0.7013142174,70,837,587,250
-psp:person:6750,Josef Flek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6750.jpg,Starostove a nezavisli,STAN,Jihomoravský,0.8136200717,81,837,681,156
-psp:person:6246,Josef Kott,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6246.jpg,ANO2011,ANO,Vysočina,0.9988052569,100,837,836,1
-psp:person:6664,Josef Nerušil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6664.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Hlavní město Praha,0.5435897436,54,195,106,89
-psp:person:6946,Josef Váňa,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6946.jpg,ANO2011,ANO,Karlovarský,0.7968936679,80,837,667,170
-psp:person:7044,Julie Smejkalová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7044.jpg,Starostove a nezavisli,STAN,Hlavní město Praha,0.8566308244,86,837,717,120
-psp:person:6447,Kamal Farhan,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6447.jpg,ANO2011,ANO,Plzeňský,1.0,100,837,837,0
-psp:person:6990,Karel Beran,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6990.jpg,Motoristé sobě,Motoristé,Vysočina,0.6941457587,69,837,581,256
-psp:person:7002,Karel Dvořák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7002.jpg,Starostove a nezavisli,STAN,Hlavní město Praha,0.6594982079,66,837,552,285
-psp:person:6751,Karel Haas,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6751.jpg,Spolu,ODS,Pardubický,0.9832735962,98,837,823,14
-psp:person:6621,Karel Havlíček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6621.jpg,ANO2011,ANO,Hlavní město Praha,0.5125448029,51,837,429,408
-psp:person:6240,Karel Tureček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6240.jpg,ANO2011,ANO,Jihočeský,0.8793309438,88,837,736,101
-psp:person:7005,Karin Gajdová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7005.jpg,ANO2011,ANO,Moravskoslezský,0.9832735962,98,837,823,14
-psp:person:6999,Katerina Demetrashvili,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6999.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.8602150538,86,837,720,117
-psp:person:7048,Kateřina Stojanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7048.jpg,Česká pirátská strana,Piráti,Ústecký,0.9259259259,93,837,775,62
-psp:person:6172,Ladislav Okleštěk,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6172.jpg,ANO2011,ANO,Olomoucký,0.8673835125,87,837,726,111
-psp:person:6431,Lenka Dražilová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6431.jpg,ANO2011,ANO,Jihomoravský,0.8793309438,88,837,736,101
-psp:person:7023,Lenka Martínková Španihelová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7023.jpg,Česká pirátská strana,Piráti,Pardubický,0.8291517324,83,837,694,143
-psp:person:6693,Libor Hoppe,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6693.jpg,Spolu,ODS,Jihomoravský,0.6654719235,67,837,557,280
-psp:person:6787,Libor Turek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6787.jpg,Spolu,ODS,Ústecký,0.9593787336,96,837,803,34
-psp:person:7058,Libor Vondráček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7058.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Jihočeský,0.9378733572,94,837,785,52
-psp:person:6544,Lubomír Metnar,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6544.jpg,ANO2011,ANO,Olomoucký,0.880525687,88,837,737,100
-psp:person:6730,Lubomír Wenzl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6730.jpg,ANO2011,ANO,Jihomoravský,1.0,100,837,837,0
-psp:person:6989,Lucie Bartošová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6989.jpg,Spolu,ODS,Liberecký,0.8960573477,90,837,750,87
-psp:person:7042,Lucie Sedmihradská,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7042.jpg,Starostove a nezavisli,STAN,Hlavní město Praha,0.8924731183,89,837,747,90
-psp:person:6479,Lucie Šafránková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6479.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Jihomoravský,0.9964157706,100,837,834,3
-psp:person:6789,Lukáš Vlček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6789.jpg,Starostove a nezavisli,STAN,Vysočina,0.8614097969,86,837,721,116
-psp:person:4,Marek Benda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i4.jpg,Spolu,ODS,Hlavní město Praha,0.8040621266,80,837,673,164
-psp:person:6533,Marek Novák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6533.jpg,ANO2011,ANO,Zlínský,0.9916367981,99,837,830,7
-psp:person:6513,Marek Výborný,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6513.jpg,Spolu,KDU-ČSL,Pardubický,0.8124253286,81,837,680,157
-psp:person:6154,Marek Ženíšek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6154.jpg,Spolu,TOP 09,Plzeňský,0.6356033453,64,837,532,305
-psp:person:6205,Marian Jurečka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6205.jpg,Spolu,KDU-ČSL,Olomoucký,0.7108721625,71,837,595,242
-psp:person:7018,Marie Kršková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7018.jpg,Spolu,KDU-ČSL,Pardubický,0.8614097969,86,837,721,116
-psp:person:6745,Marie Pošarová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6745.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Plzeňský,0.9235364397,92,837,773,64
+psp:person:6491,Adam Vojtěch,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6491.jpg,ANO2011,ANO,Jihočeský,0.8844339623,88,848,750,98
+psp:person:6997,Adriana Chochelová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6997.jpg,Starostove a nezavisli,STAN,Středočeský,0.7382075472,74,848,626,222
+psp:person:6545,Alena Schillerová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6545.jpg,ANO2011,ANO,Jihomoravský,0.6509433962,65,848,552,296
+psp:person:6463,Aleš Juchelka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6463.jpg,ANO2011,ANO,Moravskoslezský,0.8455188679,85,848,717,131
+psp:person:6905,Andrea Hoffmannová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6905.jpg,Česká pirátská strana,Piráti,Moravskoslezský,0.7122641509,71,848,604,244
+psp:person:6150,Andrej Babiš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6150.jpg,ANO2011,ANO,Moravskoslezský,0.5294811321,53,848,449,399
+psp:person:7026,Anežka Nedomová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7026.jpg,Starostove a nezavisli,STAN,Pardubický,0.8360849057,84,848,709,139
+psp:person:7035,Barbora Pipášová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7035.jpg,Česká pirátská strana,Piráti,Vysočina,0.929245283,93,848,788,60
+psp:person:7038,Barbora Rázga,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7038.jpg,ANO2011,ANO,Hlavní město Praha,0.9870283019,99,848,837,11
+psp:person:6788,Barbora Urbanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6788.jpg,Starostove a nezavisli,STAN,Středočeský,0.7830188679,78,848,664,184
+psp:person:6998,Benjamin Činčila,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6998.jpg,Spolu,KDU-ČSL,Vysočina,0.9091981132,91,848,771,77
+psp:person:6780,Berenika Peštová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6780.jpg,ANO2011,ANO,Ústecký,0.7948113208,79,848,674,174
+psp:person:7028,Bohuslav Niemiec,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7028.jpg,Spolu,KDU-ČSL,Moravskoslezský,0.8903301887,89,848,755,93
+psp:person:5512,Boris Šťastný,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5512.jpg,Motoristé sobě,Motoristé,Hlavní město Praha,0.920990566,92,848,781,67
+psp:person:6209,David Kasal,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6209.jpg,ANO2011,ANO,Pardubický,0.7606132075,76,848,645,203
+psp:person:6527,David Pražák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6527.jpg,ANO2011,ANO,Liberecký,0.8761792453,88,848,743,105
+psp:person:6484,David Štolpa,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6484.jpg,ANO2011,ANO,Jihomoravský,0.9964622642,100,848,845,3
+psp:person:7000,Denis Doksanský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7000.jpg,ANO2011,ANO,Královéhradecký,0.8349056604,83,848,708,140
+psp:person:6991,Drahomír Blažej,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6991.jpg,ANO2011,ANO,Středočeský,0.9681603774,97,848,821,27
+psp:person:6782,Drahoslav Ryba,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6782.jpg,ANO2011,ANO,Vysočina,0.9988207547,100,848,847,1
+psp:person:6766,Eliška Olšáková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6766.jpg,Starostove a nezavisli,STAN,Zlínský,0.8608490566,86,848,730,118
+psp:person:7061,Ester Weimerová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7061.jpg,Starostove a nezavisli,STAN,Moravskoslezský,1.0,100,848,848,0
+psp:person:6727,Eva Decroix,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6727.jpg,Spolu,ODS,Vysočina,0.6686320755,67,848,567,281
+psp:person:6457,Eva Fialová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6457.jpg,ANO2011,ANO,Ústecký,0.9728773585,97,848,825,23
+psp:person:7046,Eva Šrámková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7046.jpg,Česká pirátská strana,Piráti,Plzeňský,0.7629716981,76,848,647,201
+psp:person:7059,Filip Turek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7059.jpg,Motoristé sobě,Motoristé,Středočeský,0.7476415094,75,848,634,214
+psp:person:6995,František Bureš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6995.jpg,ANO2011,ANO,Středočeský,0.9941037736,99,848,843,5
+psp:person:6409,František Petrtýl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6409.jpg,ANO2011,ANO,Středočeský,0.991745283,99,848,841,7
+psp:person:7052,František Talíř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7052.jpg,Spolu,KDU-ČSL,Jihočeský,0.9504716981,95,848,806,42
+psp:person:7041,Gabriela Sedláčková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7041.jpg,Motoristé sobě,Motoristé,Olomoucký,0.9716981132,97,848,824,24
+psp:person:7049,Gabriela Svárovská,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7049.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.7783018868,78,848,660,188
+psp:person:6986,Hana Ančincová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6986.jpg,Česká pirátská strana,Piráti,Zlínský,0.8643867925,86,848,733,115
+psp:person:6769,Hayato Okamura,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6769.jpg,Spolu,KDU-ČSL,Hlavní město Praha,0.804245283,80,848,682,166
+psp:person:5943,Helena Langšádlová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5943.jpg,Spolu,TOP 09,Středočeský,0.7629716981,76,848,647,201
+psp:person:6168,Helena Válková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6168.jpg,ANO2011,ANO,Středočeský,0.7099056604,71,848,602,246
+psp:person:6738,Hubert Lang,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6738.jpg,ANO2011,ANO,Plzeňský,0.3443396226,34,848,292,556
+psp:person:6758,Igor Hendrych,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6758.jpg,ANO2011,ANO,Moravskoslezský,0.9339622642,93,848,792,56
+psp:person:6996,Igor Červený,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6996.jpg,Motoristé sobě,Motoristé,Středočeský,0.9080188679,91,848,770,78
+psp:person:7003,Irena Ferčíková Konečná,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7003.jpg,Česká pirátská strana,Piráti,Jihomoravský,0.7688679245,77,848,652,196
+psp:person:7027,Irena Němcová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7027.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Královéhradecký,0.9056603774,91,848,768,80
+psp:person:5700,Ivan Adamec,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5700.jpg,Spolu,ODS,Královéhradecký,0.8738207547,87,848,741,107
+psp:person:6433,Ivan Bartoš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6433.jpg,Česká pirátská strana,Piráti,Středočeský,0.8632075472,86,848,732,116
+psp:person:6732,Ivana Mádlová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6732.jpg,ANO2011,ANO,Plzeňský,0.9941037736,99,848,843,5
+psp:person:6459,Jakub Janda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6459.jpg,Spolu,ODS,Moravskoslezský,0.9811320755,98,848,832,16
+psp:person:7015,Jakub Krainer,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7015.jpg,Starostove a nezavisli,STAN,Jihomoravský,0.9728773585,97,848,825,23
+psp:person:6178,Jan Bartošek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6178.jpg,Spolu,KDU-ČSL,Jihočeský,0.5518867925,55,848,468,380
+psp:person:5379,Jan Bauer,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5379.jpg,Spolu,ODS,Jihočeský,0.7016509434,70,848,595,253
+psp:person:6722,Jan Berki,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6722.jpg,Starostove a nezavisli,STAN,Liberecký,0.9280660377,93,848,787,61
+psp:person:5899,Jan Bureš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5899.jpg,Spolu,ODS,Karlovarský,0.8997641509,90,848,763,85
+psp:person:6455,Jan Hrnčíř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6455.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Pardubický,0.9139150943,91,848,775,73
+psp:person:6687,Jan Jakob,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6687.jpg,Spolu,TOP 09,Středočeský,0.8797169811,88,848,746,102
+psp:person:6537,Jan Lipavský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6537.jpg,Spolu,ODS,Hlavní město Praha,0.6816037736,68,848,578,270
+psp:person:7030,Jan Papajanovský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7030.jpg,Starostove a nezavisli,STAN,Ústecký,0.6120283019,61,848,519,329
+psp:person:6500,Jan Richter,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6500.jpg,ANO2011,ANO,Ústecký,0.9740566038,97,848,826,22
+psp:person:6418,Jan Skopeček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6418.jpg,Spolu,ODS,Středočeský,0.8891509434,89,848,754,94
+psp:person:7050,Jan Sviták,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7050.jpg,Starostove a nezavisli,STAN,Liberecký,0.4162735849,42,848,353,495
+psp:person:6783,Jan Síla,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6783.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Moravskoslezský,0.8313679245,83,848,705,143
+psp:person:6719,Jana Bačíková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6719.jpg,Spolu,ODS,Jihomoravský,0.8797169811,88,848,746,102
+psp:person:6723,Jana Berkovcová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6723.jpg,ANO2011,ANO,Královéhradecký,0.7547169811,75,848,640,208
+psp:person:7068,Jana Demjanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7068.jpg,ANO2011,ANO,Ústecký,0.9952718676,100,846,842,4
+psp:person:7004,Jana Filipovičová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7004.jpg,Spolu,KDU-ČSL,Jihomoravský,0.954009434,95,848,809,39
+psp:person:6753,Jana Hanzlíková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6753.jpg,ANO2011,ANO,Pardubický,0.9799528302,98,848,831,17
+psp:person:6466,Jana Krutáková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6466.jpg,Starostove a nezavisli,STAN,Jihomoravský,0.8514150943,85,848,722,126
+psp:person:7025,Jana Murová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7025.jpg,ANO2011,ANO,Moravskoslezský,0.9551886792,96,848,810,38
+psp:person:6225,Jana Pastuchová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6225.jpg,ANO2011,ANO,Liberecký,0.9316037736,93,848,790,58
+psp:person:7032,Jana Patková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7032.jpg,Česká pirátská strana,Piráti,Královéhradecký,0.8172169811,82,848,693,155
+psp:person:5903,Jana Černochová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5903.jpg,Spolu,ODS,Hlavní město Praha,0.6757075472,68,848,573,275
+psp:person:6190,Jaroslav Faltýnek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6190.jpg,ANO2011,ANO,Olomoucký,0.9245283019,92,848,784,64
+psp:person:5911,Jaroslav Foldyna,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5911.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Ústecký,0.804245283,80,848,682,166
+psp:person:7037,Jindřich Rajchl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7037.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Moravskoslezský,0.7995283019,80,848,678,170
+psp:person:7056,Jitka Volfová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7056.jpg,ANO2011,ANO,Liberecký,0.8962264151,90,848,760,88
+psp:person:7009,Jiřina Klčová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7009.jpg,ANO2011,ANO,Pardubický,0.9964622642,100,848,845,3
+psp:person:6987,Jiří Barták,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6987.jpg,Motoristé sobě,Motoristé,Zlínský,0.9823113208,98,848,833,15
+psp:person:6993,Jiří Bouška,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6993.jpg,ANO2011,ANO,Středočeský,0.9268867925,93,848,786,62
+psp:person:6755,Jiří Havránek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6755.jpg,Spolu,ODS,Středočeský,0.7570754717,76,848,642,206
+psp:person:6803,Jiří Horák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6803.jpg,Spolu,KDU-ČSL,Jihomoravský,0.8408018868,84,848,713,135
+psp:person:6534,Jiří Mašek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6534.jpg,ANO2011,ANO,Královéhradecký,0.9268867925,93,848,786,62
+psp:person:7067,Jiří Penc,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7067.jpg,ANO2011,ANO,Karlovarský,0.9917257683,99,846,839,7
+psp:person:5273,Jiří Pospíšil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5273.jpg,Spolu,TOP 09,Hlavní město Praha,0.6827830189,68,848,579,269
+psp:person:6515,Jiří Strýček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6515.jpg,ANO2011,ANO,Moravskoslezský,0.8808962264,88,848,747,101
+psp:person:7033,Jiří Svoboda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7033.jpg,ANO2011,ANO,Moravskoslezský,0.8125,81,848,689,159
+psp:person:7055,Jiří Vojáček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7055.jpg,Spolu,KDU-ČSL,Královéhradecký,0.7016509434,70,848,595,253
+psp:person:6750,Josef Flek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6750.jpg,Starostove a nezavisli,STAN,Jihomoravský,0.804245283,80,848,682,166
+psp:person:6246,Josef Kott,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6246.jpg,ANO2011,ANO,Vysočina,0.9988207547,100,848,847,1
+psp:person:6664,Josef Nerušil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6664.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Hlavní město Praha,0.5388349515,54,206,111,95
+psp:person:6946,Josef Váňa,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6946.jpg,ANO2011,ANO,Karlovarský,0.7995283019,80,848,678,170
+psp:person:7044,Julie Smejkalová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7044.jpg,Starostove a nezavisli,STAN,Hlavní město Praha,0.8573113208,86,848,727,121
+psp:person:6447,Kamal Farhan,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6447.jpg,ANO2011,ANO,Plzeňský,1.0,100,848,848,0
+psp:person:6990,Karel Beran,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6990.jpg,Motoristé sobě,Motoristé,Vysočina,0.6945754717,69,848,589,259
+psp:person:7002,Karel Dvořák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7002.jpg,Starostove a nezavisli,STAN,Hlavní město Praha,0.6544811321,65,848,555,293
+psp:person:6751,Karel Haas,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6751.jpg,Spolu,ODS,Pardubický,0.9823113208,98,848,833,15
+psp:person:6621,Karel Havlíček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6621.jpg,ANO2011,ANO,Hlavní město Praha,0.5106132075,51,848,433,415
+psp:person:6240,Karel Tureček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6240.jpg,ANO2011,ANO,Jihočeský,0.8808962264,88,848,747,101
+psp:person:7005,Karin Gajdová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7005.jpg,ANO2011,ANO,Moravskoslezský,0.9823113208,98,848,833,15
+psp:person:6999,Katerina Demetrashvili,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6999.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.8514150943,85,848,722,126
+psp:person:7048,Kateřina Stojanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7048.jpg,Česká pirátská strana,Piráti,Ústecký,0.9257075472,93,848,785,63
+psp:person:6172,Ladislav Okleštěk,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6172.jpg,ANO2011,ANO,Olomoucký,0.8691037736,87,848,737,111
+psp:person:6431,Lenka Dražilová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6431.jpg,ANO2011,ANO,Jihomoravský,0.8679245283,87,848,736,112
+psp:person:7023,Lenka Martínková Španihelová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7023.jpg,Česká pirátská strana,Piráti,Pardubický,0.8301886792,83,848,704,144
+psp:person:6693,Libor Hoppe,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6693.jpg,Spolu,ODS,Jihomoravský,0.6662735849,67,848,565,283
+psp:person:6787,Libor Turek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6787.jpg,Spolu,ODS,Ústecký,0.9599056604,96,848,814,34
+psp:person:7058,Libor Vondráček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7058.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Jihočeský,0.9386792453,94,848,796,52
+psp:person:6544,Lubomír Metnar,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6544.jpg,ANO2011,ANO,Olomoucký,0.8820754717,88,848,748,100
+psp:person:6730,Lubomír Wenzl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6730.jpg,ANO2011,ANO,Jihomoravský,1.0,100,848,848,0
+psp:person:6989,Lucie Bartošová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6989.jpg,Spolu,ODS,Liberecký,0.8974056604,90,848,761,87
+psp:person:7042,Lucie Sedmihradská,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7042.jpg,Starostove a nezavisli,STAN,Hlavní město Praha,0.8938679245,89,848,758,90
+psp:person:6479,Lucie Šafránková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6479.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Jihomoravský,0.9964622642,100,848,845,3
+psp:person:6789,Lukáš Vlček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6789.jpg,Starostove a nezavisli,STAN,Vysočina,0.8537735849,85,848,724,124
+psp:person:4,Marek Benda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i4.jpg,Spolu,ODS,Hlavní město Praha,0.8030660377,80,848,681,167
+psp:person:6533,Marek Novák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6533.jpg,ANO2011,ANO,Zlínský,0.9905660377,99,848,840,8
+psp:person:6513,Marek Výborný,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6513.jpg,Spolu,KDU-ČSL,Pardubický,0.8148584906,81,848,691,157
+psp:person:6154,Marek Ženíšek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6154.jpg,Spolu,TOP 09,Plzeňský,0.6356132075,64,848,539,309
+psp:person:6205,Marian Jurečka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6205.jpg,Spolu,KDU-ČSL,Olomoucký,0.7063679245,71,848,599,249
+psp:person:7018,Marie Kršková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7018.jpg,Spolu,KDU-ČSL,Pardubický,0.8620283019,86,848,731,117
+psp:person:6745,Marie Pošarová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6745.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Plzeňský,0.9233490566,92,848,783,65
 psp:person:7047,Markéta Šichtařová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7047.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Hlavní město Praha,0.5825545171,58,642,374,268
-psp:person:6435,Martin Baxa,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6435.jpg,Spolu,ODS,Plzeňský,0.9318996416,93,837,780,57
-psp:person:6211,Martin Kolovratník,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6211.jpg,ANO2011,ANO,Pardubický,0.7048984468,70,837,590,247
-psp:person:7021,Martin Kupec,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7021.jpg,ANO2011,ANO,Jihočeský,0.8745519713,87,837,732,105
-psp:person:6538,Martin Kupka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6538.jpg,Spolu,ODS,Středočeský,0.6618876941,66,837,554,283
-psp:person:7062,Martin Záhoř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7062.jpg,ANO2011,ANO,Plzeňský,1.0,100,837,837,0
-psp:person:7065,Martin Šmída,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7065.jpg,Česká pirátská strana,Piráti,Olomoucký,0.9265605875,93,817,757,60
-psp:person:7006,Matěj Gregor,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7006.jpg,Motoristé sobě,Motoristé,Moravskoslezský,0.8446833931,84,837,707,130
-psp:person:7011,Matěj Hlavatý,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7011.jpg,Starostove a nezavisli,STAN,Královéhradecký,0.8554360812,86,837,716,121
-psp:person:6754,Matěj Ondřej Havel,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6754.jpg,Spolu,TOP 09,Královéhradecký,0.7228195938,72,837,605,232
-psp:person:7024,Michaela Moricová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7024.jpg,Česká pirátská strana,Piráti,Moravskoslezský,0.9593787336,96,837,803,34
-psp:person:6767,Michaela Opltová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6767.jpg,Starostove a nezavisli,STAN,Plzeňský,0.6953405018,70,837,582,255
-psp:person:6763,Michaela Šebelová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6763.jpg,Starostove a nezavisli,STAN,Moravskoslezský,0.9307048984,93,837,779,58
-psp:person:6216,Michal Kučera,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6216.jpg,Spolu,TOP 09,Ústecký,0.7168458781,72,837,600,237
-psp:person:6523,Michal Ratiborský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6523.jpg,ANO2011,ANO,Moravskoslezský,0.9880525687,99,837,827,10
-psp:person:6796,Michal Zuna,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6796.jpg,Spolu,TOP 09,Hlavní město Praha,0.9749103943,97,837,816,21
-psp:person:6185,Milan Brázdil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6185.jpg,ANO2011,ANO,Olomoucký,0.9916367981,99,837,830,7
-psp:person:6201,Miloslav Janulík,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6201.jpg,ANO2011,ANO,Jihomoravský,0.9390681004,94,837,786,51
-psp:person:7016,Miroslav Krejčí,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7016.jpg,Motoristé sobě,Motoristé,Jihočeský,0.9617682198,96,837,805,32
-psp:person:6688,Miroslav Samaš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6688.jpg,ANO2011,ANO,Středočeský,1.0,100,837,837,0
-psp:person:6064,Miroslav Ševčík,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6064.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Jihomoravský,0.9032258065,90,837,756,81
-psp:person:7064,Miroslav Žbánek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7064.jpg,ANO2011,ANO,Olomoucký,0.9247311828,92,837,774,63
-psp:person:6994,Monika Brzesková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6994.jpg,Spolu,KDU-ČSL,Moravskoslezský,0.9151732378,92,837,766,71
-psp:person:7007,Monika Hubíková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7007.jpg,ANO2011,ANO,Zlínský,0.9976105137,100,837,835,2
-psp:person:6475,Monika Oborná,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6475.jpg,ANO2011,ANO,Vysočina,0.9223416965,92,837,772,65
-psp:person:6473,Olga Richterová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6473.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.8912783751,89,837,746,91
-psp:person:6623,Ondřej Babka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6623.jpg,ANO2011,ANO,Jihočeský,0.9916367981,99,837,830,7
-psp:person:7010,Oto Klempíř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7010.jpg,Motoristé sobě,Motoristé,Plzeňský,0.743130227,74,837,622,215
-psp:person:7060,Otto Vopěnka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7060.jpg,ANO2011,ANO,Vysočina,0.9856630824,99,837,825,12
-psp:person:6487,Patrik Nacher,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6487.jpg,ANO2011,ANO,Hlavní město Praha,0.9426523297,94,837,789,48
-psp:person:7031,Patrik Pařil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7031.jpg,ANO2011,ANO,Jihomoravský,0.8458781362,85,837,708,129
-psp:person:6988,Pavel Bartoň,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6988.jpg,ANO2011,ANO,Zlínský,0.9952210275,100,837,833,4
-psp:person:6603,Pavel Karpíšek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6603.jpg,Spolu,ODS,Plzeňský,0.6367980884,64,837,533,304
-psp:person:7029,Pavel Outrata,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7029.jpg,ANO2011,ANO,Jihomoravský,0.8661887694,87,837,725,112
-psp:person:6520,Pavel Růžička,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6520.jpg,ANO2011,ANO,Ústecký,0.9988052569,100,837,836,1
-psp:person:5226,Pavel Žáček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5226.jpg,Spolu,ODS,Hlavní město Praha,0.5077658303,51,837,425,412
-psp:person:6762,Pavla Pivoňka Vaňková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6762.jpg,Starostove a nezavisli,STAN,Jihočeský,0.7658303465,77,837,641,196
-psp:person:346,Petr Bendl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i346.jpg,Spolu,ODS,Středočeský,0.7968936679,80,837,667,170
-psp:person:6074,Petr Fiala,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6074.jpg,Spolu,ODS,Jihomoravský,0.7538829152,75,837,631,206
-psp:person:6881,Petr Hladík,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6881.jpg,Spolu,KDU-ČSL,Jihomoravský,0.8172043011,82,837,684,153
-psp:person:7014,Petr Kowanda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7014.jpg,ANO2011,ANO,Středočeský,0.9988052569,100,837,836,1
-psp:person:7022,Petr Macinka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7022.jpg,Motoristé sobě,Motoristé,Jihomoravský,0.7048984468,70,837,590,247
-psp:person:6518,Petr Sadovský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6518.jpg,ANO2011,ANO,Královéhradecký,0.9653524492,97,837,808,29
-psp:person:7045,Petr Sokol,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7045.jpg,Spolu,ODS,Olomoucký,0.835125448,84,837,699,138
-psp:person:6490,Petr Vrána,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6490.jpg,ANO2011,ANO,Olomoucký,0.9988052569,100,837,836,1
-psp:person:6508,Radek Koten,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6508.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Vysočina,0.9044205496,90,837,757,80
-psp:person:6165,Radek Vondráček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6165.jpg,ANO2011,ANO,Zlínský,0.8410991637,84,837,704,133
-psp:person:5459,Radim Fiala,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5459.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Olomoucký,0.8948626045,89,837,749,88
-psp:person:6770,Renata Oulehlová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6770.jpg,ANO2011,ANO,Karlovarský,0.9653524492,97,837,808,29
-psp:person:7054,Renata Vesecká,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7054.jpg,Motoristé sobě,Motoristé,Královéhradecký,0.9342891278,93,837,782,55
-psp:person:6793,Renáta Zajíčková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6793.jpg,Spolu,ODS,Hlavní město Praha,0.7789725209,78,837,652,185
-psp:person:6509,Robert Králíček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6509.jpg,ANO2011,ANO,Hlavní město Praha,0.8088410992,81,837,677,160
-psp:person:6549,Robert Plaga,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6549.jpg,ANO2011,ANO,Středočeský,0.4934289128,49,837,413,424
-psp:person:6743,Robert Stržínek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6743.jpg,ANO2011,ANO,Zlínský,0.9976105137,100,837,835,2
-psp:person:6215,Roman Kubíček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6215.jpg,ANO2011,ANO,Jihočeský,0.9940262843,99,837,832,5
-psp:person:6786,Róbert Teleky,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6786.jpg,Spolu,KDU-ČSL,Zlínský,0.9569892473,96,837,801,36
-psp:person:7057,Samuel Volpe,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7057.jpg,Česká pirátská strana,Piráti,Středočeský,0.9534050179,95,837,798,39
-psp:person:6451,Stanislav Fridrich,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6451.jpg,ANO2011,ANO,Moravskoslezský,0.8506571087,85,837,712,125
-psp:person:6468,Taťána Malá,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6468.jpg,ANO2011,ANO,Jihomoravský,0.9510155317,95,837,796,41
-psp:person:6555,Tom Philipp,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6555.jpg,Spolu,KDU-ČSL,Hlavní město Praha,0.9271206691,93,837,776,61
-psp:person:6105,Tomio Okamura,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6105.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Středočeský,0.9617682198,96,837,805,32
-psp:person:7001,Tomáš Doležal,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7001.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Středočeský,1.0,100,837,837,0
-psp:person:6756,Tomáš Helebrant,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6756.jpg,ANO2011,ANO,Středočeský,0.9976105137,100,837,835,2
-psp:person:6506,Tomáš Kohoutek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6506.jpg,ANO2011,ANO,Ústecký,0.9127837515,91,837,764,73
-psp:person:7051,Vendula Svobodová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7051.jpg,Česká pirátská strana,Piráti,Jihomoravský,0.8733572282,87,837,731,106
-psp:person:7013,Veronika Kovářová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7013.jpg,Česká pirátská strana,Piráti,Jihočeský,0.8315412186,83,837,696,141
-psp:person:7012,Vladimír Kolek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7012.jpg,ANO2011,ANO,Moravskoslezský,0.8948626045,89,837,749,88
-psp:person:7034,Vladimír Pikora,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7034.jpg,Motoristé sobě,Motoristé,Ústecký,0.7777777778,78,837,651,186
-psp:person:7066,Vlastimil Hebr,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7066.jpg,ANO2011,ANO,Plzeňský,0.9952095808,100,835,831,4
-psp:person:6482,Vlastimil Válek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6482.jpg,Spolu,TOP 09,Jihomoravský,0.8339307049,83,837,698,139
-psp:person:7017,Vojtěch Krňanský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7017.jpg,Motoristé sobě,Motoristé,Pardubický,0.9115890084,91,837,763,74
-psp:person:6486,Vojtěch Munzar,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6486.jpg,Spolu,ODS,Středočeský,0.743130227,74,837,622,215
-psp:person:7036,Václav Pláteník,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7036.jpg,Spolu,KDU-ČSL,Zlínský,0.9593787336,96,837,803,34
-psp:person:7053,Václav Trojan,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7053.jpg,ANO2011,ANO,Jihomoravský,0.7634408602,76,837,639,198
-psp:person:6524,Vít Rakušan,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6524.jpg,Starostove a nezavisli,STAN,Středočeský,0.5913978495,59,837,495,342
-psp:person:7039,Vítězslav Schrek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7039.jpg,Spolu,ODS,Vysočina,0.9701314217,97,837,812,25
-psp:person:6254,Věra Adámková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6254.jpg,ANO2011,ANO,Hlavní město Praha,0.9916367981,99,837,830,7
-psp:person:6214,Věra Kovářová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6214.jpg,Starostove a nezavisli,STAN,Středočeský,0.9414575866,94,837,788,49
-psp:person:7008,Zdena Kašparová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7008.jpg,Starostove a nezavisli,STAN,Olomoucký,0.9199522103,92,837,770,67
-psp:person:6804,Zdenka Němečková Crkvenjaš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6804.jpg,Spolu,ODS,Moravskoslezský,0.7813620072,78,837,654,183
-psp:person:6552,Zdeněk Hřib,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6552.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.9151732378,92,837,766,71
-psp:person:6992,Zdeňka Blišťanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6992.jpg,Spolu,TOP 09,Olomoucký,0.7371565114,74,837,617,220
-psp:person:6467,Zuzana Majerová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6467.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Zlínský,0.6965352449,70,837,583,254
-psp:person:7040,Zuzana Mrázová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7040.jpg,ANO2011,ANO,Ústecký,0.9844683393,98,837,824,13
-psp:person:6474,Zuzana Ožanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6474.jpg,ANO2011,ANO,Moravskoslezský,0.9808841099,98,837,821,16
-psp:person:7043,Štěpán Slovák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7043.jpg,Spolu,ODS,Zlínský,0.8088410992,81,837,677,160
+psp:person:6435,Martin Baxa,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6435.jpg,Spolu,ODS,Plzeňský,0.9233490566,92,848,783,65
+psp:person:6211,Martin Kolovratník,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6211.jpg,ANO2011,ANO,Pardubický,0.7016509434,70,848,595,253
+psp:person:7021,Martin Kupec,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7021.jpg,ANO2011,ANO,Jihočeský,0.875,88,848,742,106
+psp:person:6538,Martin Kupka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6538.jpg,Spolu,ODS,Středočeský,0.6639150943,66,848,563,285
+psp:person:7062,Martin Záhoř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7062.jpg,ANO2011,ANO,Plzeňský,1.0,100,848,848,0
+psp:person:7065,Martin Šmída,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7065.jpg,Česká pirátská strana,Piráti,Olomoucký,0.9263285024,93,828,767,61
+psp:person:7006,Matěj Gregor,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7006.jpg,Motoristé sobě,Motoristé,Moravskoslezský,0.8396226415,84,848,712,136
+psp:person:7011,Matěj Hlavatý,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7011.jpg,Starostove a nezavisli,STAN,Královéhradecký,0.8443396226,84,848,716,132
+psp:person:6754,Matěj Ondřej Havel,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6754.jpg,Spolu,TOP 09,Královéhradecký,0.7216981132,72,848,612,236
+psp:person:7024,Michaela Moricová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7024.jpg,Česká pirátská strana,Piráti,Moravskoslezský,0.9599056604,96,848,814,34
+psp:person:6767,Michaela Opltová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6767.jpg,Starostove a nezavisli,STAN,Plzeňský,0.6981132075,70,848,592,256
+psp:person:6763,Michaela Šebelová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6763.jpg,Starostove a nezavisli,STAN,Moravskoslezský,0.9268867925,93,848,786,62
+psp:person:6216,Michal Kučera,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6216.jpg,Spolu,TOP 09,Ústecký,0.7110849057,71,848,603,245
+psp:person:6523,Michal Ratiborský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6523.jpg,ANO2011,ANO,Moravskoslezský,0.9811320755,98,848,832,16
+psp:person:6796,Michal Zuna,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6796.jpg,Spolu,TOP 09,Hlavní město Praha,0.9752358491,98,848,827,21
+psp:person:6185,Milan Brázdil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6185.jpg,ANO2011,ANO,Olomoucký,0.991745283,99,848,841,7
+psp:person:6201,Miloslav Janulík,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6201.jpg,ANO2011,ANO,Jihomoravský,0.9398584906,94,848,797,51
+psp:person:7016,Miroslav Krejčí,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7016.jpg,Motoristé sobě,Motoristé,Jihočeský,0.9622641509,96,848,816,32
+psp:person:6688,Miroslav Samaš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6688.jpg,ANO2011,ANO,Středočeský,1.0,100,848,848,0
+psp:person:6064,Miroslav Ševčík,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6064.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Jihomoravský,0.9009433962,90,848,764,84
+psp:person:7064,Miroslav Žbánek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7064.jpg,ANO2011,ANO,Olomoucký,0.9257075472,93,848,785,63
+psp:person:6994,Monika Brzesková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6994.jpg,Spolu,KDU-ČSL,Moravskoslezský,0.9127358491,91,848,774,74
+psp:person:7007,Monika Hubíková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7007.jpg,ANO2011,ANO,Zlínský,0.9976415094,100,848,846,2
+psp:person:6475,Monika Oborná,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6475.jpg,ANO2011,ANO,Vysočina,0.9221698113,92,848,782,66
+psp:person:6473,Olga Richterová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6473.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.8797169811,88,848,746,102
+psp:person:6623,Ondřej Babka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6623.jpg,ANO2011,ANO,Jihočeský,0.991745283,99,848,841,7
+psp:person:7010,Oto Klempíř,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7010.jpg,Motoristé sobě,Motoristé,Plzeňský,0.7464622642,75,848,633,215
+psp:person:7060,Otto Vopěnka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7060.jpg,ANO2011,ANO,Vysočina,0.9858490566,99,848,836,12
+psp:person:6487,Patrik Nacher,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6487.jpg,ANO2011,ANO,Hlavní město Praha,0.9422169811,94,848,799,49
+psp:person:7031,Patrik Pařil,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7031.jpg,ANO2011,ANO,Jihomoravský,0.8466981132,85,848,718,130
+psp:person:6988,Pavel Bartoň,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6988.jpg,ANO2011,ANO,Zlínský,0.9952830189,100,848,844,4
+psp:person:6603,Pavel Karpíšek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6603.jpg,Spolu,ODS,Plzeňský,0.6356132075,64,848,539,309
+psp:person:7029,Pavel Outrata,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7029.jpg,ANO2011,ANO,Jihomoravský,0.8679245283,87,848,736,112
+psp:person:6520,Pavel Růžička,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6520.jpg,ANO2011,ANO,Ústecký,0.9988207547,100,848,847,1
+psp:person:5226,Pavel Žáček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5226.jpg,Spolu,ODS,Hlavní město Praha,0.5117924528,51,848,434,414
+psp:person:6762,Pavla Pivoňka Vaňková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6762.jpg,Starostove a nezavisli,STAN,Jihočeský,0.7676886792,77,848,651,197
+psp:person:346,Petr Bendl,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i346.jpg,Spolu,ODS,Středočeský,0.7900943396,79,848,670,178
+psp:person:6074,Petr Fiala,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6074.jpg,Spolu,ODS,Jihomoravský,0.7464622642,75,848,633,215
+psp:person:6881,Petr Hladík,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6881.jpg,Spolu,KDU-ČSL,Jihomoravský,0.8195754717,82,848,695,153
+psp:person:7014,Petr Kowanda,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7014.jpg,ANO2011,ANO,Středočeský,0.9988207547,100,848,847,1
+psp:person:7022,Petr Macinka,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7022.jpg,Motoristé sobě,Motoristé,Jihomoravský,0.6981132075,70,848,592,256
+psp:person:6518,Petr Sadovský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6518.jpg,ANO2011,ANO,Královéhradecký,0.9658018868,97,848,819,29
+psp:person:7045,Petr Sokol,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7045.jpg,Spolu,ODS,Olomoucký,0.8278301887,83,848,702,146
+psp:person:6490,Petr Vrána,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6490.jpg,ANO2011,ANO,Olomoucký,0.9988207547,100,848,847,1
+psp:person:6508,Radek Koten,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6508.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Vysočina,0.9044811321,90,848,767,81
+psp:person:6165,Radek Vondráček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6165.jpg,ANO2011,ANO,Zlínský,0.8360849057,84,848,709,139
+psp:person:5459,Radim Fiala,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5459.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Olomoucký,0.8938679245,89,848,758,90
+psp:person:6770,Renata Oulehlová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6770.jpg,ANO2011,ANO,Karlovarský,0.9658018868,97,848,819,29
+psp:person:7054,Renata Vesecká,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7054.jpg,Motoristé sobě,Motoristé,Královéhradecký,0.9351415094,94,848,793,55
+psp:person:6793,Renáta Zajíčková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6793.jpg,Spolu,ODS,Hlavní město Praha,0.7700471698,77,848,653,195
+psp:person:6509,Robert Králíček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6509.jpg,ANO2011,ANO,Hlavní město Praha,0.8113207547,81,848,688,160
+psp:person:6549,Robert Plaga,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6549.jpg,ANO2011,ANO,Středočeský,0.4893867925,49,848,415,433
+psp:person:6743,Robert Stržínek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6743.jpg,ANO2011,ANO,Zlínský,0.9976415094,100,848,846,2
+psp:person:6215,Roman Kubíček,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6215.jpg,ANO2011,ANO,Jihočeský,0.9941037736,99,848,843,5
+psp:person:6786,Róbert Teleky,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6786.jpg,Spolu,KDU-ČSL,Zlínský,0.9575471698,96,848,812,36
+psp:person:7057,Samuel Volpe,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7057.jpg,Česká pirátská strana,Piráti,Středočeský,0.954009434,95,848,809,39
+psp:person:6451,Stanislav Fridrich,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6451.jpg,ANO2011,ANO,Moravskoslezský,0.8525943396,85,848,723,125
+psp:person:6468,Taťána Malá,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6468.jpg,ANO2011,ANO,Jihomoravský,0.9516509434,95,848,807,41
+psp:person:6555,Tom Philipp,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6555.jpg,Spolu,KDU-ČSL,Hlavní město Praha,0.9257075472,93,848,785,63
+psp:person:6105,Tomio Okamura,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6105.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Středočeský,0.9599056604,96,848,814,34
+psp:person:7001,Tomáš Doležal,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7001.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Středočeský,1.0,100,848,848,0
+psp:person:6756,Tomáš Helebrant,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6756.jpg,ANO2011,ANO,Středočeský,0.9976415094,100,848,846,2
+psp:person:6506,Tomáš Kohoutek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6506.jpg,ANO2011,ANO,Ústecký,0.9009433962,90,848,764,84
+psp:person:7051,Vendula Svobodová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7051.jpg,Česká pirátská strana,Piráti,Jihomoravský,0.8679245283,87,848,736,112
+psp:person:7013,Veronika Kovářová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7013.jpg,Česká pirátská strana,Piráti,Jihočeský,0.8325471698,83,848,706,142
+psp:person:7012,Vladimír Kolek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7012.jpg,ANO2011,ANO,Moravskoslezský,0.8950471698,90,848,759,89
+psp:person:7034,Vladimír Pikora,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7034.jpg,Motoristé sobě,Motoristé,Ústecký,0.7783018868,78,848,660,188
+psp:person:7066,Vlastimil Hebr,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7066.jpg,ANO2011,ANO,Plzeňský,0.9952718676,100,846,842,4
+psp:person:6482,Vlastimil Válek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6482.jpg,Spolu,TOP 09,Jihomoravský,0.8313679245,83,848,705,143
+psp:person:7017,Vojtěch Krňanský,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7017.jpg,Motoristé sobě,Motoristé,Pardubický,0.9127358491,91,848,774,74
+psp:person:6486,Vojtěch Munzar,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6486.jpg,Spolu,ODS,Středočeský,0.733490566,73,848,622,226
+psp:person:7036,Václav Pláteník,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7036.jpg,Spolu,KDU-ČSL,Zlínský,0.954009434,95,848,809,39
+psp:person:7053,Václav Trojan,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7053.jpg,ANO2011,ANO,Jihomoravský,0.766509434,77,848,650,198
+psp:person:6524,Vít Rakušan,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6524.jpg,Starostove a nezavisli,STAN,Středočeský,0.5919811321,59,848,502,346
+psp:person:7039,Vítězslav Schrek,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7039.jpg,Spolu,ODS,Vysočina,0.9693396226,97,848,822,26
+psp:person:6254,Věra Adámková,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6254.jpg,ANO2011,ANO,Hlavní město Praha,0.9846698113,98,848,835,13
+psp:person:6214,Věra Kovářová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6214.jpg,Starostove a nezavisli,STAN,Středočeský,0.9398584906,94,848,797,51
+psp:person:7008,Zdena Kašparová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7008.jpg,Starostove a nezavisli,STAN,Olomoucký,0.9103773585,91,848,772,76
+psp:person:6804,Zdenka Němečková Crkvenjaš,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6804.jpg,Spolu,ODS,Moravskoslezský,0.7830188679,78,848,664,184
+psp:person:6552,Zdeněk Hřib,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6552.jpg,Česká pirátská strana,Piráti,Hlavní město Praha,0.9127358491,91,848,774,74
+psp:person:6992,Zdeňka Blišťanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6992.jpg,Spolu,TOP 09,Olomoucký,0.7405660377,74,848,628,220
+psp:person:6467,Zuzana Majerová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6467.jpg,Svoboda a prima demokracie - Tomio Okamura,SPD,Zlínský,0.6875,69,848,583,265
+psp:person:7040,Zuzana Mrázová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7040.jpg,ANO2011,ANO,Ústecký,0.983490566,98,848,834,14
+psp:person:6474,Zuzana Ožanová,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6474.jpg,ANO2011,ANO,Moravskoslezský,0.9811320755,98,848,832,16
+psp:person:7043,Štěpán Slovák,https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7043.jpg,Spolu,ODS,Zlínský,0.8089622642,81,848,686,162
