@@ -4255,6 +4255,46 @@
     }
   },
   {
+    "person_id": "psp:person:7047",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 642,
+    "name": "Markéta Šichtařová",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Šichtařová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1746",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2025-10-07",
+        "until": "2026-03-11"
+      },
+      {
+        "id": "psp:org:1291",
+        "classification": "candidate_list",
+        "name": "Svoboda a prima demokracie - Tomio Okamura",
+        "since": "2025-10-04",
+        "until": "2026-03-11"
+      },
+      {
+        "id": "psp:org:581",
+        "classification": "constituency",
+        "name": "Hlavní město Praha",
+        "since": "2025-10-04",
+        "until": "2026-03-11"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7047.jpg"
+    }
+  },
+  {
     "person_id": "psp:person:6435",
     "corrections_total": 0,
     "corrections_invalidated": 0,
@@ -5735,6 +5775,46 @@
     }
   },
   {
+    "person_id": "psp:person:7019",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 2,
+    "name": "Petr Kubis",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kubis"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:585",
+        "classification": "constituency",
+        "name": "Karlovarský",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7019.jpg"
+    }
+  },
+  {
     "person_id": "psp:person:7022",
     "corrections_total": 0,
     "corrections_invalidated": 0,
@@ -6105,6 +6185,46 @@
     }
   },
   {
+    "person_id": "psp:person:6184",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 2,
+    "name": "Richard Brabec",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Brabec"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:586",
+        "classification": "constituency",
+        "name": "Ústecký",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6184.jpg"
+    }
+  },
+  {
     "person_id": "psp:person:6509",
     "corrections_total": 0,
     "corrections_invalidated": 0,
@@ -6250,6 +6370,46 @@
     ],
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6215.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7063",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 2,
+    "name": "Roman Zarzycký",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Zarzycký"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-10-08",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      },
+      {
+        "id": "psp:org:584",
+        "classification": "constituency",
+        "name": "Plzeňský",
+        "since": "2025-10-04",
+        "until": "2025-11-03"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7063.jpg"
     }
   },
   {
@@ -7397,6 +7557,46 @@
     ],
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7043.jpg"
+    }
+  },
+  {
+    "person_id": "psp:person:7020",
+    "corrections_total": 0,
+    "corrections_invalidated": 0,
+    "corrections_announced": 0,
+    "vote_events_total": 20,
+    "name": "Šárka Kučerová",
+    "given_names": [
+      "Šárka"
+    ],
+    "family_names": [
+      "Kučerová"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1745",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2025-10-05",
+        "until": "2025-11-05"
+      },
+      {
+        "id": "psp:org:1290",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2025-10-04",
+        "until": "2025-11-05"
+      },
+      {
+        "id": "psp:org:592",
+        "classification": "constituency",
+        "name": "Olomoucký",
+        "since": "2025-10-04",
+        "until": "2025-11-05"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7020.jpg"
     }
   }
 ]
