@@ -38,15 +38,13 @@ jobs:
         run: |
           python scripts/analyses/run_attendance.py \
             --script /tmp/legislature-data-analyses/attendance/attendance.py \
-            --flourish-script /tmp/legislature-data-analyses/attendance/outputs/output_flourish_table.py \
-            --use-current-members
+            --flourish-script /tmp/legislature-data-analyses/attendance/outputs/output_flourish_table.py
 
       - name: Run vote-corrections analysis
         run: |
           python scripts/analyses/run_vote_corrections.py \
             --script /tmp/legislature-data-analyses/vote-corrections/vote_corrections.py \
-            --flourish-script /tmp/legislature-data-analyses/vote-corrections/outputs/output_flourish_table.py \
-            --use-current-members
+            --flourish-script /tmp/legislature-data-analyses/vote-corrections/outputs/output_flourish_table.py
 
       - name: Run rebelity analysis
         run: |
