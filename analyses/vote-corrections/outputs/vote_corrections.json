@@ -4255,46 +4255,6 @@
     }
   },
   {
-    "person_id": "psp:person:7047",
-    "corrections_total": 0,
-    "corrections_invalidated": 0,
-    "corrections_announced": 0,
-    "vote_events_total": 642,
-    "name": "Markéta Šichtařová",
-    "given_names": [
-      "Markéta"
-    ],
-    "family_names": [
-      "Šichtařová"
-    ],
-    "organizations": [
-      {
-        "id": "psp:org:1746",
-        "classification": "group",
-        "name": "Svoboda a přímá demokracie",
-        "since": "2025-10-07",
-        "until": "2026-03-11"
-      },
-      {
-        "id": "psp:org:1291",
-        "classification": "candidate_list",
-        "name": "Svoboda a prima demokracie - Tomio Okamura",
-        "since": "2025-10-04",
-        "until": "2026-03-11"
-      },
-      {
-        "id": "psp:org:581",
-        "classification": "constituency",
-        "name": "Hlavní město Praha",
-        "since": "2025-10-04",
-        "until": "2026-03-11"
-      }
-    ],
-    "extras": {
-      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7047.jpg"
-    }
-  },
-  {
     "person_id": "psp:person:6435",
     "corrections_total": 0,
     "corrections_invalidated": 0,

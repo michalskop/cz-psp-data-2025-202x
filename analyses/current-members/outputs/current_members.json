@@ -6440,62 +6440,6 @@
     "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6745.jpg"
   },
   {
-    "id": "psp:person:7047",
-    "name": "Markéta Šichtařová",
-    "memberships": {
-      "parliament": [
-        {
-          "id": "psp:org:174",
-          "name": "Poslanecká sněmovna",
-          "start_date": "2025-10-04",
-          "end_date": "2026-03-11"
-        }
-      ],
-      "groups": [
-        {
-          "id": "psp:org:1746",
-          "name": "Svoboda a přímá demokracie",
-          "start_date": "2025-10-07",
-          "end_date": "2026-03-11"
-        }
-      ],
-      "candidate_list": [
-        {
-          "id": "psp:org:1291",
-          "name": "Svoboda a prima demokracie - Tomio Okamura",
-          "start_date": "2025-10-04",
-          "end_date": "2026-03-11"
-        }
-      ],
-      "constituency": [
-        {
-          "id": "psp:org:581",
-          "name": "Hlavní město Praha",
-          "start_date": "2025-10-04",
-          "end_date": "2026-03-11"
-        }
-      ]
-    },
-    "identifiers": [
-      {
-        "scheme": "psp",
-        "identifier": "7047"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
-        "note": "id_osoba=7047"
-      }
-    ],
-    "given_name": "Markéta",
-    "family_name": "Šichtařová",
-    "birth_date": "1976-10-29",
-    "death_date": null,
-    "gender": "female",
-    "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7047.jpg"
-  },
-  {
     "id": "psp:person:6435",
     "name": "Martin Baxa",
     "memberships": {
