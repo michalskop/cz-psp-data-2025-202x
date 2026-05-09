@@ -80,6 +80,18 @@ def run_current_members(standard_dir: Path) -> None:
 
     current_person_ids = set(df_pos["person_id"].tolist())
 
+    # poslanec.unl sometimes lags zarazeni.unl — exclude anyone whose parliament
+    # membership already ended according to memberships.csv
+    from datetime import date as _date
+    _today = str(_date.today())
+    _parl_m = memberships[memberships["organization_id"] == current_term_id].copy()
+    _parl_m = _parl_m[_parl_m["person_id"].isin(current_person_ids)].copy()
+    _parl_m["end_date"] = _parl_m["end_date"].fillna("")
+    _ended_pids = set(_parl_m[(_parl_m["end_date"] != "") & (_parl_m["end_date"].astype(str) < _today)]["person_id"].tolist())
+    if _ended_pids:
+        logging.warning("Excluding %d person(s) whose parliament membership ended: %s", len(_ended_pids), _ended_pids)
+        current_person_ids -= _ended_pids
+
     out = persons[persons["id"].isin(current_person_ids)].copy()
 
     out = out.merge(df_pos[["person_id", "image"]], left_on="id", right_on="person_id", how="left").drop(columns=["person_id"])
