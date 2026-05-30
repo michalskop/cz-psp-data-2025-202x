@@ -4928,62 +4928,6 @@
     "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6447.jpg"
   },
   {
-    "id": "psp:person:6990",
-    "name": "Karel Beran",
-    "memberships": {
-      "parliament": [
-        {
-          "id": "psp:org:174",
-          "name": "Poslanecká sněmovna",
-          "start_date": "2025-10-04",
-          "end_date": ""
-        }
-      ],
-      "groups": [
-        {
-          "id": "psp:org:1749",
-          "name": "Motoristé sobě",
-          "start_date": "2025-10-07",
-          "end_date": ""
-        }
-      ],
-      "candidate_list": [
-        {
-          "id": "psp:org:1744",
-          "name": "Motoristé sobě",
-          "start_date": "2025-10-04",
-          "end_date": ""
-        }
-      ],
-      "constituency": [
-        {
-          "id": "psp:org:590",
-          "name": "Vysočina",
-          "start_date": "2025-10-04",
-          "end_date": ""
-        }
-      ]
-    },
-    "identifiers": [
-      {
-        "scheme": "psp",
-        "identifier": "6990"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
-        "note": "id_osoba=6990"
-      }
-    ],
-    "given_name": "Karel",
-    "family_name": "Beran",
-    "birth_date": "1966-06-22",
-    "death_date": null,
-    "gender": "male",
-    "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6990.jpg"
-  },
-  {
     "id": "psp:person:7002",
     "name": "Karel Dvořák",
     "memberships": {
