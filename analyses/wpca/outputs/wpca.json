@@ -1557,31 +1557,32 @@
         "name": "Poslanecká sněmovna",
         "classification": "parliament",
         "since": "2025-10-04",
-        "until": ""
+        "until": "2026-06-18"
       },
       {
         "id": "psp:org:1750",
         "name": "ANO 2011",
         "classification": "groups",
         "since": "2025-10-08",
-        "until": ""
+        "until": "2026-06-18"
       },
       {
         "id": "psp:org:1104",
         "name": "ANO2011",
         "classification": "candidate_list",
         "since": "2025-10-04",
-        "until": ""
+        "until": "2026-06-18"
       },
       {
         "id": "psp:org:590",
         "name": "Vysočina",
         "classification": "constituency",
         "since": "2025-10-04",
-        "until": ""
+        "until": "2026-06-18"
       }
     ],
-    "since": "2025-10-04"
+    "since": "2025-10-04",
+    "until": "2026-06-18"
   },
   {
     "person_id": "psp:person:6254",

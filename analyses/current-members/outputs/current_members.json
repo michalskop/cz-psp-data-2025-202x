@@ -4648,62 +4648,6 @@
     "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6750.jpg"
   },
   {
-    "id": "psp:person:6246",
-    "name": "Josef Kott",
-    "memberships": {
-      "parliament": [
-        {
-          "id": "psp:org:174",
-          "name": "Poslanecká sněmovna",
-          "start_date": "2025-10-04",
-          "end_date": ""
-        }
-      ],
-      "groups": [
-        {
-          "id": "psp:org:1750",
-          "name": "ANO 2011",
-          "start_date": "2025-10-08",
-          "end_date": ""
-        }
-      ],
-      "candidate_list": [
-        {
-          "id": "psp:org:1104",
-          "name": "ANO2011",
-          "start_date": "2025-10-04",
-          "end_date": ""
-        }
-      ],
-      "constituency": [
-        {
-          "id": "psp:org:590",
-          "name": "Vysočina",
-          "start_date": "2025-10-04",
-          "end_date": ""
-        }
-      ]
-    },
-    "identifiers": [
-      {
-        "scheme": "psp",
-        "identifier": "6246"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
-        "note": "id_osoba=6246"
-      }
-    ],
-    "given_name": "Josef",
-    "family_name": "Kott",
-    "birth_date": "1970-11-15",
-    "death_date": null,
-    "gender": "male",
-    "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6246.jpg"
-  },
-  {
     "id": "psp:person:6664",
     "name": "Josef Nerušil",
     "memberships": {

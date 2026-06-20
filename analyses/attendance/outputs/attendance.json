@@ -2812,6 +2812,42 @@
     }
   },
   {
+    "person_id": "psp:person:7108",
+    "vote_events_total": 0,
+    "present": 0,
+    "absent": 0,
+    "name": "Jiří Kotlík",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kotlík"
+    ],
+    "organizations": [
+      {
+        "id": "psp:org:1750",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2026-06-18"
+      },
+      {
+        "id": "psp:org:1104",
+        "classification": "candidate_list",
+        "name": "ANO2011",
+        "since": "2026-06-18"
+      },
+      {
+        "id": "psp:org:590",
+        "classification": "constituency",
+        "name": "Vysočina",
+        "since": "2026-06-18"
+      }
+    ],
+    "extras": {
+      "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7108.jpg"
+    }
+  },
+  {
     "person_id": "psp:person:6534",
     "vote_events_total": 1500,
     "present": 1429,
@@ -3087,19 +3123,22 @@
         "id": "psp:org:1750",
         "classification": "group",
         "name": "ANO",
-        "since": "2025-10-08"
+        "since": "2025-10-08",
+        "until": "2026-06-18"
       },
       {
         "id": "psp:org:1104",
         "classification": "candidate_list",
         "name": "ANO2011",
-        "since": "2025-10-04"
+        "since": "2025-10-04",
+        "until": "2026-06-18"
       },
       {
         "id": "psp:org:590",
         "classification": "constituency",
         "name": "Vysočina",
-        "since": "2025-10-04"
+        "since": "2025-10-04",
+        "until": "2026-06-18"
       }
     ],
     "present_share": 0.904,

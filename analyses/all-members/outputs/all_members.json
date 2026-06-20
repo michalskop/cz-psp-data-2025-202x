@@ -4256,6 +4256,62 @@
     }
   },
   {
+    "id": "psp:person:7108",
+    "name": "Jiří Kotlík",
+    "identifiers": [
+      {
+        "scheme": "psp",
+        "identifier": "7108"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.psp.cz/sqw/hp.sqw?k=1301",
+        "note": "id_osoba=7108"
+      }
+    ],
+    "given_name": "Jiří",
+    "family_name": "Kotlík",
+    "birth_date": "1900-01-01",
+    "death_date": null,
+    "gender": "male",
+    "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7108.jpg",
+    "memberships": {
+      "parliament": [
+        {
+          "id": "psp:org:174",
+          "name": "Poslanecká sněmovna",
+          "start_date": "2026-06-18",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "psp:org:1750",
+          "name": "ANO 2011",
+          "start_date": "2026-06-18",
+          "end_date": ""
+        }
+      ],
+      "candidate_list": [
+        {
+          "id": "psp:org:1104",
+          "name": "ANO2011",
+          "start_date": "2026-06-18",
+          "end_date": ""
+        }
+      ],
+      "constituency": [
+        {
+          "id": "psp:org:590",
+          "name": "Vysočina",
+          "start_date": "2026-06-18",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "psp:person:6534",
     "name": "Jiří Mašek",
     "identifiers": [
@@ -4674,7 +4730,7 @@
           "id": "psp:org:174",
           "name": "Poslanecká sněmovna",
           "start_date": "2025-10-04",
-          "end_date": ""
+          "end_date": "2026-06-18"
         }
       ],
       "groups": [
@@ -4682,7 +4738,7 @@
           "id": "psp:org:1750",
           "name": "ANO 2011",
           "start_date": "2025-10-08",
-          "end_date": ""
+          "end_date": "2026-06-18"
         }
       ],
       "candidate_list": [
@@ -4690,7 +4746,7 @@
           "id": "psp:org:1104",
           "name": "ANO2011",
           "start_date": "2025-10-04",
-          "end_date": ""
+          "end_date": "2026-06-18"
         }
       ],
       "constituency": [
@@ -4698,7 +4754,7 @@
           "id": "psp:org:590",
           "name": "Vysočina",
           "start_date": "2025-10-04",
-          "end_date": ""
+          "end_date": "2026-06-18"
         }
       ]
     }
