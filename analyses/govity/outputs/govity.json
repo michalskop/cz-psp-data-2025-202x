@@ -1,9 +1,9 @@
 [
   {
     "person_id": "psp:person:6491",
-    "govity_total": 1657,
-    "govity_possible": 1674,
-    "govity": 0.989845,
+    "govity_total": 1702,
+    "govity_possible": 1719,
+    "govity": 0.990111,
     "name": "Adam Vojtěch",
     "given_names": [
       "Adam"
@@ -75,9 +75,9 @@
   },
   {
     "person_id": "psp:person:6545",
-    "govity_total": 1247,
-    "govity_possible": 1262,
-    "govity": 0.988114,
+    "govity_total": 1300,
+    "govity_possible": 1315,
+    "govity": 0.988593,
     "name": "Alena Schillerová",
     "given_names": [
       "Alena"
@@ -223,9 +223,9 @@
   },
   {
     "person_id": "psp:person:7026",
-    "govity_total": 736,
-    "govity_possible": 1763,
-    "govity": 0.41747,
+    "govity_total": 765,
+    "govity_possible": 1816,
+    "govity": 0.421256,
     "name": "Anežka Nedomová",
     "given_names": [
       "Anežka"
@@ -297,9 +297,9 @@
   },
   {
     "person_id": "psp:person:7038",
-    "govity_total": 2059,
-    "govity_possible": 2074,
-    "govity": 0.992768,
+    "govity_total": 2106,
+    "govity_possible": 2121,
+    "govity": 0.992928,
     "name": "Barbora Rázga",
     "given_names": [
       "Barbora"
@@ -371,9 +371,9 @@
   },
   {
     "person_id": "psp:person:6998",
-    "govity_total": 795,
-    "govity_possible": 1718,
-    "govity": 0.462747,
+    "govity_total": 825,
+    "govity_possible": 1771,
+    "govity": 0.465839,
     "name": "Benjamin Činčila",
     "given_names": [
       "Benjamin"
@@ -408,9 +408,9 @@
   },
   {
     "person_id": "psp:person:6780",
-    "govity_total": 1638,
-    "govity_possible": 1650,
-    "govity": 0.992727,
+    "govity_total": 1691,
+    "govity_possible": 1703,
+    "govity": 0.992954,
     "name": "Berenika Peštová",
     "given_names": [
       "Berenika"
@@ -482,9 +482,9 @@
   },
   {
     "person_id": "psp:person:5512",
-    "govity_total": 1939,
-    "govity_possible": 1979,
-    "govity": 0.979788,
+    "govity_total": 1983,
+    "govity_possible": 2024,
+    "govity": 0.979743,
     "name": "Boris Šťastný",
     "given_names": [
       "Boris"
@@ -519,9 +519,9 @@
   },
   {
     "person_id": "psp:person:6209",
-    "govity_total": 1746,
-    "govity_possible": 1752,
-    "govity": 0.996575,
+    "govity_total": 1798,
+    "govity_possible": 1804,
+    "govity": 0.996674,
     "name": "David Kasal",
     "given_names": [
       "David"
@@ -630,9 +630,9 @@
   },
   {
     "person_id": "psp:person:7000",
-    "govity_total": 1890,
-    "govity_possible": 1909,
-    "govity": 0.990047,
+    "govity_total": 1942,
+    "govity_possible": 1961,
+    "govity": 0.990311,
     "name": "Denis Doksanský",
     "given_names": [
       "Denis"
@@ -667,9 +667,9 @@
   },
   {
     "person_id": "psp:person:6991",
-    "govity_total": 2056,
-    "govity_possible": 2079,
-    "govity": 0.988937,
+    "govity_total": 2108,
+    "govity_possible": 2131,
+    "govity": 0.989207,
     "name": "Drahomír Blažej",
     "given_names": [
       "Drahomír"
@@ -704,9 +704,9 @@
   },
   {
     "person_id": "psp:person:6782",
-    "govity_total": 2033,
-    "govity_possible": 2070,
-    "govity": 0.982126,
+    "govity_total": 2086,
+    "govity_possible": 2123,
+    "govity": 0.982572,
     "name": "Drahoslav Ryba",
     "given_names": [
       "Drahoslav"
@@ -741,9 +741,9 @@
   },
   {
     "person_id": "psp:person:6766",
-    "govity_total": 805,
-    "govity_possible": 1846,
-    "govity": 0.436078,
+    "govity_total": 834,
+    "govity_possible": 1899,
+    "govity": 0.439179,
     "name": "Eliška Olšáková",
     "given_names": [
       "Eliška"
@@ -778,9 +778,9 @@
   },
   {
     "person_id": "psp:person:7061",
-    "govity_total": 848,
-    "govity_possible": 1927,
-    "govity": 0.440062,
+    "govity_total": 877,
+    "govity_possible": 1980,
+    "govity": 0.442929,
     "name": "Ester Weimerová",
     "given_names": [
       "Ester"
@@ -815,9 +815,9 @@
   },
   {
     "person_id": "psp:person:6727",
-    "govity_total": 575,
-    "govity_possible": 1244,
-    "govity": 0.462219,
+    "govity_total": 593,
+    "govity_possible": 1278,
+    "govity": 0.464006,
     "name": "Eva Decroix",
     "given_names": [
       "Eva"
@@ -852,9 +852,9 @@
   },
   {
     "person_id": "psp:person:6457",
-    "govity_total": 2056,
-    "govity_possible": 2066,
-    "govity": 0.99516,
+    "govity_total": 2109,
+    "govity_possible": 2119,
+    "govity": 0.995281,
     "name": "Eva Fialová",
     "given_names": [
       "Eva"
@@ -889,9 +889,9 @@
   },
   {
     "person_id": "psp:person:7046",
-    "govity_total": 775,
-    "govity_possible": 1737,
-    "govity": 0.446172,
+    "govity_total": 802,
+    "govity_possible": 1789,
+    "govity": 0.448295,
     "name": "Eva Šrámková",
     "given_names": [
       "Eva"
@@ -963,9 +963,9 @@
   },
   {
     "person_id": "psp:person:6995",
-    "govity_total": 2088,
-    "govity_possible": 2107,
-    "govity": 0.990982,
+    "govity_total": 2141,
+    "govity_possible": 2160,
+    "govity": 0.991204,
     "name": "František Bureš",
     "given_names": [
       "František"
@@ -1000,9 +1000,9 @@
   },
   {
     "person_id": "psp:person:6409",
-    "govity_total": 2107,
-    "govity_possible": 2117,
-    "govity": 0.995276,
+    "govity_total": 2159,
+    "govity_possible": 2170,
+    "govity": 0.994931,
     "name": "František Petrtýl",
     "given_names": [
       "František"
@@ -1037,9 +1037,9 @@
   },
   {
     "person_id": "psp:person:7052",
-    "govity_total": 725,
-    "govity_possible": 1672,
-    "govity": 0.433612,
+    "govity_total": 748,
+    "govity_possible": 1724,
+    "govity": 0.433875,
     "name": "František Talíř",
     "given_names": [
       "František"
@@ -1074,9 +1074,9 @@
   },
   {
     "person_id": "psp:person:7041",
-    "govity_total": 1969,
-    "govity_possible": 1987,
-    "govity": 0.990941,
+    "govity_total": 2022,
+    "govity_possible": 2040,
+    "govity": 0.991176,
     "name": "Gabriela Sedláčková",
     "given_names": [
       "Gabriela"
@@ -1111,9 +1111,9 @@
   },
   {
     "person_id": "psp:person:7049",
-    "govity_total": 727,
-    "govity_possible": 1665,
-    "govity": 0.436637,
+    "govity_total": 750,
+    "govity_possible": 1710,
+    "govity": 0.438596,
     "name": "Gabriela Svárovská",
     "given_names": [
       "Gabriela"
@@ -1148,9 +1148,9 @@
   },
   {
     "person_id": "psp:person:6986",
-    "govity_total": 773,
-    "govity_possible": 1714,
-    "govity": 0.450992,
+    "govity_total": 779,
+    "govity_possible": 1737,
+    "govity": 0.448474,
     "name": "Hana Ančincová",
     "given_names": [
       "Hana"
@@ -1185,9 +1185,9 @@
   },
   {
     "person_id": "psp:person:6769",
-    "govity_total": 649,
-    "govity_possible": 1512,
-    "govity": 0.429233,
+    "govity_total": 674,
+    "govity_possible": 1565,
+    "govity": 0.430671,
     "name": "Hayato Okamura",
     "given_names": [
       "Hayato"
@@ -1222,9 +1222,9 @@
   },
   {
     "person_id": "psp:person:5943",
-    "govity_total": 724,
-    "govity_possible": 1707,
-    "govity": 0.424136,
+    "govity_total": 761,
+    "govity_possible": 1760,
+    "govity": 0.432386,
     "name": "Helena Langšádlová",
     "given_names": [
       "Helena"
@@ -1259,9 +1259,9 @@
   },
   {
     "person_id": "psp:person:6168",
-    "govity_total": 1378,
-    "govity_possible": 1394,
-    "govity": 0.988522,
+    "govity_total": 1431,
+    "govity_possible": 1447,
+    "govity": 0.988943,
     "name": "Helena Válková",
     "given_names": [
       "Helena"
@@ -1296,9 +1296,9 @@
   },
   {
     "person_id": "psp:person:6738",
-    "govity_total": 1402,
-    "govity_possible": 1415,
-    "govity": 0.990813,
+    "govity_total": 1455,
+    "govity_possible": 1468,
+    "govity": 0.991144,
     "name": "Hubert Lang",
     "given_names": [
       "Hubert"
@@ -1333,9 +1333,9 @@
   },
   {
     "person_id": "psp:person:6758",
-    "govity_total": 1996,
-    "govity_possible": 2013,
-    "govity": 0.991555,
+    "govity_total": 2049,
+    "govity_possible": 2066,
+    "govity": 0.991772,
     "name": "Igor Hendrych",
     "given_names": [
       "Igor"
@@ -1407,9 +1407,9 @@
   },
   {
     "person_id": "psp:person:7003",
-    "govity_total": 646,
-    "govity_possible": 1502,
-    "govity": 0.430093,
+    "govity_total": 678,
+    "govity_possible": 1555,
+    "govity": 0.436013,
     "name": "Irena Ferčíková Konečná",
     "given_names": [
       "Irena"
@@ -1444,9 +1444,9 @@
   },
   {
     "person_id": "psp:person:7027",
-    "govity_total": 1857,
-    "govity_possible": 1894,
-    "govity": 0.980465,
+    "govity_total": 1910,
+    "govity_possible": 1947,
+    "govity": 0.980996,
     "name": "Irena Němcová",
     "given_names": [
       "Irena"
@@ -1518,9 +1518,9 @@
   },
   {
     "person_id": "psp:person:6433",
-    "govity_total": 645,
-    "govity_possible": 1547,
-    "govity": 0.416936,
+    "govity_total": 675,
+    "govity_possible": 1600,
+    "govity": 0.421875,
     "name": "Ivan Bartoš",
     "given_names": [
       "Ivan"
@@ -1555,9 +1555,9 @@
   },
   {
     "person_id": "psp:person:6732",
-    "govity_total": 2058,
-    "govity_possible": 2061,
-    "govity": 0.998544,
+    "govity_total": 2111,
+    "govity_possible": 2114,
+    "govity": 0.998581,
     "name": "Ivana Mádlová",
     "given_names": [
       "Ivana"
@@ -1592,9 +1592,9 @@
   },
   {
     "person_id": "psp:person:6459",
-    "govity_total": 970,
-    "govity_possible": 1869,
-    "govity": 0.518994,
+    "govity_total": 1001,
+    "govity_possible": 1922,
+    "govity": 0.520812,
     "name": "Jakub Janda",
     "given_names": [
       "Jakub"
@@ -1666,9 +1666,9 @@
   },
   {
     "person_id": "psp:person:6178",
-    "govity_total": 684,
-    "govity_possible": 1426,
-    "govity": 0.479663,
+    "govity_total": 710,
+    "govity_possible": 1479,
+    "govity": 0.480054,
     "name": "Jan Bartošek",
     "given_names": [
       "Jan"
@@ -1703,9 +1703,9 @@
   },
   {
     "person_id": "psp:person:5379",
-    "govity_total": 720,
-    "govity_possible": 1476,
-    "govity": 0.487805,
+    "govity_total": 750,
+    "govity_possible": 1529,
+    "govity": 0.490517,
     "name": "Jan Bauer",
     "given_names": [
       "Jan"
@@ -1740,9 +1740,9 @@
   },
   {
     "person_id": "psp:person:6722",
-    "govity_total": 835,
-    "govity_possible": 1891,
-    "govity": 0.441565,
+    "govity_total": 865,
+    "govity_possible": 1944,
+    "govity": 0.444959,
     "name": "Jan Berki",
     "given_names": [
       "Jan"
@@ -1777,9 +1777,9 @@
   },
   {
     "person_id": "psp:person:5899",
-    "govity_total": 812,
-    "govity_possible": 1781,
-    "govity": 0.455924,
+    "govity_total": 841,
+    "govity_possible": 1834,
+    "govity": 0.458561,
     "name": "Jan Bureš",
     "given_names": [
       "Jan"
@@ -1851,9 +1851,9 @@
   },
   {
     "person_id": "psp:person:6687",
-    "govity_total": 768,
-    "govity_possible": 1896,
-    "govity": 0.405063,
+    "govity_total": 793,
+    "govity_possible": 1949,
+    "govity": 0.406875,
     "name": "Jan Jakob",
     "given_names": [
       "Jan"
@@ -1925,9 +1925,9 @@
   },
   {
     "person_id": "psp:person:7030",
-    "govity_total": 641,
-    "govity_possible": 1333,
-    "govity": 0.48087,
+    "govity_total": 672,
+    "govity_possible": 1386,
+    "govity": 0.484848,
     "name": "Jan Papajanovský",
     "given_names": [
       "Jan"
@@ -1962,9 +1962,9 @@
   },
   {
     "person_id": "psp:person:6500",
-    "govity_total": 1754,
-    "govity_possible": 1760,
-    "govity": 0.996591,
+    "govity_total": 1807,
+    "govity_possible": 1813,
+    "govity": 0.996691,
     "name": "Jan Richter",
     "given_names": [
       "Jan"
@@ -1999,9 +1999,9 @@
   },
   {
     "person_id": "psp:person:6418",
-    "govity_total": 886,
-    "govity_possible": 1759,
-    "govity": 0.503695,
+    "govity_total": 915,
+    "govity_possible": 1811,
+    "govity": 0.505246,
     "name": "Jan Skopeček",
     "given_names": [
       "Jan"
@@ -2073,9 +2073,9 @@
   },
   {
     "person_id": "psp:person:6783",
-    "govity_total": 1733,
-    "govity_possible": 1777,
-    "govity": 0.975239,
+    "govity_total": 1786,
+    "govity_possible": 1830,
+    "govity": 0.975956,
     "name": "Jan Síla",
     "given_names": [
       "Jan"
@@ -2147,9 +2147,9 @@
   },
   {
     "person_id": "psp:person:6723",
-    "govity_total": 1664,
-    "govity_possible": 1673,
-    "govity": 0.99462,
+    "govity_total": 1709,
+    "govity_possible": 1718,
+    "govity": 0.994761,
     "name": "Jana Berkovcová",
     "given_names": [
       "Jana"
@@ -2184,9 +2184,9 @@
   },
   {
     "person_id": "psp:person:7068",
-    "govity_total": 2090,
-    "govity_possible": 2095,
-    "govity": 0.997613,
+    "govity_total": 2135,
+    "govity_possible": 2140,
+    "govity": 0.997664,
     "name": "Jana Demjanová",
     "given_names": [
       "Jana"
@@ -2221,9 +2221,9 @@
   },
   {
     "person_id": "psp:person:7004",
-    "govity_total": 719,
-    "govity_possible": 1596,
-    "govity": 0.450501,
+    "govity_total": 743,
+    "govity_possible": 1649,
+    "govity": 0.450576,
     "name": "Jana Filipovičová",
     "given_names": [
       "Jana"
@@ -2258,9 +2258,9 @@
   },
   {
     "person_id": "psp:person:6753",
-    "govity_total": 2089,
-    "govity_possible": 2103,
-    "govity": 0.993343,
+    "govity_total": 2142,
+    "govity_possible": 2156,
+    "govity": 0.993506,
     "name": "Jana Hanzlíková",
     "given_names": [
       "Jana"
@@ -2295,9 +2295,9 @@
   },
   {
     "person_id": "psp:person:6466",
-    "govity_total": 763,
-    "govity_possible": 1748,
-    "govity": 0.436499,
+    "govity_total": 792,
+    "govity_possible": 1801,
+    "govity": 0.439756,
     "name": "Jana Krutáková",
     "given_names": [
       "Jana"
@@ -2406,9 +2406,9 @@
   },
   {
     "person_id": "psp:person:7032",
-    "govity_total": 649,
-    "govity_possible": 1671,
-    "govity": 0.38839,
+    "govity_total": 670,
+    "govity_possible": 1716,
+    "govity": 0.390443,
     "name": "Jana Patková",
     "given_names": [
       "Jana"
@@ -2554,9 +2554,9 @@
   },
   {
     "person_id": "psp:person:7037",
-    "govity_total": 1438,
-    "govity_possible": 1469,
-    "govity": 0.978897,
+    "govity_total": 1449,
+    "govity_possible": 1480,
+    "govity": 0.979054,
     "name": "Jindřich Rajchl",
     "given_names": [
       "Jindřich"
@@ -2628,9 +2628,9 @@
   },
   {
     "person_id": "psp:person:7009",
-    "govity_total": 2046,
-    "govity_possible": 2062,
-    "govity": 0.992241,
+    "govity_total": 2099,
+    "govity_possible": 2115,
+    "govity": 0.992435,
     "name": "Jiřina Klčová",
     "given_names": [
       "Jiřina"
@@ -2665,9 +2665,9 @@
   },
   {
     "person_id": "psp:person:6987",
-    "govity_total": 1767,
-    "govity_possible": 1790,
-    "govity": 0.987151,
+    "govity_total": 1819,
+    "govity_possible": 1843,
+    "govity": 0.986978,
     "name": "Jiří Barták",
     "given_names": [
       "Jiří"
@@ -2702,9 +2702,9 @@
   },
   {
     "person_id": "psp:person:6993",
-    "govity_total": 1998,
-    "govity_possible": 2047,
-    "govity": 0.976063,
+    "govity_total": 2051,
+    "govity_possible": 2100,
+    "govity": 0.976667,
     "name": "Jiří Bouška",
     "given_names": [
       "Jiří"
@@ -2776,9 +2776,9 @@
   },
   {
     "person_id": "psp:person:6803",
-    "govity_total": 802,
-    "govity_possible": 1730,
-    "govity": 0.463584,
+    "govity_total": 828,
+    "govity_possible": 1782,
+    "govity": 0.464646,
     "name": "Jiří Horák",
     "given_names": [
       "Jiří"
@@ -2813,8 +2813,8 @@
   },
   {
     "person_id": "psp:person:7108",
-    "govity_total": 626,
-    "govity_possible": 626,
+    "govity_total": 679,
+    "govity_possible": 679,
     "govity": 1.0,
     "name": "Jiří Kotlík",
     "given_names": [
@@ -2887,9 +2887,9 @@
   },
   {
     "person_id": "psp:person:7067",
-    "govity_total": 2066,
-    "govity_possible": 2081,
-    "govity": 0.992792,
+    "govity_total": 2118,
+    "govity_possible": 2133,
+    "govity": 0.992968,
     "name": "Jiří Penc",
     "given_names": [
       "Jiří"
@@ -2924,9 +2924,9 @@
   },
   {
     "person_id": "psp:person:5273",
-    "govity_total": 629,
-    "govity_possible": 1555,
-    "govity": 0.404502,
+    "govity_total": 653,
+    "govity_possible": 1608,
+    "govity": 0.406095,
     "name": "Jiří Pospíšil",
     "given_names": [
       "Jiří"
@@ -2961,9 +2961,9 @@
   },
   {
     "person_id": "psp:person:6515",
-    "govity_total": 1927,
-    "govity_possible": 1930,
-    "govity": 0.998446,
+    "govity_total": 1980,
+    "govity_possible": 1983,
+    "govity": 0.998487,
     "name": "Jiří Strýček",
     "given_names": [
       "Jiří"
@@ -2998,9 +2998,9 @@
   },
   {
     "person_id": "psp:person:7033",
-    "govity_total": 1942,
-    "govity_possible": 1962,
-    "govity": 0.989806,
+    "govity_total": 1995,
+    "govity_possible": 2015,
+    "govity": 0.990074,
     "name": "Jiří Svoboda",
     "given_names": [
       "Jiří"
@@ -3072,9 +3072,9 @@
   },
   {
     "person_id": "psp:person:6750",
-    "govity_total": 705,
-    "govity_possible": 1519,
-    "govity": 0.464121,
+    "govity_total": 732,
+    "govity_possible": 1568,
+    "govity": 0.466837,
     "name": "Josef Flek",
     "given_names": [
       "Josef"
@@ -3149,9 +3149,9 @@
   },
   {
     "person_id": "psp:person:6664",
-    "govity_total": 1148,
-    "govity_possible": 1184,
-    "govity": 0.969595,
+    "govity_total": 1200,
+    "govity_possible": 1236,
+    "govity": 0.970874,
     "name": "Josef Nerušil",
     "given_names": [
       "Josef"
@@ -3186,9 +3186,9 @@
   },
   {
     "person_id": "psp:person:6946",
-    "govity_total": 1643,
-    "govity_possible": 1649,
-    "govity": 0.996361,
+    "govity_total": 1696,
+    "govity_possible": 1702,
+    "govity": 0.996475,
     "name": "Josef Váňa",
     "given_names": [
       "Josef"
@@ -3223,9 +3223,9 @@
   },
   {
     "person_id": "psp:person:7044",
-    "govity_total": 787,
-    "govity_possible": 1782,
-    "govity": 0.441639,
+    "govity_total": 816,
+    "govity_possible": 1835,
+    "govity": 0.444687,
     "name": "Julie Smejkalová",
     "given_names": [
       "Julie"
@@ -3260,9 +3260,9 @@
   },
   {
     "person_id": "psp:person:6447",
-    "govity_total": 2036,
-    "govity_possible": 2040,
-    "govity": 0.998039,
+    "govity_total": 2089,
+    "govity_possible": 2093,
+    "govity": 0.998089,
     "name": "Kamal Farhan",
     "given_names": [
       "Kamal"
@@ -3337,9 +3337,9 @@
   },
   {
     "person_id": "psp:person:7002",
-    "govity_total": 645,
-    "govity_possible": 1391,
-    "govity": 0.463695,
+    "govity_total": 675,
+    "govity_possible": 1444,
+    "govity": 0.467452,
     "name": "Karel Dvořák",
     "given_names": [
       "Karel"
@@ -3374,9 +3374,9 @@
   },
   {
     "person_id": "psp:person:6751",
-    "govity_total": 1020,
-    "govity_possible": 1975,
-    "govity": 0.516456,
+    "govity_total": 1052,
+    "govity_possible": 2028,
+    "govity": 0.518738,
     "name": "Karel Haas",
     "given_names": [
       "Karel"
@@ -3411,9 +3411,9 @@
   },
   {
     "person_id": "psp:person:6621",
-    "govity_total": 988,
-    "govity_possible": 990,
-    "govity": 0.99798,
+    "govity_total": 1041,
+    "govity_possible": 1043,
+    "govity": 0.998082,
     "name": "Karel Havlíček",
     "given_names": [
       "Karel"
@@ -3485,9 +3485,9 @@
   },
   {
     "person_id": "psp:person:7005",
-    "govity_total": 2026,
-    "govity_possible": 2027,
-    "govity": 0.999507,
+    "govity_total": 2079,
+    "govity_possible": 2080,
+    "govity": 0.999519,
     "name": "Karin Gajdová",
     "given_names": [
       "Karin"
@@ -3559,9 +3559,9 @@
   },
   {
     "person_id": "psp:person:7048",
-    "govity_total": 705,
-    "govity_possible": 1575,
-    "govity": 0.447619,
+    "govity_total": 734,
+    "govity_possible": 1628,
+    "govity": 0.45086,
     "name": "Kateřina Stojanová",
     "given_names": [
       "Kateřina"
@@ -3670,9 +3670,9 @@
   },
   {
     "person_id": "psp:person:7023",
-    "govity_total": 718,
-    "govity_possible": 1707,
-    "govity": 0.420621,
+    "govity_total": 747,
+    "govity_possible": 1760,
+    "govity": 0.424432,
     "name": "Lenka Martínková Španihelová",
     "given_names": [
       "Lenka"
@@ -3707,9 +3707,9 @@
   },
   {
     "person_id": "psp:person:7106",
-    "govity_total": 752,
-    "govity_possible": 794,
-    "govity": 0.947103,
+    "govity_total": 805,
+    "govity_possible": 847,
+    "govity": 0.950413,
     "name": "Libor Forman",
     "given_names": [
       "Libor"
@@ -3818,9 +3818,9 @@
   },
   {
     "person_id": "psp:person:7058",
-    "govity_total": 1868,
-    "govity_possible": 1899,
-    "govity": 0.983676,
+    "govity_total": 1891,
+    "govity_possible": 1922,
+    "govity": 0.983871,
     "name": "Libor Vondráček",
     "given_names": [
       "Libor"
@@ -3855,8 +3855,8 @@
   },
   {
     "person_id": "psp:person:6544",
-    "govity_total": 1431,
-    "govity_possible": 1431,
+    "govity_total": 1484,
+    "govity_possible": 1484,
     "govity": 1.0,
     "name": "Lubomír Metnar",
     "given_names": [
@@ -3929,9 +3929,9 @@
   },
   {
     "person_id": "psp:person:6989",
-    "govity_total": 825,
-    "govity_possible": 1661,
-    "govity": 0.496689,
+    "govity_total": 855,
+    "govity_possible": 1714,
+    "govity": 0.498833,
     "name": "Lucie Bartošová",
     "given_names": [
       "Lucie"
@@ -4003,9 +4003,9 @@
   },
   {
     "person_id": "psp:person:6479",
-    "govity_total": 2066,
-    "govity_possible": 2110,
-    "govity": 0.979147,
+    "govity_total": 2118,
+    "govity_possible": 2163,
+    "govity": 0.979196,
     "name": "Lucie Šafránková",
     "given_names": [
       "Lucie"
@@ -4040,9 +4040,9 @@
   },
   {
     "person_id": "psp:person:6789",
-    "govity_total": 741,
-    "govity_possible": 1758,
-    "govity": 0.421502,
+    "govity_total": 758,
+    "govity_possible": 1796,
+    "govity": 0.422049,
     "name": "Lukáš Vlček",
     "given_names": [
       "Lukáš"
@@ -4077,9 +4077,9 @@
   },
   {
     "person_id": "psp:person:4",
-    "govity_total": 907,
-    "govity_possible": 1679,
-    "govity": 0.540203,
+    "govity_total": 937,
+    "govity_possible": 1732,
+    "govity": 0.540993,
     "name": "Marek Benda",
     "given_names": [
       "Marek"
@@ -4114,9 +4114,9 @@
   },
   {
     "person_id": "psp:person:6533",
-    "govity_total": 2059,
-    "govity_possible": 2097,
-    "govity": 0.981879,
+    "govity_total": 2111,
+    "govity_possible": 2150,
+    "govity": 0.98186,
     "name": "Marek Novák",
     "given_names": [
       "Marek"
@@ -4151,9 +4151,9 @@
   },
   {
     "person_id": "psp:person:6513",
-    "govity_total": 787,
-    "govity_possible": 1777,
-    "govity": 0.442881,
+    "govity_total": 812,
+    "govity_possible": 1830,
+    "govity": 0.443716,
     "name": "Marek Výborný",
     "given_names": [
       "Marek"
@@ -4188,9 +4188,9 @@
   },
   {
     "person_id": "psp:person:6154",
-    "govity_total": 635,
-    "govity_possible": 1537,
-    "govity": 0.413142,
+    "govity_total": 660,
+    "govity_possible": 1590,
+    "govity": 0.415094,
     "name": "Marek Ženíšek",
     "given_names": [
       "Marek"
@@ -4262,9 +4262,9 @@
   },
   {
     "person_id": "psp:person:7018",
-    "govity_total": 852,
-    "govity_possible": 1863,
-    "govity": 0.457327,
+    "govity_total": 881,
+    "govity_possible": 1916,
+    "govity": 0.459812,
     "name": "Marie Kršková",
     "given_names": [
       "Marie"
@@ -4299,9 +4299,9 @@
   },
   {
     "person_id": "psp:person:6745",
-    "govity_total": 1868,
-    "govity_possible": 1908,
-    "govity": 0.979036,
+    "govity_total": 1921,
+    "govity_possible": 1961,
+    "govity": 0.979602,
     "name": "Marie Pošarová",
     "given_names": [
       "Marie"
@@ -4376,9 +4376,9 @@
   },
   {
     "person_id": "psp:person:6435",
-    "govity_total": 891,
-    "govity_possible": 1810,
-    "govity": 0.492265,
+    "govity_total": 920,
+    "govity_possible": 1863,
+    "govity": 0.493827,
     "name": "Martin Baxa",
     "given_names": [
       "Martin"
@@ -4413,9 +4413,9 @@
   },
   {
     "person_id": "psp:person:6211",
-    "govity_total": 1425,
-    "govity_possible": 1433,
-    "govity": 0.994417,
+    "govity_total": 1478,
+    "govity_possible": 1486,
+    "govity": 0.994616,
     "name": "Martin Kolovratník",
     "given_names": [
       "Martin"
@@ -4450,9 +4450,9 @@
   },
   {
     "person_id": "psp:person:7021",
-    "govity_total": 1905,
-    "govity_possible": 1938,
-    "govity": 0.982972,
+    "govity_total": 1957,
+    "govity_possible": 1990,
+    "govity": 0.983417,
     "name": "Martin Kupec",
     "given_names": [
       "Martin"
@@ -4524,9 +4524,9 @@
   },
   {
     "person_id": "psp:person:7062",
-    "govity_total": 2014,
-    "govity_possible": 2020,
-    "govity": 0.99703,
+    "govity_total": 2067,
+    "govity_possible": 2073,
+    "govity": 0.997106,
     "name": "Martin Záhoř",
     "given_names": [
       "Martin"
@@ -4635,9 +4635,9 @@
   },
   {
     "person_id": "psp:person:7011",
-    "govity_total": 648,
-    "govity_possible": 1510,
-    "govity": 0.429139,
+    "govity_total": 669,
+    "govity_possible": 1555,
+    "govity": 0.430225,
     "name": "Matěj Hlavatý",
     "given_names": [
       "Matěj"
@@ -4672,9 +4672,9 @@
   },
   {
     "person_id": "psp:person:6754",
-    "govity_total": 663,
-    "govity_possible": 1311,
-    "govity": 0.505721,
+    "govity_total": 678,
+    "govity_possible": 1353,
+    "govity": 0.501109,
     "name": "Matěj Ondřej Havel",
     "given_names": [
       "Matěj Ondřej"
@@ -4709,9 +4709,9 @@
   },
   {
     "person_id": "psp:person:7024",
-    "govity_total": 698,
-    "govity_possible": 1630,
-    "govity": 0.428221,
+    "govity_total": 727,
+    "govity_possible": 1683,
+    "govity": 0.431967,
     "name": "Michaela Moricová",
     "given_names": [
       "Michaela"
@@ -4783,9 +4783,9 @@
   },
   {
     "person_id": "psp:person:6763",
-    "govity_total": 754,
-    "govity_possible": 1804,
-    "govity": 0.41796,
+    "govity_total": 783,
+    "govity_possible": 1857,
+    "govity": 0.421648,
     "name": "Michaela Šebelová",
     "given_names": [
       "Michaela"
@@ -4820,9 +4820,9 @@
   },
   {
     "person_id": "psp:person:6216",
-    "govity_total": 730,
-    "govity_possible": 1597,
-    "govity": 0.457107,
+    "govity_total": 766,
+    "govity_possible": 1650,
+    "govity": 0.464242,
     "name": "Michal Kučera",
     "given_names": [
       "Michal"
@@ -4931,9 +4931,9 @@
   },
   {
     "person_id": "psp:person:6185",
-    "govity_total": 1911,
-    "govity_possible": 1912,
-    "govity": 0.999477,
+    "govity_total": 1964,
+    "govity_possible": 1965,
+    "govity": 0.999491,
     "name": "Milan Brázdil",
     "given_names": [
       "Milan"
@@ -4968,9 +4968,9 @@
   },
   {
     "person_id": "psp:person:6201",
-    "govity_total": 2054,
-    "govity_possible": 2061,
-    "govity": 0.996604,
+    "govity_total": 2107,
+    "govity_possible": 2114,
+    "govity": 0.996689,
     "name": "Miloslav Janulík",
     "given_names": [
       "Miloslav"
@@ -5005,9 +5005,9 @@
   },
   {
     "person_id": "psp:person:7016",
-    "govity_total": 1818,
-    "govity_possible": 1838,
-    "govity": 0.989119,
+    "govity_total": 1841,
+    "govity_possible": 1861,
+    "govity": 0.989253,
     "name": "Miroslav Krejčí",
     "given_names": [
       "Miroslav"
@@ -5042,9 +5042,9 @@
   },
   {
     "person_id": "psp:person:6688",
-    "govity_total": 2091,
-    "govity_possible": 2112,
-    "govity": 0.990057,
+    "govity_total": 2144,
+    "govity_possible": 2165,
+    "govity": 0.9903,
     "name": "Miroslav Samaš",
     "given_names": [
       "Miroslav"
@@ -5116,9 +5116,9 @@
   },
   {
     "person_id": "psp:person:7064",
-    "govity_total": 1919,
-    "govity_possible": 1946,
-    "govity": 0.986125,
+    "govity_total": 1972,
+    "govity_possible": 1999,
+    "govity": 0.986493,
     "name": "Miroslav Žbánek",
     "given_names": [
       "Miroslav"
@@ -5190,9 +5190,9 @@
   },
   {
     "person_id": "psp:person:7007",
-    "govity_total": 1914,
-    "govity_possible": 1928,
-    "govity": 0.992739,
+    "govity_total": 1966,
+    "govity_possible": 1981,
+    "govity": 0.992428,
     "name": "Monika Hubíková",
     "given_names": [
       "Monika"
@@ -5264,9 +5264,9 @@
   },
   {
     "person_id": "psp:person:6473",
-    "govity_total": 809,
-    "govity_possible": 1903,
-    "govity": 0.425118,
+    "govity_total": 838,
+    "govity_possible": 1956,
+    "govity": 0.428425,
     "name": "Olga Richterová",
     "given_names": [
       "Olga"
@@ -5301,9 +5301,9 @@
   },
   {
     "person_id": "psp:person:6623",
-    "govity_total": 2021,
-    "govity_possible": 2092,
-    "govity": 0.966061,
+    "govity_total": 2074,
+    "govity_possible": 2145,
+    "govity": 0.9669,
     "name": "Ondřej Babka",
     "given_names": [
       "Ondřej"
@@ -5338,9 +5338,9 @@
   },
   {
     "person_id": "psp:person:7010",
-    "govity_total": 1280,
-    "govity_possible": 1283,
-    "govity": 0.997662,
+    "govity_total": 1303,
+    "govity_possible": 1306,
+    "govity": 0.997703,
     "name": "Oto Klempíř",
     "given_names": [
       "Oto"
@@ -5375,9 +5375,9 @@
   },
   {
     "person_id": "psp:person:7060",
-    "govity_total": 2079,
-    "govity_possible": 2108,
-    "govity": 0.986243,
+    "govity_total": 2132,
+    "govity_possible": 2161,
+    "govity": 0.98658,
     "name": "Otto Vopěnka",
     "given_names": [
       "Otto"
@@ -5412,9 +5412,9 @@
   },
   {
     "person_id": "psp:person:6487",
-    "govity_total": 1803,
-    "govity_possible": 1847,
-    "govity": 0.976178,
+    "govity_total": 1856,
+    "govity_possible": 1900,
+    "govity": 0.976842,
     "name": "Patrik Nacher",
     "given_names": [
       "Patrik"
@@ -5449,9 +5449,9 @@
   },
   {
     "person_id": "psp:person:7031",
-    "govity_total": 1862,
-    "govity_possible": 1868,
-    "govity": 0.996788,
+    "govity_total": 1915,
+    "govity_possible": 1921,
+    "govity": 0.996877,
     "name": "Patrik Pařil",
     "given_names": [
       "Patrik"
@@ -5486,9 +5486,9 @@
   },
   {
     "person_id": "psp:person:6988",
-    "govity_total": 1945,
-    "govity_possible": 1986,
-    "govity": 0.979355,
+    "govity_total": 1998,
+    "govity_possible": 2039,
+    "govity": 0.979892,
     "name": "Pavel Bartoň",
     "given_names": [
       "Pavel"
@@ -5597,9 +5597,9 @@
   },
   {
     "person_id": "psp:person:6520",
-    "govity_total": 2099,
-    "govity_possible": 2113,
-    "govity": 0.993374,
+    "govity_total": 2152,
+    "govity_possible": 2166,
+    "govity": 0.993536,
     "name": "Pavel Růžička",
     "given_names": [
       "Pavel"
@@ -5635,8 +5635,8 @@
   {
     "person_id": "psp:person:5226",
     "govity_total": 748,
-    "govity_possible": 1386,
-    "govity": 0.539683,
+    "govity_possible": 1390,
+    "govity": 0.538129,
     "name": "Pavel Žáček",
     "given_names": [
       "Pavel"
@@ -5671,9 +5671,9 @@
   },
   {
     "person_id": "psp:person:6762",
-    "govity_total": 754,
-    "govity_possible": 1580,
-    "govity": 0.477215,
+    "govity_total": 778,
+    "govity_possible": 1610,
+    "govity": 0.48323,
     "name": "Pavla Pivoňka Vaňková",
     "given_names": [
       "Pavla"
@@ -5708,9 +5708,9 @@
   },
   {
     "person_id": "psp:person:346",
-    "govity_total": 829,
-    "govity_possible": 1680,
-    "govity": 0.493452,
+    "govity_total": 851,
+    "govity_possible": 1725,
+    "govity": 0.493333,
     "name": "Petr Bendl",
     "given_names": [
       "Petr"
@@ -5746,8 +5746,8 @@
   {
     "person_id": "psp:person:6074",
     "govity_total": 680,
-    "govity_possible": 1446,
-    "govity": 0.470263,
+    "govity_possible": 1462,
+    "govity": 0.465116,
     "name": "Petr Fiala",
     "given_names": [
       "Petr"
@@ -5782,9 +5782,9 @@
   },
   {
     "person_id": "psp:person:6881",
-    "govity_total": 750,
-    "govity_possible": 1736,
-    "govity": 0.432028,
+    "govity_total": 776,
+    "govity_possible": 1789,
+    "govity": 0.433762,
     "name": "Petr Hladík",
     "given_names": [
       "Petr"
@@ -5819,9 +5819,9 @@
   },
   {
     "person_id": "psp:person:7014",
-    "govity_total": 2009,
-    "govity_possible": 2026,
-    "govity": 0.991609,
+    "govity_total": 2062,
+    "govity_possible": 2079,
+    "govity": 0.991823,
     "name": "Petr Kowanda",
     "given_names": [
       "Petr"
@@ -5896,9 +5896,9 @@
   },
   {
     "person_id": "psp:person:7022",
-    "govity_total": 1073,
-    "govity_possible": 1076,
-    "govity": 0.997212,
+    "govity_total": 1126,
+    "govity_possible": 1129,
+    "govity": 0.997343,
     "name": "Petr Macinka",
     "given_names": [
       "Petr"
@@ -5970,8 +5970,8 @@
   },
   {
     "person_id": "psp:person:7045",
-    "govity_total": 838,
-    "govity_possible": 1676,
+    "govity_total": 864,
+    "govity_possible": 1728,
     "govity": 0.5,
     "name": "Petr Sokol",
     "given_names": [
@@ -6007,9 +6007,9 @@
   },
   {
     "person_id": "psp:person:6490",
-    "govity_total": 2119,
-    "govity_possible": 2124,
-    "govity": 0.997646,
+    "govity_total": 2172,
+    "govity_possible": 2177,
+    "govity": 0.997703,
     "name": "Petr Vrána",
     "given_names": [
       "Petr"
@@ -6044,9 +6044,9 @@
   },
   {
     "person_id": "psp:person:6508",
-    "govity_total": 1547,
-    "govity_possible": 1587,
-    "govity": 0.974795,
+    "govity_total": 1600,
+    "govity_possible": 1640,
+    "govity": 0.97561,
     "name": "Radek Koten",
     "given_names": [
       "Radek"
@@ -6081,9 +6081,9 @@
   },
   {
     "person_id": "psp:person:6165",
-    "govity_total": 1748,
-    "govity_possible": 1762,
-    "govity": 0.992054,
+    "govity_total": 1801,
+    "govity_possible": 1815,
+    "govity": 0.992287,
     "name": "Radek Vondráček",
     "given_names": [
       "Radek"
@@ -6118,9 +6118,9 @@
   },
   {
     "person_id": "psp:person:5459",
-    "govity_total": 1613,
-    "govity_possible": 1652,
-    "govity": 0.976392,
+    "govity_total": 1636,
+    "govity_possible": 1675,
+    "govity": 0.976716,
     "name": "Radim Fiala",
     "given_names": [
       "Radim"
@@ -6155,9 +6155,9 @@
   },
   {
     "person_id": "psp:person:6770",
-    "govity_total": 1935,
-    "govity_possible": 1941,
-    "govity": 0.996909,
+    "govity_total": 1988,
+    "govity_possible": 1994,
+    "govity": 0.996991,
     "name": "Renata Oulehlová",
     "given_names": [
       "Renata"
@@ -6229,9 +6229,9 @@
   },
   {
     "person_id": "psp:person:6793",
-    "govity_total": 736,
-    "govity_possible": 1490,
-    "govity": 0.49396,
+    "govity_total": 764,
+    "govity_possible": 1541,
+    "govity": 0.495782,
     "name": "Renáta Zajíčková",
     "given_names": [
       "Renáta"
@@ -6306,9 +6306,9 @@
   },
   {
     "person_id": "psp:person:6509",
-    "govity_total": 1531,
-    "govity_possible": 1551,
-    "govity": 0.987105,
+    "govity_total": 1582,
+    "govity_possible": 1602,
+    "govity": 0.987516,
     "name": "Robert Králíček",
     "given_names": [
       "Robert"
@@ -6380,9 +6380,9 @@
   },
   {
     "person_id": "psp:person:6743",
-    "govity_total": 2109,
-    "govity_possible": 2121,
-    "govity": 0.994342,
+    "govity_total": 2132,
+    "govity_possible": 2144,
+    "govity": 0.994403,
     "name": "Robert Stržínek",
     "given_names": [
       "Robert"
@@ -6417,9 +6417,9 @@
   },
   {
     "person_id": "psp:person:6215",
-    "govity_total": 2086,
-    "govity_possible": 2096,
-    "govity": 0.995229,
+    "govity_total": 2109,
+    "govity_possible": 2119,
+    "govity": 0.995281,
     "name": "Roman Kubíček",
     "given_names": [
       "Roman"
@@ -6531,9 +6531,9 @@
   },
   {
     "person_id": "psp:person:7057",
-    "govity_total": 691,
-    "govity_possible": 1626,
-    "govity": 0.424969,
+    "govity_total": 719,
+    "govity_possible": 1679,
+    "govity": 0.428231,
     "name": "Samuel Volpe",
     "given_names": [
       "Samuel"
@@ -6568,9 +6568,9 @@
   },
   {
     "person_id": "psp:person:6451",
-    "govity_total": 1809,
-    "govity_possible": 1810,
-    "govity": 0.999448,
+    "govity_total": 1862,
+    "govity_possible": 1863,
+    "govity": 0.999463,
     "name": "Stanislav Fridrich",
     "given_names": [
       "Stanislav"
@@ -6605,9 +6605,9 @@
   },
   {
     "person_id": "psp:person:6468",
-    "govity_total": 2029,
-    "govity_possible": 2038,
-    "govity": 0.995584,
+    "govity_total": 2082,
+    "govity_possible": 2091,
+    "govity": 0.995696,
     "name": "Taťána Malá",
     "given_names": [
       "Taťána"
@@ -6642,9 +6642,9 @@
   },
   {
     "person_id": "psp:person:6555",
-    "govity_total": 612,
-    "govity_possible": 1551,
-    "govity": 0.394584,
+    "govity_total": 637,
+    "govity_possible": 1604,
+    "govity": 0.397132,
     "name": "Tom Philipp",
     "given_names": [
       "Tom"
@@ -6679,9 +6679,9 @@
   },
   {
     "person_id": "psp:person:6105",
-    "govity_total": 1868,
-    "govity_possible": 1908,
-    "govity": 0.979036,
+    "govity_total": 1921,
+    "govity_possible": 1961,
+    "govity": 0.979602,
     "name": "Tomio Okamura",
     "given_names": [
       "Tomio"
@@ -6716,9 +6716,9 @@
   },
   {
     "person_id": "psp:person:7001",
-    "govity_total": 2063,
-    "govity_possible": 2107,
-    "govity": 0.979117,
+    "govity_total": 2116,
+    "govity_possible": 2160,
+    "govity": 0.97963,
     "name": "Tomáš Doležal",
     "given_names": [
       "Tomáš"
@@ -6753,9 +6753,9 @@
   },
   {
     "person_id": "psp:person:6756",
-    "govity_total": 2072,
-    "govity_possible": 2098,
-    "govity": 0.987607,
+    "govity_total": 2125,
+    "govity_possible": 2151,
+    "govity": 0.987913,
     "name": "Tomáš Helebrant",
     "given_names": [
       "Tomáš"
@@ -6790,9 +6790,9 @@
   },
   {
     "person_id": "psp:person:6506",
-    "govity_total": 1974,
-    "govity_possible": 1983,
-    "govity": 0.995461,
+    "govity_total": 2027,
+    "govity_possible": 2036,
+    "govity": 0.99558,
     "name": "Tomáš Kohoutek",
     "given_names": [
       "Tomáš"
@@ -6827,9 +6827,9 @@
   },
   {
     "person_id": "psp:person:7051",
-    "govity_total": 664,
-    "govity_possible": 1675,
-    "govity": 0.396418,
+    "govity_total": 693,
+    "govity_possible": 1728,
+    "govity": 0.401042,
     "name": "Vendula Svobodová",
     "given_names": [
       "Vendula"
@@ -6864,9 +6864,9 @@
   },
   {
     "person_id": "psp:person:7013",
-    "govity_total": 749,
-    "govity_possible": 1841,
-    "govity": 0.406844,
+    "govity_total": 773,
+    "govity_possible": 1871,
+    "govity": 0.413148,
     "name": "Veronika Kovářová",
     "given_names": [
       "Veronika"
@@ -6901,9 +6901,9 @@
   },
   {
     "person_id": "psp:person:7012",
-    "govity_total": 1995,
-    "govity_possible": 2011,
-    "govity": 0.992044,
+    "govity_total": 2048,
+    "govity_possible": 2064,
+    "govity": 0.992248,
     "name": "Vladimír Kolek",
     "given_names": [
       "Vladimír"
@@ -6938,9 +6938,9 @@
   },
   {
     "person_id": "psp:person:7034",
-    "govity_total": 1276,
-    "govity_possible": 1356,
-    "govity": 0.941003,
+    "govity_total": 1329,
+    "govity_possible": 1409,
+    "govity": 0.943222,
     "name": "Vladimír Pikora",
     "given_names": [
       "Vladimír"
@@ -6975,9 +6975,9 @@
   },
   {
     "person_id": "psp:person:7066",
-    "govity_total": 2090,
-    "govity_possible": 2116,
-    "govity": 0.987713,
+    "govity_total": 2142,
+    "govity_possible": 2169,
+    "govity": 0.987552,
     "name": "Vlastimil Hebr",
     "given_names": [
       "Vlastimil"
@@ -7012,9 +7012,9 @@
   },
   {
     "person_id": "psp:person:6482",
-    "govity_total": 609,
-    "govity_possible": 1526,
-    "govity": 0.399083,
+    "govity_total": 628,
+    "govity_possible": 1571,
+    "govity": 0.399745,
     "name": "Vlastimil Válek",
     "given_names": [
       "Vlastimil"
@@ -7086,9 +7086,9 @@
   },
   {
     "person_id": "psp:person:6486",
-    "govity_total": 839,
-    "govity_possible": 1522,
-    "govity": 0.551248,
+    "govity_total": 870,
+    "govity_possible": 1575,
+    "govity": 0.552381,
     "name": "Vojtěch Munzar",
     "given_names": [
       "Vojtěch"
@@ -7123,9 +7123,9 @@
   },
   {
     "person_id": "psp:person:7036",
-    "govity_total": 839,
-    "govity_possible": 1908,
-    "govity": 0.439727,
+    "govity_total": 863,
+    "govity_possible": 1961,
+    "govity": 0.440082,
     "name": "Václav Pláteník",
     "given_names": [
       "Václav"
@@ -7160,9 +7160,9 @@
   },
   {
     "person_id": "psp:person:7053",
-    "govity_total": 1794,
-    "govity_possible": 1808,
-    "govity": 0.992257,
+    "govity_total": 1845,
+    "govity_possible": 1861,
+    "govity": 0.991402,
     "name": "Václav Trojan",
     "given_names": [
       "Václav"
@@ -7197,9 +7197,9 @@
   },
   {
     "person_id": "psp:person:6524",
-    "govity_total": 617,
-    "govity_possible": 1426,
-    "govity": 0.432679,
+    "govity_total": 638,
+    "govity_possible": 1470,
+    "govity": 0.434014,
     "name": "Vít Rakušan",
     "given_names": [
       "Vít"
@@ -7234,9 +7234,9 @@
   },
   {
     "person_id": "psp:person:7039",
-    "govity_total": 951,
-    "govity_possible": 1898,
-    "govity": 0.501054,
+    "govity_total": 981,
+    "govity_possible": 1951,
+    "govity": 0.502819,
     "name": "Vítězslav Schrek",
     "given_names": [
       "Vítězslav"
@@ -7271,9 +7271,9 @@
   },
   {
     "person_id": "psp:person:6254",
-    "govity_total": 1959,
-    "govity_possible": 1962,
-    "govity": 0.998471,
+    "govity_total": 2010,
+    "govity_possible": 2015,
+    "govity": 0.997519,
     "name": "Věra Adámková",
     "given_names": [
       "Věra"
@@ -7308,9 +7308,9 @@
   },
   {
     "person_id": "psp:person:6214",
-    "govity_total": 770,
-    "govity_possible": 1728,
-    "govity": 0.445602,
+    "govity_total": 800,
+    "govity_possible": 1781,
+    "govity": 0.449186,
     "name": "Věra Kovářová",
     "given_names": [
       "Věra"
@@ -7345,9 +7345,9 @@
   },
   {
     "person_id": "psp:person:7008",
-    "govity_total": 755,
-    "govity_possible": 1730,
-    "govity": 0.436416,
+    "govity_total": 776,
+    "govity_possible": 1775,
+    "govity": 0.437183,
     "name": "Zdena Kašparová",
     "given_names": [
       "Zdena"
@@ -7419,9 +7419,9 @@
   },
   {
     "person_id": "psp:person:6552",
-    "govity_total": 716,
-    "govity_possible": 1683,
-    "govity": 0.425431,
+    "govity_total": 730,
+    "govity_possible": 1716,
+    "govity": 0.425408,
     "name": "Zdeněk Hřib",
     "given_names": [
       "Zdeněk"
@@ -7456,9 +7456,9 @@
   },
   {
     "person_id": "psp:person:6992",
-    "govity_total": 697,
-    "govity_possible": 1742,
-    "govity": 0.400115,
+    "govity_total": 722,
+    "govity_possible": 1795,
+    "govity": 0.402228,
     "name": "Zdeňka Blišťanová",
     "given_names": [
       "Zdeňka"
@@ -7493,9 +7493,9 @@
   },
   {
     "person_id": "psp:person:6467",
-    "govity_total": 1238,
-    "govity_possible": 1247,
-    "govity": 0.992783,
+    "govity_total": 1280,
+    "govity_possible": 1289,
+    "govity": 0.993018,
     "name": "Zuzana Majerová",
     "given_names": [
       "Zuzana"
@@ -7530,9 +7530,9 @@
   },
   {
     "person_id": "psp:person:7040",
-    "govity_total": 1624,
-    "govity_possible": 1625,
-    "govity": 0.999385,
+    "govity_total": 1677,
+    "govity_possible": 1678,
+    "govity": 0.999404,
     "name": "Zuzana Mrázová",
     "given_names": [
       "Zuzana"
@@ -7567,9 +7567,9 @@
   },
   {
     "person_id": "psp:person:6474",
-    "govity_total": 2090,
-    "govity_possible": 2105,
-    "govity": 0.992874,
+    "govity_total": 2143,
+    "govity_possible": 2158,
+    "govity": 0.993049,
     "name": "Zuzana Ožanová",
     "given_names": [
       "Zuzana"
