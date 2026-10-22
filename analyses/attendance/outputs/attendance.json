@@ -1,9 +1,9 @@
 [
   {
     "person_id": "psp:person:6491",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1923,
-    "absent": 528,
+    "absent": 530,
     "name": "Adam Vojtěch",
     "given_names": [
       "Adam"
@@ -31,16 +31,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7845777234,
+    "present_share": 0.7839380351,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6491.jpg"
     }
   },
   {
     "person_id": "psp:person:6997",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1770,
-    "absent": 681,
+    "absent": 683,
     "name": "Adriana Chochelová",
     "given_names": [
       "Adriana"
@@ -68,15 +68,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7221542228,
+    "present_share": 0.7215654301,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6997.jpg"
     }
   },
   {
     "person_id": "psp:person:6545",
-    "vote_events_total": 2451,
-    "present": 1464,
+    "vote_events_total": 2453,
+    "present": 1466,
     "absent": 987,
     "name": "Alena Schillerová",
     "given_names": [
@@ -105,15 +105,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5973072215,
+    "present_share": 0.5976355483,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6545.jpg"
     }
   },
   {
     "person_id": "psp:person:6463",
-    "vote_events_total": 2451,
-    "present": 1774,
+    "vote_events_total": 2453,
+    "present": 1776,
     "absent": 677,
     "name": "Aleš Juchelka",
     "given_names": [
@@ -142,15 +142,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7237862097,
+    "present_share": 0.7240114146,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6463.jpg"
     }
   },
   {
     "person_id": "psp:person:6905",
-    "vote_events_total": 2451,
-    "present": 1415,
+    "vote_events_total": 2453,
+    "present": 1417,
     "absent": 1036,
     "name": "Andrea Hoffmannová",
     "given_names": [
@@ -179,16 +179,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5773153815,
+    "present_share": 0.5776600082,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6905.jpg"
     }
   },
   {
     "person_id": "psp:person:6150",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 832,
-    "absent": 1619,
+    "absent": 1621,
     "name": "Andrej Babiš",
     "given_names": [
       "Andrej"
@@ -216,16 +216,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.3394532844,
+    "present_share": 0.3391765185,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6150.jpg"
     }
   },
   {
     "person_id": "psp:person:7026",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2036,
-    "absent": 415,
+    "absent": 417,
     "name": "Anežka Nedomová",
     "given_names": [
       "Anežka"
@@ -253,16 +253,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8306813545,
+    "present_share": 0.8300040766,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7026.jpg"
     }
   },
   {
     "person_id": "psp:person:7035",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2046,
-    "absent": 405,
+    "absent": 407,
     "name": "Barbora Pipášová",
     "given_names": [
       "Barbora"
@@ -290,15 +290,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8347613219,
+    "present_share": 0.8340807175,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7035.jpg"
     }
   },
   {
     "person_id": "psp:person:7038",
-    "vote_events_total": 2451,
-    "present": 2384,
+    "vote_events_total": 2453,
+    "present": 2386,
     "absent": 67,
     "name": "Barbora Rázga",
     "given_names": [
@@ -327,16 +327,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9726642187,
+    "present_share": 0.9726865063,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7038.jpg"
     }
   },
   {
     "person_id": "psp:person:6788",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1932,
-    "absent": 519,
+    "absent": 521,
     "name": "Barbora Urbanová",
     "given_names": [
       "Barbora"
@@ -364,16 +364,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.788249694,
+    "present_share": 0.7876070118,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6788.jpg"
     }
   },
   {
     "person_id": "psp:person:6998",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1994,
-    "absent": 457,
+    "absent": 459,
     "name": "Benjamin Činčila",
     "given_names": [
       "Benjamin"
@@ -401,16 +401,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8135454916,
+    "present_share": 0.8128821851,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6998.jpg"
     }
   },
   {
     "person_id": "psp:person:6780",
-    "vote_events_total": 2451,
-    "present": 1968,
-    "absent": 483,
+    "vote_events_total": 2453,
+    "present": 1969,
+    "absent": 484,
     "name": "Berenika Peštová",
     "given_names": [
       "Berenika"
@@ -438,15 +438,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8029375765,
+    "present_share": 0.802690583,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6780.jpg"
     }
   },
   {
     "person_id": "psp:person:7028",
-    "vote_events_total": 2451,
-    "present": 2102,
+    "vote_events_total": 2453,
+    "present": 2104,
     "absent": 349,
     "name": "Bohuslav Niemiec",
     "given_names": [
@@ -475,15 +475,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8576091391,
+    "present_share": 0.8577252344,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7028.jpg"
     }
   },
   {
     "person_id": "psp:person:5512",
-    "vote_events_total": 2451,
-    "present": 2228,
+    "vote_events_total": 2453,
+    "present": 2230,
     "absent": 223,
     "name": "Boris Šťastný",
     "given_names": [
@@ -512,15 +512,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9090167279,
+    "present_share": 0.9090909091,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5512.jpg"
     }
   },
   {
     "person_id": "psp:person:6209",
-    "vote_events_total": 2451,
-    "present": 2016,
+    "vote_events_total": 2453,
+    "present": 2018,
     "absent": 435,
     "name": "David Kasal",
     "given_names": [
@@ -549,15 +549,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8225214198,
+    "present_share": 0.8226661231,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6209.jpg"
     }
   },
   {
     "person_id": "psp:person:6527",
-    "vote_events_total": 2451,
-    "present": 2076,
+    "vote_events_total": 2453,
+    "present": 2078,
     "absent": 375,
     "name": "David Pražák",
     "given_names": [
@@ -586,15 +586,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.847001224,
+    "present_share": 0.8471259682,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6527.jpg"
     }
   },
   {
     "person_id": "psp:person:6484",
-    "vote_events_total": 2451,
-    "present": 2370,
+    "vote_events_total": 2453,
+    "present": 2372,
     "absent": 81,
     "name": "David Štolpa",
     "given_names": [
@@ -623,15 +623,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9669522644,
+    "present_share": 0.9669792091,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6484.jpg"
     }
   },
   {
     "person_id": "psp:person:7000",
-    "vote_events_total": 2451,
-    "present": 2176,
+    "vote_events_total": 2453,
+    "present": 2178,
     "absent": 275,
     "name": "Denis Doksanský",
     "given_names": [
@@ -660,15 +660,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8878008976,
+    "present_share": 0.8878923767,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7000.jpg"
     }
   },
   {
     "person_id": "psp:person:6991",
-    "vote_events_total": 2451,
-    "present": 2396,
+    "vote_events_total": 2453,
+    "present": 2398,
     "absent": 55,
     "name": "Drahomír Blažej",
     "given_names": [
@@ -697,15 +697,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9775601795,
+    "present_share": 0.9775784753,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6991.jpg"
     }
   },
   {
     "person_id": "psp:person:6782",
-    "vote_events_total": 2451,
-    "present": 2393,
+    "vote_events_total": 2453,
+    "present": 2395,
     "absent": 58,
     "name": "Drahoslav Ryba",
     "given_names": [
@@ -734,16 +734,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9763361893,
+    "present_share": 0.9763554831,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6782.jpg"
     }
   },
   {
     "person_id": "psp:person:6766",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2086,
-    "absent": 365,
+    "absent": 367,
     "name": "Eliška Olšáková",
     "given_names": [
       "Eliška"
@@ -771,15 +771,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8510811914,
+    "present_share": 0.8503872809,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6766.jpg"
     }
   },
   {
     "person_id": "psp:person:7061",
-    "vote_events_total": 2451,
-    "present": 2252,
+    "vote_events_total": 2453,
+    "present": 2254,
     "absent": 199,
     "name": "Ester Weimerová",
     "given_names": [
@@ -808,16 +808,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9188086495,
+    "present_share": 0.9188748471,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7061.jpg"
     }
   },
   {
     "person_id": "psp:person:6727",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1414,
-    "absent": 1037,
+    "absent": 1039,
     "name": "Eva Decroix",
     "given_names": [
       "Eva"
@@ -845,15 +845,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5769073847,
+    "present_share": 0.5764370159,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6727.jpg"
     }
   },
   {
     "person_id": "psp:person:6457",
-    "vote_events_total": 2451,
-    "present": 2392,
+    "vote_events_total": 2453,
+    "present": 2394,
     "absent": 59,
     "name": "Eva Fialová",
     "given_names": [
@@ -882,16 +882,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9759281926,
+    "present_share": 0.975947819,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6457.jpg"
     }
   },
   {
     "person_id": "psp:person:7046",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2002,
-    "absent": 449,
+    "absent": 451,
     "name": "Eva Šrámková",
     "given_names": [
       "Eva"
@@ -919,16 +919,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8168094655,
+    "present_share": 0.8161434978,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7046.jpg"
     }
   },
   {
     "person_id": "psp:person:7059",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1414,
-    "absent": 1037,
+    "absent": 1039,
     "name": "Filip Turek",
     "given_names": [
       "Filip"
@@ -956,15 +956,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5769073847,
+    "present_share": 0.5764370159,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7059.jpg"
     }
   },
   {
     "person_id": "psp:person:6995",
-    "vote_events_total": 2451,
-    "present": 2433,
+    "vote_events_total": 2453,
+    "present": 2435,
     "absent": 18,
     "name": "František Bureš",
     "given_names": [
@@ -993,15 +993,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9926560588,
+    "present_share": 0.9926620465,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6995.jpg"
     }
   },
   {
     "person_id": "psp:person:6409",
-    "vote_events_total": 2451,
-    "present": 2443,
+    "vote_events_total": 2453,
+    "present": 2445,
     "absent": 8,
     "name": "František Petrtýl",
     "given_names": [
@@ -1030,15 +1030,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9967360261,
+    "present_share": 0.9967386873,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6409.jpg"
     }
   },
   {
     "person_id": "psp:person:7052",
-    "vote_events_total": 2451,
-    "present": 1914,
+    "vote_events_total": 2453,
+    "present": 1916,
     "absent": 537,
     "name": "František Talíř",
     "given_names": [
@@ -1067,15 +1067,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7809057528,
+    "present_share": 0.7810843865,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7052.jpg"
     }
   },
   {
     "person_id": "psp:person:7041",
-    "vote_events_total": 2451,
-    "present": 2244,
+    "vote_events_total": 2453,
+    "present": 2246,
     "absent": 207,
     "name": "Gabriela Sedláčková",
     "given_names": [
@@ -1104,15 +1104,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9155446756,
+    "present_share": 0.9156135344,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7041.jpg"
     }
   },
   {
     "person_id": "psp:person:7049",
-    "vote_events_total": 2451,
-    "present": 1949,
+    "vote_events_total": 2453,
+    "present": 1951,
     "absent": 502,
     "name": "Gabriela Svárovská",
     "given_names": [
@@ -1141,15 +1141,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7951856385,
+    "present_share": 0.7953526294,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7049.jpg"
     }
   },
   {
     "person_id": "psp:person:6986",
-    "vote_events_total": 2451,
-    "present": 1960,
+    "vote_events_total": 2453,
+    "present": 1962,
     "absent": 491,
     "name": "Hana Ančincová",
     "given_names": [
@@ -1178,16 +1178,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7996736026,
+    "present_share": 0.7998369344,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6986.jpg"
     }
   },
   {
     "person_id": "psp:person:6769",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1735,
-    "absent": 716,
+    "absent": 718,
     "name": "Hayato Okamura",
     "given_names": [
       "Hayato"
@@ -1215,16 +1215,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.707874337,
+    "present_share": 0.7072971871,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6769.jpg"
     }
   },
   {
     "person_id": "psp:person:5943",
-    "vote_events_total": 2451,
-    "present": 1996,
-    "absent": 455,
+    "vote_events_total": 2453,
+    "present": 1997,
+    "absent": 456,
     "name": "Helena Langšádlová",
     "given_names": [
       "Helena"
@@ -1252,16 +1252,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8143614851,
+    "present_share": 0.8141051773,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5943.jpg"
     }
   },
   {
     "person_id": "psp:person:6168",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1610,
-    "absent": 841,
+    "absent": 843,
     "name": "Helena Válková",
     "given_names": [
       "Helena"
@@ -1289,15 +1289,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.656874745,
+    "present_share": 0.6563391765,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6168.jpg"
     }
   },
   {
     "person_id": "psp:person:6738",
-    "vote_events_total": 2451,
-    "present": 1733,
+    "vote_events_total": 2453,
+    "present": 1735,
     "absent": 718,
     "name": "Hubert Lang",
     "given_names": [
@@ -1326,15 +1326,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7070583435,
+    "present_share": 0.7072971871,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6738.jpg"
     }
   },
   {
     "person_id": "psp:person:6758",
-    "vote_events_total": 2451,
-    "present": 2339,
+    "vote_events_total": 2453,
+    "present": 2341,
     "absent": 112,
     "name": "Igor Hendrych",
     "given_names": [
@@ -1363,15 +1363,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9543043656,
+    "present_share": 0.9543416225,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6758.jpg"
     }
   },
   {
     "person_id": "psp:person:6996",
-    "vote_events_total": 2451,
-    "present": 1793,
+    "vote_events_total": 2453,
+    "present": 1795,
     "absent": 658,
     "name": "Igor Červený",
     "given_names": [
@@ -1400,15 +1400,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7315381477,
+    "present_share": 0.7317570322,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6996.jpg"
     }
   },
   {
     "person_id": "psp:person:7003",
-    "vote_events_total": 2451,
-    "present": 1804,
+    "vote_events_total": 2453,
+    "present": 1806,
     "absent": 647,
     "name": "Irena Ferčíková Konečná",
     "given_names": [
@@ -1437,16 +1437,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7360261118,
+    "present_share": 0.7362413371,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7003.jpg"
     }
   },
   {
     "person_id": "psp:person:7027",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2156,
-    "absent": 295,
+    "absent": 297,
     "name": "Irena Němcová",
     "given_names": [
       "Irena"
@@ -1474,16 +1474,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8796409629,
+    "present_share": 0.8789237668,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7027.jpg"
     }
   },
   {
     "person_id": "psp:person:5700",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1715,
-    "absent": 736,
+    "absent": 738,
     "name": "Ivan Adamec",
     "given_names": [
       "Ivan"
@@ -1511,16 +1511,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6997144023,
+    "present_share": 0.6991439054,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5700.jpg"
     }
   },
   {
     "person_id": "psp:person:6433",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1732,
-    "absent": 719,
+    "absent": 721,
     "name": "Ivan Bartoš",
     "given_names": [
       "Ivan"
@@ -1548,15 +1548,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7066503468,
+    "present_share": 0.7060741949,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6433.jpg"
     }
   },
   {
     "person_id": "psp:person:6732",
-    "vote_events_total": 2451,
-    "present": 2386,
+    "vote_events_total": 2453,
+    "present": 2388,
     "absent": 65,
     "name": "Ivana Mádlová",
     "given_names": [
@@ -1585,15 +1585,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9734802122,
+    "present_share": 0.9735018345,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6732.jpg"
     }
   },
   {
     "person_id": "psp:person:6459",
-    "vote_events_total": 2451,
-    "present": 2186,
+    "vote_events_total": 2453,
+    "present": 2188,
     "absent": 265,
     "name": "Jakub Janda",
     "given_names": [
@@ -1622,15 +1622,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.891880865,
+    "present_share": 0.8919690175,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6459.jpg"
     }
   },
   {
     "person_id": "psp:person:7015",
-    "vote_events_total": 2451,
-    "present": 2286,
+    "vote_events_total": 2453,
+    "present": 2288,
     "absent": 165,
     "name": "Jakub Krainer",
     "given_names": [
@@ -1659,15 +1659,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9326805386,
+    "present_share": 0.932735426,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7015.jpg"
     }
   },
   {
     "person_id": "psp:person:6178",
-    "vote_events_total": 2451,
-    "present": 1647,
+    "vote_events_total": 2453,
+    "present": 1649,
     "absent": 804,
     "name": "Jan Bartošek",
     "given_names": [
@@ -1696,16 +1696,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6719706242,
+    "present_share": 0.6722380758,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6178.jpg"
     }
   },
   {
     "person_id": "psp:person:5379",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1765,
-    "absent": 686,
+    "absent": 688,
     "name": "Jan Bauer",
     "given_names": [
       "Jan"
@@ -1733,15 +1733,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7201142391,
+    "present_share": 0.7195271097,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5379.jpg"
     }
   },
   {
     "person_id": "psp:person:6722",
-    "vote_events_total": 2451,
-    "present": 2215,
+    "vote_events_total": 2453,
+    "present": 2217,
     "absent": 236,
     "name": "Jan Berki",
     "given_names": [
@@ -1770,15 +1770,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9037127703,
+    "present_share": 0.903791276,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6722.jpg"
     }
   },
   {
     "person_id": "psp:person:5899",
-    "vote_events_total": 2451,
-    "present": 2024,
+    "vote_events_total": 2453,
+    "present": 2026,
     "absent": 427,
     "name": "Jan Bureš",
     "given_names": [
@@ -1807,15 +1807,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8257853937,
+    "present_share": 0.8259274358,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5899.jpg"
     }
   },
   {
     "person_id": "psp:person:6455",
-    "vote_events_total": 2451,
-    "present": 1950,
+    "vote_events_total": 2453,
+    "present": 1952,
     "absent": 501,
     "name": "Jan Hrnčíř",
     "given_names": [
@@ -1844,15 +1844,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7955936353,
+    "present_share": 0.7957602935,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6455.jpg"
     }
   },
   {
     "person_id": "psp:person:6687",
-    "vote_events_total": 2451,
-    "present": 2161,
+    "vote_events_total": 2453,
+    "present": 2163,
     "absent": 290,
     "name": "Jan Jakob",
     "given_names": [
@@ -1881,16 +1881,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8816809466,
+    "present_share": 0.8817774154,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6687.jpg"
     }
   },
   {
     "person_id": "psp:person:6537",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1748,
-    "absent": 703,
+    "absent": 705,
     "name": "Jan Lipavský",
     "given_names": [
       "Jan"
@@ -1918,15 +1918,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7131782946,
+    "present_share": 0.7125968202,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6537.jpg"
     }
   },
   {
     "person_id": "psp:person:7030",
-    "vote_events_total": 2451,
-    "present": 1553,
+    "vote_events_total": 2453,
+    "present": 1555,
     "absent": 898,
     "name": "Jan Papajanovský",
     "given_names": [
@@ -1955,16 +1955,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.633618931,
+    "present_share": 0.6339176519,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7030.jpg"
     }
   },
   {
     "person_id": "psp:person:6500",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2042,
-    "absent": 409,
+    "absent": 411,
     "name": "Jan Richter",
     "given_names": [
       "Jan"
@@ -1992,16 +1992,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.833129335,
+    "present_share": 0.8324500611,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6500.jpg"
     }
   },
   {
     "person_id": "psp:person:6418",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1943,
-    "absent": 508,
+    "absent": 510,
     "name": "Jan Skopeček",
     "given_names": [
       "Jan"
@@ -2029,15 +2029,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7927376581,
+    "present_share": 0.7920913168,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6418.jpg"
     }
   },
   {
     "person_id": "psp:person:7050",
-    "vote_events_total": 2451,
-    "present": 1470,
+    "vote_events_total": 2453,
+    "present": 1472,
     "absent": 981,
     "name": "Jan Sviták",
     "given_names": [
@@ -2066,16 +2066,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.599755202,
+    "present_share": 0.6000815328,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7050.jpg"
     }
   },
   {
     "person_id": "psp:person:6783",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1996,
-    "absent": 455,
+    "absent": 457,
     "name": "Jan Síla",
     "given_names": [
       "Jan"
@@ -2103,15 +2103,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8143614851,
+    "present_share": 0.8136975132,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6783.jpg"
     }
   },
   {
     "person_id": "psp:person:6719",
-    "vote_events_total": 2451,
-    "present": 1595,
+    "vote_events_total": 2453,
+    "present": 1597,
     "absent": 856,
     "name": "Jana Bačíková",
     "given_names": [
@@ -2140,16 +2140,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.650754794,
+    "present_share": 0.6510395434,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6719.jpg"
     }
   },
   {
     "person_id": "psp:person:6723",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1897,
-    "absent": 554,
+    "absent": 556,
     "name": "Jana Berkovcová",
     "given_names": [
       "Jana"
@@ -2177,15 +2177,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7739698082,
+    "present_share": 0.7733387689,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6723.jpg"
     }
   },
   {
     "person_id": "psp:person:7068",
-    "vote_events_total": 2449,
-    "present": 2391,
+    "vote_events_total": 2451,
+    "present": 2393,
     "absent": 58,
     "name": "Jana Demjanová",
     "given_names": [
@@ -2214,15 +2214,15 @@
         "since": "2025-11-03"
       }
     ],
-    "present_share": 0.976316864,
+    "present_share": 0.9763361893,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7068.jpg"
     }
   },
   {
     "person_id": "psp:person:7004",
-    "vote_events_total": 2451,
-    "present": 1711,
+    "vote_events_total": 2453,
+    "present": 1713,
     "absent": 740,
     "name": "Jana Filipovičová",
     "given_names": [
@@ -2251,15 +2251,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6980824153,
+    "present_share": 0.6983285773,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7004.jpg"
     }
   },
   {
     "person_id": "psp:person:6753",
-    "vote_events_total": 2451,
-    "present": 2427,
+    "vote_events_total": 2453,
+    "present": 2429,
     "absent": 24,
     "name": "Jana Hanzlíková",
     "given_names": [
@@ -2288,16 +2288,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9902080783,
+    "present_share": 0.990216062,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6753.jpg"
     }
   },
   {
     "person_id": "psp:person:6466",
-    "vote_events_total": 2451,
-    "present": 2030,
-    "absent": 421,
+    "vote_events_total": 2453,
+    "present": 2031,
+    "absent": 422,
     "name": "Jana Krutáková",
     "given_names": [
       "Jana"
@@ -2325,15 +2325,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8282333741,
+    "present_share": 0.8279657562,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6466.jpg"
     }
   },
   {
     "person_id": "psp:person:7025",
-    "vote_events_total": 2451,
-    "present": 2300,
+    "vote_events_total": 2453,
+    "present": 2302,
     "absent": 151,
     "name": "Jana Murová",
     "given_names": [
@@ -2362,15 +2362,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9383924929,
+    "present_share": 0.9384427232,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7025.jpg"
     }
   },
   {
     "person_id": "psp:person:6225",
-    "vote_events_total": 2451,
-    "present": 1822,
+    "vote_events_total": 2453,
+    "present": 1824,
     "absent": 629,
     "name": "Jana Pastuchová",
     "given_names": [
@@ -2399,15 +2399,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.743370053,
+    "present_share": 0.7435792907,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6225.jpg"
     }
   },
   {
     "person_id": "psp:person:7032",
-    "vote_events_total": 2451,
-    "present": 1948,
+    "vote_events_total": 2453,
+    "present": 1950,
     "absent": 503,
     "name": "Jana Patková",
     "given_names": [
@@ -2436,16 +2436,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7947776418,
+    "present_share": 0.7949449653,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7032.jpg"
     }
   },
   {
     "person_id": "psp:person:5903",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1593,
-    "absent": 858,
+    "absent": 860,
     "name": "Jana Černochová",
     "given_names": [
       "Jana"
@@ -2473,16 +2473,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6499388005,
+    "present_share": 0.6494088871,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5903.jpg"
     }
   },
   {
     "person_id": "psp:person:6190",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1711,
-    "absent": 740,
+    "absent": 742,
     "name": "Jaroslav Faltýnek",
     "given_names": [
       "Jaroslav"
@@ -2510,15 +2510,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6980824153,
+    "present_share": 0.6975132491,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6190.jpg"
     }
   },
   {
     "person_id": "psp:person:5911",
-    "vote_events_total": 2451,
-    "present": 1767,
+    "vote_events_total": 2453,
+    "present": 1769,
     "absent": 684,
     "name": "Jaroslav Foldyna",
     "given_names": [
@@ -2547,16 +2547,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7209302326,
+    "present_share": 0.721157766,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5911.jpg"
     }
   },
   {
     "person_id": "psp:person:7037",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1638,
-    "absent": 813,
+    "absent": 815,
     "name": "Jindřich Rajchl",
     "given_names": [
       "Jindřich"
@@ -2584,15 +2584,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6682986536,
+    "present_share": 0.6677537709,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7037.jpg"
     }
   },
   {
     "person_id": "psp:person:7056",
-    "vote_events_total": 2451,
-    "present": 2009,
+    "vote_events_total": 2453,
+    "present": 2011,
     "absent": 442,
     "name": "Jitka Volfová",
     "given_names": [
@@ -2621,15 +2621,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8196654427,
+    "present_share": 0.8198124745,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7056.jpg"
     }
   },
   {
     "person_id": "psp:person:7009",
-    "vote_events_total": 2451,
-    "present": 2386,
+    "vote_events_total": 2453,
+    "present": 2388,
     "absent": 65,
     "name": "Jiřina Klčová",
     "given_names": [
@@ -2658,15 +2658,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9734802122,
+    "present_share": 0.9735018345,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7009.jpg"
     }
   },
   {
     "person_id": "psp:person:6987",
-    "vote_events_total": 2451,
-    "present": 2096,
+    "vote_events_total": 2453,
+    "present": 2098,
     "absent": 355,
     "name": "Jiří Barták",
     "given_names": [
@@ -2695,15 +2695,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8551611587,
+    "present_share": 0.8552792499,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6987.jpg"
     }
   },
   {
     "person_id": "psp:person:6993",
-    "vote_events_total": 2451,
-    "present": 2315,
+    "vote_events_total": 2453,
+    "present": 2317,
     "absent": 136,
     "name": "Jiří Bouška",
     "given_names": [
@@ -2732,16 +2732,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9445124439,
+    "present_share": 0.9445576845,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6993.jpg"
     }
   },
   {
     "person_id": "psp:person:6755",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1618,
-    "absent": 833,
+    "absent": 835,
     "name": "Jiří Havránek",
     "given_names": [
       "Jiří"
@@ -2769,16 +2769,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6601387189,
+    "present_share": 0.6596004892,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6755.jpg"
     }
   },
   {
     "person_id": "psp:person:6803",
-    "vote_events_total": 2451,
-    "present": 1960,
-    "absent": 491,
+    "vote_events_total": 2453,
+    "present": 1961,
+    "absent": 492,
     "name": "Jiří Horák",
     "given_names": [
       "Jiří"
@@ -2806,15 +2806,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7996736026,
+    "present_share": 0.7994292703,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6803.jpg"
     }
   },
   {
     "person_id": "psp:person:7108",
-    "vote_events_total": 956,
-    "present": 936,
+    "vote_events_total": 958,
+    "present": 938,
     "absent": 20,
     "name": "Jiří Kotlík",
     "given_names": [
@@ -2843,15 +2843,15 @@
         "since": "2026-06-18"
       }
     ],
-    "present_share": 0.9790794979,
+    "present_share": 0.9791231733,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7108.jpg"
     }
   },
   {
     "person_id": "psp:person:6534",
-    "vote_events_total": 2451,
-    "present": 2115,
+    "vote_events_total": 2453,
+    "present": 2117,
     "absent": 336,
     "name": "Jiří Mašek",
     "given_names": [
@@ -2880,15 +2880,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8629130967,
+    "present_share": 0.8630248675,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6534.jpg"
     }
   },
   {
     "person_id": "psp:person:7067",
-    "vote_events_total": 2449,
-    "present": 2405,
+    "vote_events_total": 2451,
+    "present": 2407,
     "absent": 44,
     "name": "Jiří Penc",
     "given_names": [
@@ -2917,16 +2917,16 @@
         "since": "2025-11-03"
       }
     ],
-    "present_share": 0.9820334831,
+    "present_share": 0.9820481436,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7067.jpg"
     }
   },
   {
     "person_id": "psp:person:5273",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1837,
-    "absent": 614,
+    "absent": 616,
     "name": "Jiří Pospíšil",
     "given_names": [
       "Jiří"
@@ -2954,15 +2954,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7494900041,
+    "present_share": 0.7488789238,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5273.jpg"
     }
   },
   {
     "person_id": "psp:person:6515",
-    "vote_events_total": 2451,
-    "present": 2171,
+    "vote_events_total": 2453,
+    "present": 2173,
     "absent": 280,
     "name": "Jiří Strýček",
     "given_names": [
@@ -2991,15 +2991,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8857609139,
+    "present_share": 0.8858540563,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6515.jpg"
     }
   },
   {
     "person_id": "psp:person:7033",
-    "vote_events_total": 2451,
-    "present": 2288,
+    "vote_events_total": 2453,
+    "present": 2290,
     "absent": 163,
     "name": "Jiří Svoboda",
     "given_names": [
@@ -3028,16 +3028,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.933496532,
+    "present_share": 0.9335507542,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7033.jpg"
     }
   },
   {
     "person_id": "psp:person:7055",
-    "vote_events_total": 2451,
-    "present": 1645,
-    "absent": 806,
+    "vote_events_total": 2453,
+    "present": 1646,
+    "absent": 807,
     "name": "Jiří Vojáček",
     "given_names": [
       "Jiří"
@@ -3065,16 +3065,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6711546308,
+    "present_share": 0.6710150836,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7055.jpg"
     }
   },
   {
     "person_id": "psp:person:6750",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1765,
-    "absent": 686,
+    "absent": 688,
     "name": "Josef Flek",
     "given_names": [
       "Josef"
@@ -3102,7 +3102,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7201142391,
+    "present_share": 0.7195271097,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6750.jpg"
     }
@@ -3149,8 +3149,8 @@
   },
   {
     "person_id": "psp:person:6664",
-    "vote_events_total": 1816,
-    "present": 1505,
+    "vote_events_total": 1818,
+    "present": 1507,
     "absent": 311,
     "name": "Josef Nerušil",
     "given_names": [
@@ -3179,16 +3179,16 @@
         "since": "2026-03-11"
       }
     ],
-    "present_share": 0.8287444934,
+    "present_share": 0.8289328933,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6664.jpg"
     }
   },
   {
     "person_id": "psp:person:6946",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1917,
-    "absent": 534,
+    "absent": 536,
     "name": "Josef Váňa",
     "given_names": [
       "Josef"
@@ -3216,16 +3216,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.782129743,
+    "present_share": 0.7814920506,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6946.jpg"
     }
   },
   {
     "person_id": "psp:person:7044",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2069,
-    "absent": 382,
+    "absent": 384,
     "name": "Julie Smejkalová",
     "given_names": [
       "Julie"
@@ -3253,15 +3253,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8441452468,
+    "present_share": 0.8434569914,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7044.jpg"
     }
   },
   {
     "person_id": "psp:person:6447",
-    "vote_events_total": 2451,
-    "present": 2348,
+    "vote_events_total": 2453,
+    "present": 2350,
     "absent": 103,
     "name": "Kamal Farhan",
     "given_names": [
@@ -3290,7 +3290,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9579763362,
+    "present_share": 0.9580105993,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6447.jpg"
     }
@@ -3337,9 +3337,9 @@
   },
   {
     "person_id": "psp:person:7002",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1621,
-    "absent": 830,
+    "absent": 832,
     "name": "Karel Dvořák",
     "given_names": [
       "Karel"
@@ -3367,16 +3367,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6613627091,
+    "present_share": 0.6608234815,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7002.jpg"
     }
   },
   {
     "person_id": "psp:person:6751",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2298,
-    "absent": 153,
+    "absent": 155,
     "name": "Karel Haas",
     "given_names": [
       "Karel"
@@ -3404,16 +3404,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9375764994,
+    "present_share": 0.9368120669,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6751.jpg"
     }
   },
   {
     "person_id": "psp:person:6621",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1045,
-    "absent": 1406,
+    "absent": 1408,
     "name": "Karel Havlíček",
     "given_names": [
       "Karel"
@@ -3441,16 +3441,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.4263565891,
+    "present_share": 0.4260089686,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6621.jpg"
     }
   },
   {
     "person_id": "psp:person:6240",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1702,
-    "absent": 749,
+    "absent": 751,
     "name": "Karel Tureček",
     "given_names": [
       "Karel"
@@ -3478,15 +3478,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6944104447,
+    "present_share": 0.6938442723,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6240.jpg"
     }
   },
   {
     "person_id": "psp:person:7005",
-    "vote_events_total": 2451,
-    "present": 2353,
+    "vote_events_total": 2453,
+    "present": 2355,
     "absent": 98,
     "name": "Karin Gajdová",
     "given_names": [
@@ -3515,16 +3515,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9600163199,
+    "present_share": 0.9600489197,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7005.jpg"
     }
   },
   {
     "person_id": "psp:person:6999",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1698,
-    "absent": 753,
+    "absent": 755,
     "name": "Katerina Demetrashvili",
     "given_names": [
       "Katerina"
@@ -3552,16 +3552,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6927784578,
+    "present_share": 0.692213616,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6999.jpg"
     }
   },
   {
     "person_id": "psp:person:7048",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1842,
-    "absent": 609,
+    "absent": 611,
     "name": "Kateřina Stojanová",
     "given_names": [
       "Kateřina"
@@ -3589,15 +3589,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7515299878,
+    "present_share": 0.7509172442,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7048.jpg"
     }
   },
   {
     "person_id": "psp:person:6172",
-    "vote_events_total": 2451,
-    "present": 1713,
+    "vote_events_total": 2453,
+    "present": 1715,
     "absent": 738,
     "name": "Ladislav Okleštěk",
     "given_names": [
@@ -3626,15 +3626,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6988984088,
+    "present_share": 0.6991439054,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6172.jpg"
     }
   },
   {
     "person_id": "psp:person:6431",
-    "vote_events_total": 2451,
-    "present": 1789,
+    "vote_events_total": 2453,
+    "present": 1791,
     "absent": 662,
     "name": "Lenka Dražilová",
     "given_names": [
@@ -3663,15 +3663,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7299061608,
+    "present_share": 0.7301263759,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6431.jpg"
     }
   },
   {
     "person_id": "psp:person:7023",
-    "vote_events_total": 2451,
-    "present": 1989,
+    "vote_events_total": 2453,
+    "present": 1991,
     "absent": 462,
     "name": "Lenka Martínková Španihelová",
     "given_names": [
@@ -3700,16 +3700,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.811505508,
+    "present_share": 0.8116591928,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7023.jpg"
     }
   },
   {
     "person_id": "psp:person:7106",
-    "vote_events_total": 1209,
+    "vote_events_total": 1211,
     "present": 1089,
-    "absent": 120,
+    "absent": 122,
     "name": "Libor Forman",
     "given_names": [
       "Libor"
@@ -3737,15 +3737,15 @@
         "since": "2026-05-29"
       }
     ],
-    "present_share": 0.9007444169,
+    "present_share": 0.8992568126,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7106.jpg"
     }
   },
   {
     "person_id": "psp:person:6693",
-    "vote_events_total": 2451,
-    "present": 1417,
+    "vote_events_total": 2453,
+    "present": 1419,
     "absent": 1034,
     "name": "Libor Hoppe",
     "given_names": [
@@ -3774,15 +3774,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5781313749,
+    "present_share": 0.5784753363,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6693.jpg"
     }
   },
   {
     "person_id": "psp:person:6787",
-    "vote_events_total": 2451,
-    "present": 2107,
+    "vote_events_total": 2453,
+    "present": 2109,
     "absent": 344,
     "name": "Libor Turek",
     "given_names": [
@@ -3811,16 +3811,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8596491228,
+    "present_share": 0.8597635548,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6787.jpg"
     }
   },
   {
     "person_id": "psp:person:7058",
-    "vote_events_total": 2451,
-    "present": 2132,
-    "absent": 319,
+    "vote_events_total": 2453,
+    "present": 2133,
+    "absent": 320,
     "name": "Libor Vondráček",
     "given_names": [
       "Libor"
@@ -3848,16 +3848,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8698490412,
+    "present_share": 0.8695474929,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7058.jpg"
     }
   },
   {
     "person_id": "psp:person:6544",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1686,
-    "absent": 765,
+    "absent": 767,
     "name": "Lubomír Metnar",
     "given_names": [
       "Lubomír"
@@ -3885,15 +3885,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6878824969,
+    "present_share": 0.687321647,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6544.jpg"
     }
   },
   {
     "person_id": "psp:person:6730",
-    "vote_events_total": 2451,
-    "present": 2266,
+    "vote_events_total": 2453,
+    "present": 2268,
     "absent": 185,
     "name": "Lubomír Wenzl",
     "given_names": [
@@ -3922,16 +3922,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9245206038,
+    "present_share": 0.9245821443,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6730.jpg"
     }
   },
   {
     "person_id": "psp:person:6989",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1968,
-    "absent": 483,
+    "absent": 485,
     "name": "Lucie Bartošová",
     "given_names": [
       "Lucie"
@@ -3959,15 +3959,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8029375765,
+    "present_share": 0.8022829189,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6989.jpg"
     }
   },
   {
     "person_id": "psp:person:7042",
-    "vote_events_total": 2451,
-    "present": 1584,
+    "vote_events_total": 2453,
+    "present": 1586,
     "absent": 867,
     "name": "Lucie Sedmihradská",
     "given_names": [
@@ -3996,15 +3996,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6462668299,
+    "present_share": 0.6465552385,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7042.jpg"
     }
   },
   {
     "person_id": "psp:person:6479",
-    "vote_events_total": 2451,
-    "present": 2435,
+    "vote_events_total": 2453,
+    "present": 2437,
     "absent": 16,
     "name": "Lucie Šafránková",
     "given_names": [
@@ -4033,16 +4033,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9934720522,
+    "present_share": 0.9934773746,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6479.jpg"
     }
   },
   {
     "person_id": "psp:person:6789",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1963,
-    "absent": 488,
+    "absent": 490,
     "name": "Lukáš Vlček",
     "given_names": [
       "Lukáš"
@@ -4070,16 +4070,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8008975928,
+    "present_share": 0.8002445985,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6789.jpg"
     }
   },
   {
     "person_id": "psp:person:4",
-    "vote_events_total": 2451,
-    "present": 1976,
-    "absent": 475,
+    "vote_events_total": 2453,
+    "present": 1977,
+    "absent": 476,
     "name": "Marek Benda",
     "given_names": [
       "Marek"
@@ -4107,15 +4107,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8062015504,
+    "present_share": 0.8059518956,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i4.jpg"
     }
   },
   {
     "person_id": "psp:person:6533",
-    "vote_events_total": 2451,
-    "present": 2420,
+    "vote_events_total": 2453,
+    "present": 2422,
     "absent": 31,
     "name": "Marek Novák",
     "given_names": [
@@ -4144,15 +4144,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9873521012,
+    "present_share": 0.9873624134,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6533.jpg"
     }
   },
   {
     "person_id": "psp:person:6513",
-    "vote_events_total": 2451,
-    "present": 2079,
+    "vote_events_total": 2453,
+    "present": 2081,
     "absent": 372,
     "name": "Marek Výborný",
     "given_names": [
@@ -4181,16 +4181,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8482252142,
+    "present_share": 0.8483489605,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6513.jpg"
     }
   },
   {
     "person_id": "psp:person:6154",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1815,
-    "absent": 636,
+    "absent": 638,
     "name": "Marek Ženíšek",
     "given_names": [
       "Marek"
@@ -4218,16 +4218,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7405140759,
+    "present_share": 0.7399103139,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6154.jpg"
     }
   },
   {
     "person_id": "psp:person:6205",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1641,
-    "absent": 810,
+    "absent": 812,
     "name": "Marian Jurečka",
     "given_names": [
       "Marian"
@@ -4255,15 +4255,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6695226438,
+    "present_share": 0.6689767631,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6205.jpg"
     }
   },
   {
     "person_id": "psp:person:7018",
-    "vote_events_total": 2451,
-    "present": 2189,
+    "vote_events_total": 2453,
+    "present": 2191,
     "absent": 262,
     "name": "Marie Kršková",
     "given_names": [
@@ -4292,16 +4292,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8931048552,
+    "present_share": 0.8931920098,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7018.jpg"
     }
   },
   {
     "person_id": "psp:person:6745",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2183,
-    "absent": 268,
+    "absent": 270,
     "name": "Marie Pošarová",
     "given_names": [
       "Marie"
@@ -4329,7 +4329,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8906568747,
+    "present_share": 0.8899306971,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6745.jpg"
     }
@@ -4376,9 +4376,9 @@
   },
   {
     "person_id": "psp:person:6435",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2116,
-    "absent": 335,
+    "absent": 337,
     "name": "Martin Baxa",
     "given_names": [
       "Martin"
@@ -4406,15 +4406,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8633210934,
+    "present_share": 0.8626172034,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6435.jpg"
     }
   },
   {
     "person_id": "psp:person:6211",
-    "vote_events_total": 2451,
-    "present": 1708,
+    "vote_events_total": 2453,
+    "present": 1710,
     "absent": 743,
     "name": "Martin Kolovratník",
     "given_names": [
@@ -4443,16 +4443,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6968584251,
+    "present_share": 0.697105585,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6211.jpg"
     }
   },
   {
     "person_id": "psp:person:7021",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2258,
-    "absent": 193,
+    "absent": 195,
     "name": "Martin Kupec",
     "given_names": [
       "Martin"
@@ -4480,16 +4480,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9212566299,
+    "present_share": 0.9205055035,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7021.jpg"
     }
   },
   {
     "person_id": "psp:person:6538",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1344,
-    "absent": 1107,
+    "absent": 1109,
     "name": "Martin Kupka",
     "given_names": [
       "Martin"
@@ -4517,15 +4517,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5483476132,
+    "present_share": 0.54790053,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6538.jpg"
     }
   },
   {
     "person_id": "psp:person:7062",
-    "vote_events_total": 2451,
-    "present": 2344,
+    "vote_events_total": 2453,
+    "present": 2346,
     "absent": 107,
     "name": "Martin Záhoř",
     "given_names": [
@@ -4554,15 +4554,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9563443492,
+    "present_share": 0.9563799429,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7062.jpg"
     }
   },
   {
     "person_id": "psp:person:7065",
-    "vote_events_total": 2432,
-    "present": 1891,
+    "vote_events_total": 2434,
+    "present": 1893,
     "absent": 541,
     "name": "Martin Šmída",
     "given_names": [
@@ -4591,16 +4591,16 @@
         "since": "2025-11-05"
       }
     ],
-    "present_share": 0.7775493421,
+    "present_share": 0.7777321282,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7065.jpg"
     }
   },
   {
     "person_id": "psp:person:7006",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1723,
-    "absent": 728,
+    "absent": 730,
     "name": "Matěj Gregor",
     "given_names": [
       "Matěj"
@@ -4628,16 +4628,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7029783762,
+    "present_share": 0.7024052181,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7006.jpg"
     }
   },
   {
     "person_id": "psp:person:7011",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1686,
-    "absent": 765,
+    "absent": 767,
     "name": "Matěj Hlavatý",
     "given_names": [
       "Matěj"
@@ -4665,16 +4665,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6878824969,
+    "present_share": 0.687321647,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7011.jpg"
     }
   },
   {
     "person_id": "psp:person:6754",
-    "vote_events_total": 2451,
-    "present": 1421,
-    "absent": 1030,
+    "vote_events_total": 2453,
+    "present": 1422,
+    "absent": 1031,
     "name": "Matěj Ondřej Havel",
     "given_names": [
       "Matěj Ondřej"
@@ -4702,15 +4702,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5797633619,
+    "present_share": 0.5796983286,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6754.jpg"
     }
   },
   {
     "person_id": "psp:person:7024",
-    "vote_events_total": 2451,
-    "present": 1935,
+    "vote_events_total": 2453,
+    "present": 1937,
     "absent": 516,
     "name": "Michaela Moricová",
     "given_names": [
@@ -4739,16 +4739,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7894736842,
+    "present_share": 0.7896453322,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7024.jpg"
     }
   },
   {
     "person_id": "psp:person:6767",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1563,
-    "absent": 888,
+    "absent": 890,
     "name": "Michaela Řehková",
     "given_names": [
       "Michaela"
@@ -4776,16 +4776,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6376988984,
+    "present_share": 0.6371789645,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6767.jpg"
     }
   },
   {
     "person_id": "psp:person:6763",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2035,
-    "absent": 416,
+    "absent": 418,
     "name": "Michaela Šebelová",
     "given_names": [
       "Michaela"
@@ -4813,15 +4813,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8302733578,
+    "present_share": 0.8295964126,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6763.jpg"
     }
   },
   {
     "person_id": "psp:person:6216",
-    "vote_events_total": 2451,
-    "present": 1687,
+    "vote_events_total": 2453,
+    "present": 1689,
     "absent": 764,
     "name": "Michal Kučera",
     "given_names": [
@@ -4850,15 +4850,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6882904937,
+    "present_share": 0.6885446392,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6216.jpg"
     }
   },
   {
     "person_id": "psp:person:6523",
-    "vote_events_total": 2451,
-    "present": 2179,
+    "vote_events_total": 2453,
+    "present": 2181,
     "absent": 272,
     "name": "Michal Ratiborský",
     "given_names": [
@@ -4887,15 +4887,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8890248878,
+    "present_share": 0.8891153689,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6523.jpg"
     }
   },
   {
     "person_id": "psp:person:6796",
-    "vote_events_total": 2451,
-    "present": 2092,
+    "vote_events_total": 2453,
+    "present": 2094,
     "absent": 359,
     "name": "Michal Zuna",
     "given_names": [
@@ -4924,15 +4924,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8535291718,
+    "present_share": 0.8536485936,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6796.jpg"
     }
   },
   {
     "person_id": "psp:person:6185",
-    "vote_events_total": 2451,
-    "present": 2223,
+    "vote_events_total": 2453,
+    "present": 2225,
     "absent": 228,
     "name": "Milan Brázdil",
     "given_names": [
@@ -4961,15 +4961,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9069767442,
+    "present_share": 0.9070525887,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6185.jpg"
     }
   },
   {
     "person_id": "psp:person:6201",
-    "vote_events_total": 2451,
-    "present": 2386,
+    "vote_events_total": 2453,
+    "present": 2388,
     "absent": 65,
     "name": "Miloslav Janulík",
     "given_names": [
@@ -4998,15 +4998,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9734802122,
+    "present_share": 0.9735018345,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6201.jpg"
     }
   },
   {
     "person_id": "psp:person:7016",
-    "vote_events_total": 2451,
-    "present": 2098,
+    "vote_events_total": 2453,
+    "present": 2100,
     "absent": 353,
     "name": "Miroslav Krejčí",
     "given_names": [
@@ -5035,15 +5035,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8559771522,
+    "present_share": 0.8560945781,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7016.jpg"
     }
   },
   {
     "person_id": "psp:person:6688",
-    "vote_events_total": 2451,
-    "present": 2438,
+    "vote_events_total": 2453,
+    "present": 2440,
     "absent": 13,
     "name": "Miroslav Samaš",
     "given_names": [
@@ -5072,15 +5072,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9946960424,
+    "present_share": 0.9947003669,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6688.jpg"
     }
   },
   {
     "person_id": "psp:person:6064",
-    "vote_events_total": 2451,
-    "present": 1861,
+    "vote_events_total": 2453,
+    "present": 1863,
     "absent": 590,
     "name": "Miroslav Ševčík",
     "given_names": [
@@ -5109,15 +5109,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7592819257,
+    "present_share": 0.75947819,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6064.jpg"
     }
   },
   {
     "person_id": "psp:person:7064",
-    "vote_events_total": 2451,
-    "present": 2269,
+    "vote_events_total": 2453,
+    "present": 2271,
     "absent": 182,
     "name": "Miroslav Žbánek",
     "given_names": [
@@ -5146,15 +5146,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.925744594,
+    "present_share": 0.9258051366,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7064.jpg"
     }
   },
   {
     "person_id": "psp:person:6994",
-    "vote_events_total": 2451,
-    "present": 1872,
+    "vote_events_total": 2453,
+    "present": 1874,
     "absent": 579,
     "name": "Monika Brzesková",
     "given_names": [
@@ -5183,15 +5183,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7637698898,
+    "present_share": 0.7639624949,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6994.jpg"
     }
   },
   {
     "person_id": "psp:person:7007",
-    "vote_events_total": 2451,
-    "present": 2252,
+    "vote_events_total": 2453,
+    "present": 2254,
     "absent": 199,
     "name": "Monika Hubíková",
     "given_names": [
@@ -5220,15 +5220,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9188086495,
+    "present_share": 0.9188748471,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7007.jpg"
     }
   },
   {
     "person_id": "psp:person:6475",
-    "vote_events_total": 2451,
-    "present": 2131,
+    "vote_events_total": 2453,
+    "present": 2133,
     "absent": 320,
     "name": "Monika Oborná",
     "given_names": [
@@ -5257,16 +5257,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8694410445,
+    "present_share": 0.8695474929,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6475.jpg"
     }
   },
   {
     "person_id": "psp:person:6473",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2175,
-    "absent": 276,
+    "absent": 278,
     "name": "Olga Richterová",
     "given_names": [
       "Olga"
@@ -5294,15 +5294,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8873929009,
+    "present_share": 0.8866693844,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6473.jpg"
     }
   },
   {
     "person_id": "psp:person:6623",
-    "vote_events_total": 2451,
-    "present": 2417,
+    "vote_events_total": 2453,
+    "present": 2419,
     "absent": 34,
     "name": "Ondřej Babka",
     "given_names": [
@@ -5331,15 +5331,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.986128111,
+    "present_share": 0.9861394211,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6623.jpg"
     }
   },
   {
     "person_id": "psp:person:7010",
-    "vote_events_total": 2451,
-    "present": 1512,
+    "vote_events_total": 2453,
+    "present": 1514,
     "absent": 939,
     "name": "Oto Klempíř",
     "given_names": [
@@ -5368,15 +5368,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6168910649,
+    "present_share": 0.6172034244,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7010.jpg"
     }
   },
   {
     "person_id": "psp:person:7060",
-    "vote_events_total": 2451,
-    "present": 2434,
+    "vote_events_total": 2453,
+    "present": 2436,
     "absent": 17,
     "name": "Otto Vopěnka",
     "given_names": [
@@ -5405,16 +5405,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9930640555,
+    "present_share": 0.9930697106,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7060.jpg"
     }
   },
   {
     "person_id": "psp:person:6487",
-    "vote_events_total": 2451,
-    "present": 2143,
-    "absent": 308,
+    "vote_events_total": 2453,
+    "present": 2144,
+    "absent": 309,
     "name": "Patrik Nacher",
     "given_names": [
       "Patrik"
@@ -5442,15 +5442,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8743370053,
+    "present_share": 0.8740317978,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6487.jpg"
     }
   },
   {
     "person_id": "psp:person:7031",
-    "vote_events_total": 2451,
-    "present": 2190,
+    "vote_events_total": 2453,
+    "present": 2192,
     "absent": 261,
     "name": "Patrik Pařil",
     "given_names": [
@@ -5479,15 +5479,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8935128519,
+    "present_share": 0.8935996739,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7031.jpg"
     }
   },
   {
     "person_id": "psp:person:6988",
-    "vote_events_total": 2451,
-    "present": 2308,
+    "vote_events_total": 2453,
+    "present": 2310,
     "absent": 143,
     "name": "Pavel Bartoň",
     "given_names": [
@@ -5516,16 +5516,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9416564667,
+    "present_share": 0.9417040359,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6988.jpg"
     }
   },
   {
     "person_id": "psp:person:6603",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1275,
-    "absent": 1176,
+    "absent": 1178,
     "name": "Pavel Karpíšek",
     "given_names": [
       "Pavel"
@@ -5553,15 +5553,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5201958384,
+    "present_share": 0.5197717081,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6603.jpg"
     }
   },
   {
     "person_id": "psp:person:7029",
-    "vote_events_total": 2451,
-    "present": 2099,
+    "vote_events_total": 2453,
+    "present": 2101,
     "absent": 352,
     "name": "Pavel Outrata",
     "given_names": [
@@ -5590,15 +5590,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8563851489,
+    "present_share": 0.8565022422,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7029.jpg"
     }
   },
   {
     "person_id": "psp:person:6520",
-    "vote_events_total": 2451,
-    "present": 2439,
+    "vote_events_total": 2453,
+    "present": 2441,
     "absent": 12,
     "name": "Pavel Růžička",
     "given_names": [
@@ -5627,16 +5627,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9951040392,
+    "present_share": 0.995108031,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6520.jpg"
     }
   },
   {
     "person_id": "psp:person:5226",
-    "vote_events_total": 2451,
-    "present": 1429,
-    "absent": 1022,
+    "vote_events_total": 2453,
+    "present": 1430,
+    "absent": 1023,
     "name": "Pavel Žáček",
     "given_names": [
       "Pavel"
@@ -5664,16 +5664,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5830273358,
+    "present_share": 0.5829596413,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5226.jpg"
     }
   },
   {
     "person_id": "psp:person:6762",
-    "vote_events_total": 2451,
-    "present": 1815,
-    "absent": 636,
+    "vote_events_total": 2453,
+    "present": 1816,
+    "absent": 637,
     "name": "Pavla Pivoňka Vaňková",
     "given_names": [
       "Pavla"
@@ -5701,16 +5701,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7405140759,
+    "present_share": 0.740317978,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6762.jpg"
     }
   },
   {
     "person_id": "psp:person:346",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1949,
-    "absent": 502,
+    "absent": 504,
     "name": "Petr Bendl",
     "given_names": [
       "Petr"
@@ -5738,16 +5738,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7951856385,
+    "present_share": 0.7945373013,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i346.jpg"
     }
   },
   {
     "person_id": "psp:person:6074",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1481,
-    "absent": 970,
+    "absent": 972,
     "name": "Petr Fiala",
     "given_names": [
       "Petr"
@@ -5775,15 +5775,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6042431661,
+    "present_share": 0.6037505096,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6074.jpg"
     }
   },
   {
     "person_id": "psp:person:6881",
-    "vote_events_total": 2451,
-    "present": 1803,
+    "vote_events_total": 2453,
+    "present": 1805,
     "absent": 648,
     "name": "Petr Hladík",
     "given_names": [
@@ -5812,15 +5812,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7356181151,
+    "present_share": 0.7358336731,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6881.jpg"
     }
   },
   {
     "person_id": "psp:person:7014",
-    "vote_events_total": 2451,
-    "present": 2351,
+    "vote_events_total": 2453,
+    "present": 2353,
     "absent": 100,
     "name": "Petr Kowanda",
     "given_names": [
@@ -5849,7 +5849,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9592003264,
+    "present_share": 0.9592335915,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7014.jpg"
     }
@@ -5896,9 +5896,9 @@
   },
   {
     "person_id": "psp:person:7022",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1258,
-    "absent": 1193,
+    "absent": 1195,
     "name": "Petr Macinka",
     "given_names": [
       "Petr"
@@ -5926,15 +5926,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5132598939,
+    "present_share": 0.5128414187,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7022.jpg"
     }
   },
   {
     "person_id": "psp:person:6518",
-    "vote_events_total": 2451,
-    "present": 2259,
+    "vote_events_total": 2453,
+    "present": 2261,
     "absent": 192,
     "name": "Petr Sadovský",
     "given_names": [
@@ -5963,16 +5963,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9216646267,
+    "present_share": 0.9217284957,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6518.jpg"
     }
   },
   {
     "person_id": "psp:person:7045",
-    "vote_events_total": 2451,
-    "present": 1915,
-    "absent": 536,
+    "vote_events_total": 2453,
+    "present": 1916,
+    "absent": 537,
     "name": "Petr Sokol",
     "given_names": [
       "Petr"
@@ -6000,16 +6000,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7813137495,
+    "present_share": 0.7810843865,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7045.jpg"
     }
   },
   {
     "person_id": "psp:person:6490",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2234,
-    "absent": 217,
+    "absent": 219,
     "name": "Petr Vrána",
     "given_names": [
       "Petr"
@@ -6037,15 +6037,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9114647083,
+    "present_share": 0.9107215654,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6490.jpg"
     }
   },
   {
     "person_id": "psp:person:6508",
-    "vote_events_total": 2451,
-    "present": 1891,
+    "vote_events_total": 2453,
+    "present": 1893,
     "absent": 560,
     "name": "Radek Koten",
     "given_names": [
@@ -6074,16 +6074,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7715218278,
+    "present_share": 0.7717081125,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6508.jpg"
     }
   },
   {
     "person_id": "psp:person:6165",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2029,
-    "absent": 422,
+    "absent": 424,
     "name": "Radek Vondráček",
     "given_names": [
       "Radek"
@@ -6111,16 +6111,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8278253774,
+    "present_share": 0.827150428,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6165.jpg"
     }
   },
   {
     "person_id": "psp:person:5459",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1860,
-    "absent": 591,
+    "absent": 593,
     "name": "Radim Fiala",
     "given_names": [
       "Radim"
@@ -6148,15 +6148,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.758873929,
+    "present_share": 0.7582551977,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5459.jpg"
     }
   },
   {
     "person_id": "psp:person:6770",
-    "vote_events_total": 2451,
-    "present": 2248,
+    "vote_events_total": 2453,
+    "present": 2250,
     "absent": 203,
     "name": "Renata Oulehlová",
     "given_names": [
@@ -6185,15 +6185,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9171766626,
+    "present_share": 0.9172441908,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6770.jpg"
     }
   },
   {
     "person_id": "psp:person:7054",
-    "vote_events_total": 2451,
-    "present": 2048,
+    "vote_events_total": 2453,
+    "present": 2050,
     "absent": 403,
     "name": "Renata Vesecká",
     "given_names": [
@@ -6222,16 +6222,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8355773154,
+    "present_share": 0.8357113738,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7054.jpg"
     }
   },
   {
     "person_id": "psp:person:6793",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1691,
-    "absent": 760,
+    "absent": 762,
     "name": "Renáta Zajíčková",
     "given_names": [
       "Renáta"
@@ -6259,7 +6259,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6899224806,
+    "present_share": 0.6893599674,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6793.jpg"
     }
@@ -6306,8 +6306,8 @@
   },
   {
     "person_id": "psp:person:6509",
-    "vote_events_total": 2451,
-    "present": 1841,
+    "vote_events_total": 2453,
+    "present": 1843,
     "absent": 610,
     "name": "Robert Králíček",
     "given_names": [
@@ -6336,16 +6336,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.751121991,
+    "present_share": 0.7513249083,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6509.jpg"
     }
   },
   {
     "person_id": "psp:person:6549",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 914,
-    "absent": 1537,
+    "absent": 1539,
     "name": "Robert Plaga",
     "given_names": [
       "Robert"
@@ -6373,15 +6373,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.3729090167,
+    "present_share": 0.3726049735,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6549.jpg"
     }
   },
   {
     "person_id": "psp:person:6743",
-    "vote_events_total": 2451,
-    "present": 2416,
+    "vote_events_total": 2453,
+    "present": 2418,
     "absent": 35,
     "name": "Robert Stržínek",
     "given_names": [
@@ -6410,15 +6410,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9857201142,
+    "present_share": 0.985731757,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6743.jpg"
     }
   },
   {
     "person_id": "psp:person:6215",
-    "vote_events_total": 2451,
-    "present": 2387,
+    "vote_events_total": 2453,
+    "present": 2389,
     "absent": 64,
     "name": "Roman Kubíček",
     "given_names": [
@@ -6447,7 +6447,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9738882089,
+    "present_share": 0.9739094986,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6215.jpg"
     }
@@ -6494,9 +6494,9 @@
   },
   {
     "person_id": "psp:person:6786",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2039,
-    "absent": 412,
+    "absent": 414,
     "name": "Róbert Teleky",
     "given_names": [
       "Róbert"
@@ -6524,15 +6524,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8319053448,
+    "present_share": 0.8312270689,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6786.jpg"
     }
   },
   {
     "person_id": "psp:person:7057",
-    "vote_events_total": 2451,
-    "present": 1939,
+    "vote_events_total": 2453,
+    "present": 1941,
     "absent": 512,
     "name": "Samuel Volpe",
     "given_names": [
@@ -6561,16 +6561,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7911056712,
+    "present_share": 0.7912759886,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7057.jpg"
     }
   },
   {
     "person_id": "psp:person:6451",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1992,
-    "absent": 459,
+    "absent": 461,
     "name": "Stanislav Fridrich",
     "given_names": [
       "Stanislav"
@@ -6598,15 +6598,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8127294982,
+    "present_share": 0.8120668569,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6451.jpg"
     }
   },
   {
     "person_id": "psp:person:6468",
-    "vote_events_total": 2451,
-    "present": 2360,
+    "vote_events_total": 2453,
+    "present": 2362,
     "absent": 91,
     "name": "Taťána Malá",
     "given_names": [
@@ -6635,16 +6635,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.962872297,
+    "present_share": 0.9629025683,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6468.jpg"
     }
   },
   {
     "person_id": "psp:person:6555",
-    "vote_events_total": 2451,
-    "present": 1812,
-    "absent": 639,
+    "vote_events_total": 2453,
+    "present": 1813,
+    "absent": 640,
     "name": "Tom Philipp",
     "given_names": [
       "Tom"
@@ -6672,15 +6672,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7392900857,
+    "present_share": 0.7390949857,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6555.jpg"
     }
   },
   {
     "person_id": "psp:person:6105",
-    "vote_events_total": 2451,
-    "present": 2209,
+    "vote_events_total": 2453,
+    "present": 2211,
     "absent": 242,
     "name": "Tomio Okamura",
     "given_names": [
@@ -6709,15 +6709,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9012647899,
+    "present_share": 0.9013452915,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6105.jpg"
     }
   },
   {
     "person_id": "psp:person:7001",
-    "vote_events_total": 2451,
-    "present": 2433,
+    "vote_events_total": 2453,
+    "present": 2435,
     "absent": 18,
     "name": "Tomáš Doležal",
     "given_names": [
@@ -6746,15 +6746,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9926560588,
+    "present_share": 0.9926620465,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7001.jpg"
     }
   },
   {
     "person_id": "psp:person:6756",
-    "vote_events_total": 2451,
-    "present": 2424,
+    "vote_events_total": 2453,
+    "present": 2426,
     "absent": 27,
     "name": "Tomáš Helebrant",
     "given_names": [
@@ -6783,16 +6783,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9889840881,
+    "present_share": 0.9889930697,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6756.jpg"
     }
   },
   {
     "person_id": "psp:person:6506",
-    "vote_events_total": 2451,
-    "present": 2297,
-    "absent": 154,
+    "vote_events_total": 2453,
+    "present": 2298,
+    "absent": 155,
     "name": "Tomáš Kohoutek",
     "given_names": [
       "Tomáš"
@@ -6820,15 +6820,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9371685027,
+    "present_share": 0.9368120669,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6506.jpg"
     }
   },
   {
     "person_id": "psp:person:7051",
-    "vote_events_total": 2451,
-    "present": 1977,
+    "vote_events_total": 2453,
+    "present": 1979,
     "absent": 474,
     "name": "Vendula Svobodová",
     "given_names": [
@@ -6857,15 +6857,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8066095471,
+    "present_share": 0.8067672238,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7051.jpg"
     }
   },
   {
     "person_id": "psp:person:7013",
-    "vote_events_total": 2451,
-    "present": 2110,
+    "vote_events_total": 2453,
+    "present": 2112,
     "absent": 341,
     "name": "Veronika Kovářová",
     "given_names": [
@@ -6894,15 +6894,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.860873113,
+    "present_share": 0.8609865471,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7013.jpg"
     }
   },
   {
     "person_id": "psp:person:7012",
-    "vote_events_total": 2451,
-    "present": 2337,
+    "vote_events_total": 2453,
+    "present": 2339,
     "absent": 114,
     "name": "Vladimír Kolek",
     "given_names": [
@@ -6931,15 +6931,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9534883721,
+    "present_share": 0.9535262943,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7012.jpg"
     }
   },
   {
     "person_id": "psp:person:7034",
-    "vote_events_total": 2451,
-    "present": 1508,
+    "vote_events_total": 2453,
+    "present": 1510,
     "absent": 943,
     "name": "Vladimír Pikora",
     "given_names": [
@@ -6968,15 +6968,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6152590779,
+    "present_share": 0.615572768,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7034.jpg"
     }
   },
   {
     "person_id": "psp:person:7066",
-    "vote_events_total": 2449,
-    "present": 2442,
+    "vote_events_total": 2451,
+    "present": 2444,
     "absent": 7,
     "name": "Vlastimil Hebr",
     "given_names": [
@@ -7005,15 +7005,15 @@
         "since": "2025-11-03"
       }
     ],
-    "present_share": 0.9971416905,
+    "present_share": 0.9971440228,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7066.jpg"
     }
   },
   {
     "person_id": "psp:person:6482",
-    "vote_events_total": 2451,
-    "present": 1673,
+    "vote_events_total": 2453,
+    "present": 1675,
     "absent": 778,
     "name": "Vlastimil Válek",
     "given_names": [
@@ -7042,15 +7042,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6825785394,
+    "present_share": 0.682837342,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6482.jpg"
     }
   },
   {
     "person_id": "psp:person:7017",
-    "vote_events_total": 2451,
-    "present": 1539,
+    "vote_events_total": 2453,
+    "present": 1541,
     "absent": 912,
     "name": "Vojtěch Krňanský",
     "given_names": [
@@ -7079,16 +7079,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6279069767,
+    "present_share": 0.6282103547,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7017.jpg"
     }
   },
   {
     "person_id": "psp:person:6486",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1740,
-    "absent": 711,
+    "absent": 713,
     "name": "Vojtěch Munzar",
     "given_names": [
       "Vojtěch"
@@ -7116,16 +7116,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7099143207,
+    "present_share": 0.7093355075,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6486.jpg"
     }
   },
   {
     "person_id": "psp:person:7036",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 2182,
-    "absent": 269,
+    "absent": 271,
     "name": "Václav Pláteník",
     "given_names": [
       "Václav"
@@ -7153,15 +7153,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.890248878,
+    "present_share": 0.889523033,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7036.jpg"
     }
   },
   {
     "person_id": "psp:person:7053",
-    "vote_events_total": 2451,
-    "present": 2084,
+    "vote_events_total": 2453,
+    "present": 2086,
     "absent": 367,
     "name": "Václav Trojan",
     "given_names": [
@@ -7190,16 +7190,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8502651979,
+    "present_share": 0.8503872809,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7053.jpg"
     }
   },
   {
     "person_id": "psp:person:6524",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1516,
-    "absent": 935,
+    "absent": 937,
     "name": "Vít Rakušan",
     "given_names": [
       "Vít"
@@ -7227,15 +7227,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.6185230518,
+    "present_share": 0.6180187525,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6524.jpg"
     }
   },
   {
     "person_id": "psp:person:7039",
-    "vote_events_total": 2451,
-    "present": 2218,
+    "vote_events_total": 2453,
+    "present": 2220,
     "absent": 233,
     "name": "Vítězslav Schrek",
     "given_names": [
@@ -7264,16 +7264,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9049367605,
+    "present_share": 0.9050142682,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7039.jpg"
     }
   },
   {
     "person_id": "psp:person:6254",
-    "vote_events_total": 2451,
-    "present": 2284,
-    "absent": 167,
+    "vote_events_total": 2453,
+    "present": 2285,
+    "absent": 168,
     "name": "Věra Adámková",
     "given_names": [
       "Věra"
@@ -7301,15 +7301,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9318645451,
+    "present_share": 0.9315124338,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6254.jpg"
     }
   },
   {
     "person_id": "psp:person:6214",
-    "vote_events_total": 2451,
-    "present": 2037,
+    "vote_events_total": 2453,
+    "present": 2039,
     "absent": 414,
     "name": "Věra Kovářová",
     "given_names": [
@@ -7338,16 +7338,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8310893513,
+    "present_share": 0.8312270689,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6214.jpg"
     }
   },
   {
     "person_id": "psp:person:7008",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1988,
-    "absent": 463,
+    "absent": 465,
     "name": "Zdena Kašparová",
     "given_names": [
       "Zdena"
@@ -7375,16 +7375,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8110975112,
+    "present_share": 0.8104362006,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7008.jpg"
     }
   },
   {
     "person_id": "psp:person:6804",
-    "vote_events_total": 2451,
-    "present": 1434,
-    "absent": 1017,
+    "vote_events_total": 2453,
+    "present": 1435,
+    "absent": 1018,
     "name": "Zdenka Němečková Crkvenjaš",
     "given_names": [
       "Zdenka"
@@ -7412,15 +7412,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5850673195,
+    "present_share": 0.5849979617,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6804.jpg"
     }
   },
   {
     "person_id": "psp:person:6552",
-    "vote_events_total": 2451,
-    "present": 1807,
+    "vote_events_total": 2453,
+    "present": 1809,
     "absent": 644,
     "name": "Zdeněk Hřib",
     "given_names": [
@@ -7449,15 +7449,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.737250102,
+    "present_share": 0.7374643294,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6552.jpg"
     }
   },
   {
     "person_id": "psp:person:6992",
-    "vote_events_total": 2451,
-    "present": 2039,
+    "vote_events_total": 2453,
+    "present": 2041,
     "absent": 412,
     "name": "Zdeňka Blišťanová",
     "given_names": [
@@ -7486,16 +7486,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.8319053448,
+    "present_share": 0.8320423971,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6992.jpg"
     }
   },
   {
     "person_id": "psp:person:6467",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1424,
-    "absent": 1027,
+    "absent": 1029,
     "name": "Zuzana Majerová",
     "given_names": [
       "Zuzana"
@@ -7523,15 +7523,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.5809873521,
+    "present_share": 0.5805136567,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6467.jpg"
     }
   },
   {
     "person_id": "psp:person:7040",
-    "vote_events_total": 2451,
-    "present": 1872,
+    "vote_events_total": 2453,
+    "present": 1874,
     "absent": 579,
     "name": "Zuzana Mrázová",
     "given_names": [
@@ -7560,15 +7560,15 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7637698898,
+    "present_share": 0.7639624949,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7040.jpg"
     }
   },
   {
     "person_id": "psp:person:6474",
-    "vote_events_total": 2451,
-    "present": 2431,
+    "vote_events_total": 2453,
+    "present": 2433,
     "absent": 20,
     "name": "Zuzana Ožanová",
     "given_names": [
@@ -7597,16 +7597,16 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.9918400653,
+    "present_share": 0.9918467183,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6474.jpg"
     }
   },
   {
     "person_id": "psp:person:7043",
-    "vote_events_total": 2451,
+    "vote_events_total": 2453,
     "present": 1862,
-    "absent": 589,
+    "absent": 591,
     "name": "Štěpán Slovák",
     "given_names": [
       "Štěpán"
@@ -7634,7 +7634,7 @@
         "since": "2025-10-04"
       }
     ],
-    "present_share": 0.7596899225,
+    "present_share": 0.7590705259,
     "extras": {
       "image": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7043.jpg"
     }
